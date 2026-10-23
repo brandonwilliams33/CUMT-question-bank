@@ -1,0 +1,1197 @@
+[
+  {
+    "id": "communication-001",
+    "chapter": "1.1 人际沟通是交流信息的过程",
+    "type": "single",
+    "stem": "沟通能力在现代社会被称为宝贵的()。",
+    "options": {
+      "A": "高学历",
+      "B": "判断力",
+      "C": "软实力",
+      "D": "控制力"
+    },
+    "answer": [
+      "C"
+    ],
+    "note": "原材料首个选项省略 A 标签，按选项顺序补齐。"
+  },
+  {
+    "id": "communication-002",
+    "chapter": "1.1 人际沟通是交流信息的过程",
+    "type": "judge",
+    "stem": "沟通可以看作是一门技能,但不能说它是一门艺术。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-003",
+    "chapter": "1.1 人际沟通是交流信息的过程",
+    "type": "judge",
+    "stem": "人际沟通是交流信息的过程,沟通是一个循环的过程。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-004",
+    "chapter": "1.2 人际沟通是有目的的活动",
+    "type": "single",
+    "stem": "人际沟通要实现的目的不包括()。",
+    "options": {
+      "A": "学习知识",
+      "B": "建立关系",
+      "C": "发挥影响",
+      "D": "控制他人"
+    },
+    "answer": [
+      "D"
+    ],
+    "note": "原材料首个选项省略 A 标签，按选项顺序补齐。"
+  },
+  {
+    "id": "communication-005",
+    "chapter": "1.2 人际沟通是有目的的活动",
+    "type": "judge",
+    "stem": "人际沟通活动具有劝说的性质。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-006",
+    "chapter": "1.2 人际沟通是有目的的活动",
+    "type": "judge",
+    "stem": "丹尼尔戈尔曼认为若要获得成功,复杂的思考、沟通和社交技能通常与传统的智商或者职业技能同等重要。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-007",
+    "chapter": "1.3 沟通有多种形式",
+    "type": "single",
+    "stem": "确保网络在线交流的安全性,需注意()。",
+    "options": {
+      "A": "保护好个人信息",
+      "B": "不要轻信网络上的朋友信息资料",
+      "C": "不要轻易将网友过渡到现实中",
+      "D": "以上都是"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "communication-008",
+    "chapter": "1.3 沟通有多种形式",
+    "type": "single",
+    "stem": "关于面对面交流的现象,表述正确的是()。",
+    "options": {
+      "A": "面对面交流时经常使用缩略语",
+      "B": "说话时间没有一定的限制",
+      "C": "面对面交流的对象是有机会遇见的人",
+      "D": "通过面对面交流可以很快找到志趣相投的人"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-009",
+    "chapter": "1.3 沟通有多种形式",
+    "type": "judge",
+    "stem": "在线交流沟通的渠道最基本的除文字外,还有语音、视频。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-010",
+    "chapter": "1.3 沟通有多种形式",
+    "type": "judge",
+    "stem": "面对面交流的一个特征是沟通双方在同一时间和地点,信息传递同时进行。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-011",
+    "chapter": "2.1 沟通中潜在的需要",
+    "type": "single",
+    "stem": "《潜在的劝说者》中提出频繁应用于产品销售中的迫切需要有()种。",
+    "options": {
+      "A": "五",
+      "B": "六",
+      "C": "七",
+      "D": "八"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "communication-012",
+    "chapter": "2.1 沟通中潜在的需要",
+    "type": "judge",
+    "stem": "《潜在的劝说者》作者是万斯帕卡德。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-013",
+    "chapter": "2.1 沟通中潜在的需要",
+    "type": "judge",
+    "stem": "在沟通中应该了解沟通对象,做到知彼,但同时也要知己。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-014",
+    "chapter": "2.2 信息是一个结合体",
+    "type": "single",
+    "stem": "关于非语言信息的理解,错误的是()。",
+    "options": {
+      "A": "非语言信息可以控制语言信息",
+      "B": "非语言信息补充着语言信息的容量",
+      "C": "非语言信息是无法替代语言信息的",
+      "D": "语言信息和非语言信息可以互相强调"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-015",
+    "chapter": "2.2 信息是一个结合体",
+    "type": "judge",
+    "stem": "保持语言信息和非语言信息的巧妙搭配组织才能使信息成功的传递出去。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-016",
+    "chapter": "2.2 信息是一个结合体",
+    "type": "judge",
+    "stem": "人际交流中的语言信息和非语言信息并不是同时发出的。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-017",
+    "chapter": "2.3 信息的意义因人而异",
+    "type": "single",
+    "stem": "在沟通漏斗中提到,一个人虽然心里想的是100%,但用语言说出来的只有()。",
+    "options": {
+      "A": "50%",
+      "B": "60%",
+      "C": "70%",
+      "D": "80%"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "communication-018",
+    "chapter": "2.3 信息的意义因人而异",
+    "type": "judge",
+    "stem": "在交际中传递的所有信息其实都有一定程度的模糊性。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-019",
+    "chapter": "2.3 信息的意义因人而异",
+    "type": "judge",
+    "stem": "在表达时,如果忽略信息意义因人而异的特性,会出现交流障碍。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-020",
+    "chapter": "2.4 信息可以表达不同程度的礼貌",
+    "type": "single",
+    "stem": "()是指不礼貌的限定沟通对象接受的信息。",
+    "options": {
+      "A": "消极性",
+      "B": "积极性",
+      "C": "排他性",
+      "D": "包容性"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-021",
+    "chapter": "2.4 信息可以表达不同程度的礼貌",
+    "type": "judge",
+    "stem": "希望自主选择做感兴趣的事,就是积极面子。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-022",
+    "chapter": "2.4 信息可以表达不同程度的礼貌",
+    "type": "judge",
+    "stem": "交流时刻注意礼貌是一个很重要的沟通技巧。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-023",
+    "chapter": "3.1 自信地交流",
+    "type": "single",
+    "stem": "通过()可以提高沟通技巧。",
+    "options": {
+      "A": "表演和学习",
+      "B": "演讲和训练",
+      "C": "训练和实践",
+      "D": "学习和实践"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "communication-024",
+    "chapter": "3.1 自信地交流",
+    "type": "judge",
+    "stem": "“牢骚太盛防肠断,风物长宜放眼量。”是毛泽东的诗句。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-025",
+    "chapter": "3.1 自信地交流",
+    "type": "judge",
+    "stem": "沟通中不敢开口时比较近便的方法是摆事实,并发表一些评论。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-026",
+    "chapter": "3.2 保持良好情绪，避免以偏概全",
+    "type": "single",
+    "stem": "《安慰》的作者是()。",
+    "options": {
+      "A": "毛泽东",
+      "B": "海子",
+      "C": "顾城",
+      "D": "北岛"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-027",
+    "chapter": "3.2 保持良好情绪，避免以偏概全",
+    "type": "judge",
+    "stem": "遇到不理解的事情不要冒然下结论。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-028",
+    "chapter": "3.2 保持良好情绪，避免以偏概全",
+    "type": "judge",
+    "stem": "初次见面第一印象很重要,而且一般比较准确。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-029",
+    "chapter": "3.3 区分事实与推论，按照事实描述",
+    "type": "judge",
+    "stem": "在与人沟通时恰当的比分也会说服别人,收到事半功倍的效果。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-030",
+    "chapter": "3.3 区分事实与推论，按照事实描述",
+    "type": "judge",
+    "stem": "在交际沟通中避免推论性的陈述,如果对方跟自己很熟则是可以的。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-031",
+    "chapter": "3.3 区分事实与推论，按照事实描述",
+    "type": "judge",
+    "stem": "在鼓励孩子时说一些超现实、涵盖多种可能的话会有很好的效果。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-032",
+    "chapter": "3.4 真诚赞美和谨慎评价",
+    "type": "single",
+    "stem": "以下()属于批评别人时恰当的方式。",
+    "options": {
+      "A": "举出对方错误,不必给对方辩解的机会，",
+      "B": "要回顾以往事件,让对方感到羞耻",
+      "C": "对事不对人,避免人格攻击",
+      "D": "确保表情非常严肃,声音严厉"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-033",
+    "chapter": "3.4 真诚赞美和谨慎评价",
+    "type": "single",
+    "stem": "以下出自《孙子兵法》的话是()。",
+    "options": {
+      "A": "静坐常思己过,闲谈莫论人非",
+      "B": "世界上不缺少美 缺少的是发现",
+      "C": "己所不欲勿施于人",
+      "D": "主不可因怒而兴师,将不可以愠而致战"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "communication-034",
+    "chapter": "3.4 真诚赞美和谨慎评价",
+    "type": "single",
+    "stem": "“三明治”式的表达方法,中间那层代表()。",
+    "options": {
+      "A": "赞美",
+      "B": "期待",
+      "C": "批评",
+      "D": "讽刺"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-035",
+    "chapter": "3.4 真诚赞美和谨慎评价",
+    "type": "judge",
+    "stem": "在赞美别人时切勿使用“我”的信息,以代表个人意见。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-036",
+    "chapter": "3.4 真诚赞美和谨慎评价",
+    "type": "judge",
+    "stem": "赞美别人时要考虑文化因素。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-037",
+    "chapter": "3.5 不断学习，动态评价",
+    "type": "single",
+    "stem": "独孤求败在四十不惑之时用的剑是()。",
+    "options": {
+      "A": "锋锐无匹",
+      "B": "木剑",
+      "C": "紫薇软剑",
+      "D": "玄铁重剑"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "communication-038",
+    "chapter": "3.5 不断学习，动态评价",
+    "type": "judge",
+    "stem": "对他人的评价不能一成不变地静态评估,要随世界的变化而变化。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-039",
+    "chapter": "3.5 不断学习，动态评价",
+    "type": "judge",
+    "stem": "德摩斯梯尼是罗马著名的演说家。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-040",
+    "chapter": "4.1 身体姿势",
+    "type": "single",
+    "stem": "心理学家研究表示,一个信息如果看作100%,那么表情动作占()。",
+    "options": {
+      "A": "20%",
+      "B": "35%",
+      "C": "45%",
+      "D": "55%"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "communication-041",
+    "chapter": "4.1 身体姿势",
+    "type": "single",
+    "stem": "下列不属于身体姿势的是()。",
+    "options": {
+      "A": "手势",
+      "B": "表演",
+      "C": "眼势",
+      "D": "下意识动作"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-042",
+    "chapter": "4.1 身体姿势",
+    "type": "judge",
+    "stem": "非语言信息的沟通所传递的信息要比语言信息丰富。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-043",
+    "chapter": "4.1 身体姿势",
+    "type": "judge",
+    "stem": "OK的姿势在法国代表“三个”。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-044",
+    "chapter": "4.2 表情交流",
+    "type": "single",
+    "stem": "下列属于管理、控制表情的手段是()。",
+    "options": {
+      "A": "强化",
+      "B": "压抑",
+      "C": "掩饰",
+      "D": "以上都是"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "communication-045",
+    "chapter": "4.2 表情交流",
+    "type": "single",
+    "stem": "研究表明人们的表情交流至少可以表达高兴、悲伤等()种情感。",
+    "options": {
+      "A": "六",
+      "B": "七",
+      "C": "八",
+      "D": "九"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-046",
+    "chapter": "4.2 表情交流",
+    "type": "judge",
+    "stem": "假装是表达自己根本没有的情感,这个不算控制表情的一种手段。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-047",
+    "chapter": "4.2 表情交流",
+    "type": "judge",
+    "stem": "通过表情交流可以表达恶心、轻视的情感。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-048",
+    "chapter": "4.3 眼神交流",
+    "type": "single",
+    "stem": "通过眼神的接触,可以()。",
+    "options": {
+      "A": "观察反馈",
+      "B": "吸引注意",
+      "C": "调控讲话",
+      "D": "以上都对"
+    },
+    "answer": [
+      "D"
+    ]
+  },
+  {
+    "id": "communication-049",
+    "chapter": "4.3 眼神交流",
+    "type": "judge",
+    "stem": "沟通交流中注视时间、方向的不同,代表传达的信息也不同。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-050",
+    "chapter": "4.3 眼神交流",
+    "type": "judge",
+    "stem": "通过眼神的接触,是无法界定关系的。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-051",
+    "chapter": "4.4 身体接触",
+    "type": "single",
+    "stem": "彼此身体接触频率升高,是在交往的()。",
+    "options": {
+      "A": "关系恶化的阶段",
+      "B": "关系稳定的阶段",
+      "C": "共处亲密阶段",
+      "D": "发展关系之初"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-052",
+    "chapter": "4.4 身体接触",
+    "type": "judge",
+    "stem": "在泰国摸别人的头,寓意着被摸的对象会好运到来。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-053",
+    "chapter": "4.4 身体接触",
+    "type": "judge",
+    "stem": "人际关系的不同阶段身体接触的程度是不一样的。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-054",
+    "chapter": "4.5 空间信息",
+    "type": "single",
+    "stem": "兄弟、好朋友之间拥抱一般不接触身体的哪一部位?",
+    "options": {
+      "A": "手",
+      "B": "脸",
+      "C": "胯",
+      "D": "脚"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-055",
+    "chapter": "4.5 空间信息",
+    "type": "multiple",
+    "stem": "空间距离可以分为哪几类?",
+    "options": {
+      "A": "亲密距离",
+      "B": "私人距离",
+      "C": "社交距离",
+      "D": "公共距离"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "communication-056",
+    "chapter": "4.5 空间信息",
+    "type": "judge",
+    "stem": "人们在社交中,依据人际关系和情境的需要,与他人保持的空间距离,是无形的空间圈。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-057",
+    "chapter": "4.5 空间信息",
+    "type": "judge",
+    "stem": "爱德华霍尔最早提出“空间关系学。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-058",
+    "chapter": "4.5 空间信息",
+    "type": "judge",
+    "stem": "私人距离适用于陌生人之间。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-059",
+    "chapter": "4.5 空间信息",
+    "type": "judge",
+    "stem": "关系越好,距离越小;关系越差,距离越远。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-060",
+    "chapter": "4.5 空间信息",
+    "type": "judge",
+    "stem": "人际距离可以调整亲密程度。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-061",
+    "chapter": "4.6 衣着和身体饰物",
+    "type": "single",
+    "stem": "()可以影响人体的化学反应,进而影响人的而情绪状态。",
+    "options": {
+      "A": "表情",
+      "B": "动作",
+      "C": "气味",
+      "D": "语言"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-062",
+    "chapter": "4.6 衣着和身体饰物",
+    "type": "multiple",
+    "stem": "利用气味可以传达下列哪些信息?",
+    "options": {
+      "A": "吸引",
+      "B": "品味",
+      "C": "记忆",
+      "D": "身份识别"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": "communication-063",
+    "chapter": "4.6 衣着和身体饰物",
+    "type": "judge",
+    "stem": "人们普遍认为具有吸引力的人拥有更多的智慧、才能、魅力以及社交能力。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-064",
+    "chapter": "4.6 衣着和身体饰物",
+    "type": "judge",
+    "stem": "衣服最重要的是整洁,还要符合年龄特征、社会身份。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-065",
+    "chapter": "4.6 衣着和身体饰物",
+    "type": "judge",
+    "stem": "纹身可能会影响别人对自己的判断,所以应该慎重。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-066",
+    "chapter": "4.6 衣着和身体饰物",
+    "type": "judge",
+    "stem": "同气相求，指的是共同志趣的人会走到一起。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-067",
+    "chapter": "5.1 引言",
+    "type": "judge",
+    "stem": "表示尊重是倾听的一个重要作用。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-068",
+    "chapter": "5.1 引言",
+    "type": "judge",
+    "stem": "倾听的步骤可以重叠进行。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-069",
+    "chapter": "5.1 引言",
+    "type": "judge",
+    "stem": "在倾听他人说话时可以遵循“一二三法则”,给予对方适当的回应。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-070",
+    "chapter": "5.2 移情倾听和客观倾听",
+    "type": "judge",
+    "stem": "移情倾听是指需要理解说话人的意思和感受,那带着某种程度的“共鸣”去倾听。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-071",
+    "chapter": "5.2 移情倾听和客观倾听",
+    "type": "judge",
+    "stem": "在平时的沟通中应该避免“冒犯性倾听”,但可以采用“期待性倾听”",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-072",
+    "chapter": "5.3 表层倾听和深层倾听",
+    "type": "multiple",
+    "stem": "倾听时应注意()信息和()信息。",
+    "options": {
+      "A": "内容",
+      "B": "关系",
+      "C": "动作",
+      "D": "表情"
+    },
+    "answer": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "communication-073",
+    "chapter": "5.3 表层倾听和深层倾听",
+    "type": "judge",
+    "stem": "表层倾听,了解信息中最明显的意思;深层倾听,会揭示另一层甚至是更重要的意思。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-074",
+    "chapter": "5.3 表层倾听和深层倾听",
+    "type": "judge",
+    "stem": "说话者的自我陈述不重要,不需要关注。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-075",
+    "chapter": "5.4 积极倾听和消极倾听",
+    "type": "judge",
+    "stem": "让说话者知道你已经承认或者接受他的感受,被接纳包容的情况下,双方才能继续沟通。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-076",
+    "chapter": "5.4 积极倾听和消极倾听",
+    "type": "judge",
+    "stem": "彼此倾听可以使说话者进一步理清自己的想法和情感,不去倾听只会加深误解,激化矛盾,失去解决问题的宝贵机会。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-077",
+    "chapter": "5.4 积极倾听和消极倾听",
+    "type": "judge",
+    "stem": "同一个信息,听到的人有差不多的解释。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-078",
+    "chapter": "6.1 我们需要陌生贵人",
+    "type": "judge",
+    "stem": "我们应该用崭新的眼光去看待那些在生活中看似不重要的人。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-079",
+    "chapter": "6.1 我们需要陌生贵人",
+    "type": "judge",
+    "stem": "熟悉的陌生人指的是就在我们身边但是没有互动的人。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-080",
+    "chapter": "6.1 我们需要陌生贵人",
+    "type": "judge",
+    "stem": "陌生贵人强化和丰富着我们的生活,给予我们信息和体验新事物的机会。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-081",
+    "chapter": "6.2 与身边贵人的沟通障碍",
+    "type": "single",
+    "stem": "将崇拜的人视为完美,于是不敢接触是一种()。",
+    "options": {
+      "A": "地域偏见",
+      "B": "刻板效应",
+      "C": "晕轮效应",
+      "D": "性别偏见"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": "communication-082",
+    "chapter": "6.2 与身边贵人的沟通障碍",
+    "type": "judge",
+    "stem": "每个人都有自己的个性差别。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-083",
+    "chapter": "6.2 与身边贵人的沟通障碍",
+    "type": "judge",
+    "stem": "我们应该提倡“双性认同”。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-084",
+    "chapter": "6.3 与身边贵人的有效沟通",
+    "type": "multiple",
+    "stem": "与人沟通应该做好()和()准备。",
+    "options": {
+      "A": "语言",
+      "B": "心理",
+      "C": "技巧",
+      "D": "话题"
+    },
+    "answer": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "communication-085",
+    "chapter": "6.3 与身边贵人的有效沟通",
+    "type": "judge",
+    "stem": "介于阳光社交和黑色社交之间,在沟通交往中感情用事,跟着感觉走,不相信有什么沟通技巧是黑色社交。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": "communication-086",
+    "chapter": "6.3 与身边贵人的有效沟通",
+    "type": "judge",
+    "stem": "兴趣包括直接兴趣和间接兴趣。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": "communication-087",
+    "chapter": "6.3 与身边贵人的有效沟通",
+    "type": "judge",
+    "stem": "直接兴趣对活动本身兴趣一般,更关注活动的结果。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ]
+  }
+]
