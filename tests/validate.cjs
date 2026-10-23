@@ -22,7 +22,7 @@ for(const [type,count] of [['single',23],['multiple',4],['judge',60]])assert.equ
 for(const mode of ['sequence','random','wrong','star','read','exam']){
   const q=communication.find(q=>q.type==='multiple'),backup=E.blank();
   E.record(backup,q,q.answer);backup.stars=[q.id];
-  backup.sessions.communication={mode,ids:[q.id],index:0,started:Date.now(),deadline:mode==='exam'?Date.now()+1800000:null,submitted:{[q.id]:{answer:q.answer,correct:true}},drafts:{[q.id]:q.answer}};
+  backup.sessions[mode==='sequence'?'communication':'communication:'+mode]={mode,ids:[q.id],index:0,started:Date.now(),deadline:mode==='exam'?Date.now()+1800000:null,submitted:{[q.id]:{answer:q.answer,correct:true}},drafts:{[q.id]:q.answer}};
   const restored=E.validate(JSON.parse(JSON.stringify(backup)),ids);
   assert.deepEqual(restored,backup,`Communication ${mode} session survives reload and backup import`);
 }
