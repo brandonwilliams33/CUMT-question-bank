@@ -1,0 +1,8210 @@
+[
+  {
+    "id": "business-fd-001",
+    "chapter": "1.1 国际商务导论（一）",
+    "type": "single",
+    "stem": "（）是最后加入“金砖国家”称号的国家。",
+    "options": {
+      "A": "中国",
+      "B": "南非",
+      "C": "巴西",
+      "D": "印度"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=1",
+    "sourceLabel": "复旦大学资料第 1 页 · 原第 1 题",
+    "sourcePages": [
+      1
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-002",
+    "chapter": "1.1 国际商务导论（一）",
+    "type": "single",
+    "stem": "下列哪一选项是跨国公司的战略导向？（）",
+    "options": {
+      "A": "国内市场",
+      "B": "国家形象",
+      "C": "利润最大化",
+      "D": "国际市场"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=1",
+    "sourceLabel": "复旦大学资料第 1 页 · 原第 2 题",
+    "sourcePages": [
+      1
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-003",
+    "chapter": "1.1 国际商务导论（一）",
+    "type": "single",
+    "stem": "下列哪一个公司为全球排名第三的飞机制造公司？（）",
+    "options": {
+      "A": "巴西航东工业公司",
+      "B": "加拿大庞巴迪公司",
+      "C": "中国商飞",
+      "D": "美国麦道"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=1",
+    "sourceLabel": "复旦大学资料第 1 页 · 原第 3 题",
+    "sourcePages": [
+      1
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案",
+    "note": "原PDF将公司名称写为“巴西航东工业公司”，疑为原稿文字问题；按原文保留，请打开原件核对。"
+  },
+  {
+    "id": "business-fd-004",
+    "chapter": "1.1 国际商务导论（一）",
+    "type": "single",
+    "stem": "跨国公司这一称谓是从哪年开始被运用的？（）",
+    "options": {
+      "A": "1984 年",
+      "B": "1994 年",
+      "C": "1964 年",
+      "D": "1974 年"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=1",
+    "sourceLabel": "复旦大学资料第 1 页 · 原第 4 题",
+    "sourcePages": [
+      1
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-005",
+    "chapter": "1.1 国际商务导论（一）",
+    "type": "judge",
+    "stem": "截至 2012 年，LDC 国家占据了全球手机 90%以上的新增用户份额。（）。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=1",
+    "sourceLabel": "复旦大学资料第 1 页 · 原第 5 题",
+    "sourcePages": [
+      1
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-006",
+    "chapter": "1.1 国际商务导论（一）",
+    "type": "judge",
+    "stem": "当前世界 500 强公司包括华为公司。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=1",
+    "sourceLabel": "复旦大学资料第 1 页 · 原第 6 题",
+    "sourcePages": [
+      1
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-007",
+    "chapter": "1.2 国际商务导论（二）",
+    "type": "single",
+    "stem": "下列几种贸易形式中，哪种在北美洲的美国增长最快？（）",
+    "options": {
+      "A": "分包",
+      "B": "代理",
+      "C": "许可证贸易",
+      "D": "特许经营"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=1",
+    "sourceLabel": "复旦大学资料第 1 页 · 原第 1 题",
+    "sourcePages": [
+      1,
+      2
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-008",
+    "chapter": "1.2 国际商务导论（二）",
+    "type": "single",
+    "stem": "外国公众认为，中国产品的（）好评度最差。",
+    "options": {
+      "A": "质量",
+      "B": "价格",
+      "C": "品牌和环保",
+      "D": "实用"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=2",
+    "sourceLabel": "复旦大学资料第 2 页 · 原第 2 题",
+    "sourcePages": [
+      2
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-009",
+    "chapter": "1.2 国际商务导论（二）",
+    "type": "single",
+    "stem": "中国公司的（）被国外公众紧盯。",
+    "options": {
+      "A": "产品质量",
+      "B": "售后服务",
+      "C": "环保和人工权益",
+      "D": "以上都有"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=2",
+    "sourceLabel": "复旦大学资料第 2 页 · 原第 3 题",
+    "sourcePages": [
+      2
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-010",
+    "chapter": "1.2 国际商务导论（二）",
+    "type": "single",
+    "stem": "企业之所以要进行国际化经营，其根本原因是要解决（）的问题。",
+    "options": {
+      "A": "寻找新的顾客",
+      "B": "打造核心竞争力",
+      "C": "寻找低成本资源",
+      "D": "开发海外市场"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=2",
+    "sourceLabel": "复旦大学资料第 2 页 · 原第 4 题",
+    "sourcePages": [
+      2
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-011",
+    "chapter": "1.2 国际商务导论（二）",
+    "type": "single",
+    "stem": "（）是产品对东道国当地市场需求适应能力较差的经营战略。",
+    "options": {
+      "A": "一国中心战略",
+      "B": "全球中心战略",
+      "C": "多国中心战略",
+      "D": "本国中心战略"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=2",
+    "sourceLabel": "复旦大学资料第 2 页 · 原第 5 题",
+    "sourcePages": [
+      2
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-012",
+    "chapter": "1.2 国际商务导论（二）",
+    "type": "judge",
+    "stem": "自 2008 年起，中国对外直接投资存量连续 9 年保持连续增长势头。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=2",
+    "sourceLabel": "复旦大学资料第 2 页 · 原第 6 题",
+    "sourcePages": [
+      2
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-013",
+    "chapter": "1.2 国际商务导论（二）",
+    "type": "judge",
+    "stem": "对跨国公司来说，公司越大发展就越好。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=2",
+    "sourceLabel": "复旦大学资料第 2 页 · 原第 7 题",
+    "sourcePages": [
+      2
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-014",
+    "chapter": "1.3 国际商务导论（三）",
+    "type": "single",
+    "stem": "曾经被中断过历史的文化体系是（）。",
+    "options": {
+      "A": "以罗马、希腊为始的西欧文化体系",
+      "B": "希伯来文化体系",
+      "C": "印度文化体系",
+      "D": "中国文化体系"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=2",
+    "sourceLabel": "复旦大学资料第 2 页 · 原第 1 题",
+    "sourcePages": [
+      2,
+      3
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-015",
+    "chapter": "1.3 国际商务导论（三）",
+    "type": "single",
+    "stem": "有一类公司，它需要较多的跨国界价值链协调，但需要较少的新兴市场，这种公司是（）。",
+    "options": {
+      "A": "新兴进出口商",
+      "B": "区域集中型公司",
+      "C": "全球型公司",
+      "D": "跨国界贸易"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=3",
+    "sourceLabel": "复旦大学资料第 3 页 · 原第 2 题",
+    "sourcePages": [
+      3
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-016",
+    "chapter": "1.3 国际商务导论（三）",
+    "type": "single",
+    "stem": "下列选项中，五力关系模型中竞争关系的构成要素不包括（）。",
+    "options": {
+      "A": "竞争者",
+      "B": "潜在竞争者",
+      "C": "替代品",
+      "D": "供应商"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=3",
+    "sourceLabel": "复旦大学资料第 3 页 · 原第 3 题",
+    "sourcePages": [
+      3
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-017",
+    "chapter": "1.3 国际商务导论（三）",
+    "type": "single",
+    "stem": "下列选项中，国际企业的市场环境是（）。",
+    "options": {
+      "A": "国际金融市场",
+      "B": "区域经济一体化",
+      "C": "国际经济组织",
+      "D": "以上都对"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=3",
+    "sourceLabel": "复旦大学资料第 3 页 · 原第 4 题",
+    "sourcePages": [
+      3
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-018",
+    "chapter": "1.3 国际商务导论（三）",
+    "type": "judge",
+    "stem": "有些外币不是外汇。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=3",
+    "sourceLabel": "复旦大学资料第 3 页 · 原第 5 题",
+    "sourcePages": [
+      3
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-019",
+    "chapter": "1.3 国际商务导论（三）",
+    "type": "judge",
+    "stem": "新市场、新工具、新主角和新规则是当前经济全球化的最鲜明特征。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=3",
+    "sourceLabel": "复旦大学资料第 3 页 · 原第 6 题",
+    "sourcePages": [
+      3
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-020",
+    "chapter": "1.3 国际商务导论（三）",
+    "type": "judge",
+    "stem": "国际货币基金组织是世界上最大的多变贸易组织。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=3",
+    "sourceLabel": "复旦大学资料第 3 页 · 原第 7 题",
+    "sourcePages": [
+      3
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-021",
+    "chapter": "1.4 国际商务导论（四）",
+    "type": "single",
+    "stem": "（）在投资全球化中扮演最重要的角色。",
+    "options": {
+      "A": "国际间接投资",
+      "B": "国际直接投资",
+      "C": "有价证券投资",
+      "D": "贵金属投资"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=3",
+    "sourceLabel": "复旦大学资料第 3 页 · 原第 1 题",
+    "sourcePages": [
+      3
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-022",
+    "chapter": "1.4 国际商务导论（四）",
+    "type": "single",
+    "stem": "（）是经济一体化的最高层次。",
+    "options": {
+      "A": "经济共同体",
+      "B": "关税联盟",
+      "C": "自由贸易区",
+      "D": "经济货币联盟"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=3",
+    "sourceLabel": "复旦大学资料第 3 页 · 原第 2 题",
+    "sourcePages": [
+      3,
+      4
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-023",
+    "chapter": "1.4 国际商务导论（四）",
+    "type": "single",
+    "stem": "（）是新经济的内涵。",
+    "options": {
+      "A": "金融化",
+      "B": "服务化",
+      "C": "信息化",
+      "D": "全球化"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=4",
+    "sourceLabel": "复旦大学资料第 4 页 · 原第 3 题",
+    "sourcePages": [
+      4
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-024",
+    "chapter": "1.4 国际商务导论（四）",
+    "type": "single",
+    "stem": "（）是经济全球化的主导力量和主要载体。",
+    "options": {
+      "A": "贸易自由化",
+      "B": "世贸组织",
+      "C": "世界银行",
+      "D": "跨国公司"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=4",
+    "sourceLabel": "复旦大学资料第 4 页 · 原第 4 题",
+    "sourcePages": [
+      4
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-025",
+    "chapter": "1.4 国际商务导论（四）",
+    "type": "judge",
+    "stem": "跨国公司的迅速发展导致了生产和资本的国际化 。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=4",
+    "sourceLabel": "复旦大学资料第 4 页 · 原第 5 题",
+    "sourcePages": [
+      4
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-026",
+    "chapter": "1.4 国际商务导论（四）",
+    "type": "judge",
+    "stem": "生产社会化发展到一定阶段必然引起经济全球化的趋势。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=4",
+    "sourceLabel": "复旦大学资料第 4 页 · 原第 6 题",
+    "sourcePages": [
+      4
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-027",
+    "chapter": "1.5 国际商务导论（五）",
+    "type": "single",
+    "stem": "进口关税的税负最终由（）承担。",
+    "options": {
+      "A": "消费者",
+      "B": "生产商",
+      "C": "进口商",
+      "D": "出口商"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=4",
+    "sourceLabel": "复旦大学资料第 4 页 · 原第 1 题",
+    "sourcePages": [
+      4
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-028",
+    "chapter": "1.5 国际商务导论（五）",
+    "type": "single",
+    "stem": "第三国的（）是指货物生产国与货物消费国通过第三国进行贸易。",
+    "options": {
+      "A": "直接贸易",
+      "B": "多边贸易",
+      "C": "过境贸易",
+      "D": "转口贸易"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=4",
+    "sourceLabel": "复旦大学资料第 4 页 · 原第 2 题",
+    "sourcePages": [
+      4
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-029",
+    "chapter": "1.5 国际商务导论（五）",
+    "type": "single",
+    "stem": "出口补贴通过给予出口商（）优惠待遇来鼓励出口。",
+    "options": {
+      "A": "仅在现金补贴上",
+      "B": "在现金补贴或财政上",
+      "C": "仅在退还进口税上",
+      "D": "仅在财政上"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=4",
+    "sourceLabel": "复旦大学资料第 4 页 · 原第 3 题",
+    "sourcePages": [
+      4,
+      5
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-030",
+    "chapter": "1.5 国际商务导论（五）",
+    "type": "single",
+    "stem": "铁三角地区不包括（）。",
+    "options": {
+      "A": "日本",
+      "B": "北非",
+      "C": "北美",
+      "D": "西欧"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=5",
+    "sourceLabel": "复旦大学资料第 5 页 · 原第 4 题",
+    "sourcePages": [
+      5
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-031",
+    "chapter": "1.5 国际商务导论（五）",
+    "type": "single",
+    "stem": "经济全球化更强调（），相当全球一体化而言。",
+    "options": {
+      "A": "行政上的融合",
+      "B": "政治上的架构",
+      "C": "制度上的设计和安排",
+      "D": "市场的一个过程"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=5",
+    "sourceLabel": "复旦大学资料第 5 页 · 原第 5 题",
+    "sourcePages": [
+      5
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-032",
+    "chapter": "1.5 国际商务导论（五）",
+    "type": "judge",
+    "stem": "经济全球化比全球一体化更强调（）。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=5",
+    "sourceLabel": "复旦大学资料第 5 页 · 原第 6 题",
+    "sourcePages": [
+      5
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-033",
+    "chapter": "1.5 国际商务导论（五）",
+    "type": "judge",
+    "stem": "导致欧盟内部经济动荡的最重要原因是欧债危机，其严重时会将危机波及全球经济。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=5",
+    "sourceLabel": "复旦大学资料第 5 页 · 原第 7 题",
+    "sourcePages": [
+      5
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-034",
+    "chapter": "1.5 国际商务导论（五）",
+    "type": "judge",
+    "stem": "人口多的国家一定可以成为经济大国。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=5",
+    "sourceLabel": "复旦大学资料第 5 页 · 原第 8 题",
+    "sourcePages": [
+      5
+    ],
+    "sourceNumber": 8,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-035",
+    "chapter": "1.6 国际商务导论（六）",
+    "type": "single",
+    "stem": "（）是全球化发展的物质基础。",
+    "options": {
+      "A": "国际金融市场的深化与创新",
+      "B": "跨国公司的经营成果",
+      "C": "新技术革命提供的成果",
+      "D": "全球性的非管制化和市场化政策"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=5",
+    "sourceLabel": "复旦大学资料第 5 页 · 原第 1 题",
+    "sourcePages": [
+      5
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-036",
+    "chapter": "1.6 国际商务导论（六）",
+    "type": "single",
+    "stem": "全球化过程中，技术属于（）的载体。",
+    "options": {
+      "A": "技术",
+      "B": "传媒",
+      "C": "商品",
+      "D": "金融"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=5",
+    "sourceLabel": "复旦大学资料第 5 页 · 原第 2 题",
+    "sourcePages": [
+      5
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-037",
+    "chapter": "1.6 国际商务导论（六）",
+    "type": "single",
+    "stem": "展望五国的成员国不包括（）。",
+    "options": {
+      "A": "越南",
+      "B": "土耳其",
+      "C": "巴西",
+      "D": "阿根廷"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=6",
+    "sourceLabel": "复旦大学资料第 6 页 · 原第 3 题",
+    "sourcePages": [
+      6
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-038",
+    "chapter": "1.6 国际商务导论（六）",
+    "type": "single",
+    "stem": "预期 2006 年到 2020 年，（）是对全球经济增长贡献最大的国家。",
+    "options": {
+      "A": "日本",
+      "B": "中国",
+      "C": "美国",
+      "D": "巴西"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=6",
+    "sourceLabel": "复旦大学资料第 6 页 · 原第 4 题",
+    "sourcePages": [
+      6
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-039",
+    "chapter": "1.6 国际商务导论（六）",
+    "type": "judge",
+    "stem": "新兴市场国家中同样孕育了巨大的商机。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=6",
+    "sourceLabel": "复旦大学资料第 6 页 · 原第 5 题",
+    "sourcePages": [
+      6
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-040",
+    "chapter": "1.6 国际商务导论（六）",
+    "type": "judge",
+    "stem": "绝对成本论属于保护贸易理论。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=6",
+    "sourceLabel": "复旦大学资料第 6 页 · 原第 6 题",
+    "sourcePages": [
+      6
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-041",
+    "chapter": "1.6 国际商务导论（六）",
+    "type": "judge",
+    "stem": "对外贸易额就是世界各国出口贸易额的总和。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=6",
+    "sourceLabel": "复旦大学资料第 6 页 · 原第 7 题",
+    "sourcePages": [
+      6
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-042",
+    "chapter": "1.7 国际商务导论（七）",
+    "type": "single",
+    "stem": "转移核心竞争力的战略是属于如下哪种国际竞争战略？（）",
+    "options": {
+      "A": "全球战略",
+      "B": "多国战略",
+      "C": "国际战略",
+      "D": "跨国战略"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=6",
+    "sourceLabel": "复旦大学资料第 6 页 · 原第 1 题",
+    "sourcePages": [
+      6
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-043",
+    "chapter": "1.7 国际商务导论（七）",
+    "type": "single",
+    "stem": "发明平板电视技术的国家是（）。",
+    "options": {
+      "A": "德国",
+      "B": "美国",
+      "C": "日本",
+      "D": "韩国"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=6",
+    "sourceLabel": "复旦大学资料第 6 页 · 原第 2 题",
+    "sourcePages": [
+      6
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-044",
+    "chapter": "1.7 国际商务导论（七）",
+    "type": "single",
+    "stem": "（）是国际企业追求标准化的根本目的。",
+    "options": {
+      "A": "规模效益",
+      "B": "满足需要",
+      "C": "经济效益",
+      "D": "巨大市场"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=6",
+    "sourceLabel": "复旦大学资料第 6 页 · 原第 3 题",
+    "sourcePages": [
+      6,
+      7
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-045",
+    "chapter": "1.7 国际商务导论（七）",
+    "type": "single",
+    "stem": "（）是全球范围进行资源配置的方式。",
+    "options": {
+      "A": "价值链分解",
+      "B": "全球资源搜寻",
+      "C": "集中地分散",
+      "D": "以上都有"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=7",
+    "sourceLabel": "复旦大学资料第 7 页 · 原第 4 题",
+    "sourcePages": [
+      7
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-046",
+    "chapter": "1.7 国际商务导论（七）",
+    "type": "single",
+    "stem": "（）是全球贸易中附加型关税的主要征收形式。",
+    "options": {
+      "A": "关税",
+      "B": "所得税",
+      "C": "反倾销",
+      "D": "增值税"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=7",
+    "sourceLabel": "复旦大学资料第 7 页 · 原第 5 题",
+    "sourcePages": [
+      7
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-047",
+    "chapter": "1.7 国际商务导论（七）",
+    "type": "judge",
+    "stem": "实行对外开放的国家相对于闭关自守国家，腐败现象不突出。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=7",
+    "sourceLabel": "复旦大学资料第 7 页 · 原第 6 题",
+    "sourcePages": [
+      7
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-048",
+    "chapter": "1.7 国际商务导论（七）",
+    "type": "judge",
+    "stem": "就算是在发达国家，蓝领和非熟练工人也一样反对全球化。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=7",
+    "sourceLabel": "复旦大学资料第 7 页 · 原第 7 题",
+    "sourcePages": [
+      7
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-049",
+    "chapter": "1.8 国际商务导论（八）",
+    "type": "single",
+    "stem": "（）是 IBM 公司的亚太总部所在地。",
+    "options": {
+      "A": "东京",
+      "B": "首尔",
+      "C": "新加坡",
+      "D": "北京"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=7",
+    "sourceLabel": "复旦大学资料第 7 页 · 原第 1 题",
+    "sourcePages": [
+      7
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-050",
+    "chapter": "1.8 国际商务导论（八）",
+    "type": "single",
+    "stem": "（）是市场不完全理论的核心所基于的假设。",
+    "options": {
+      "A": "企业处于不完全的市场条件下",
+      "B": "企业具有全球区位经营观念",
+      "C": "企业具有规模优势",
+      "D": "厂商具有技术优势"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=7",
+    "sourceLabel": "复旦大学资料第 7 页 · 原第 2 题",
+    "sourcePages": [
+      7
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-051",
+    "chapter": "1.8 国际商务导论（八）",
+    "type": "single",
+    "stem": "（）是“公司帝国主义”的终结的标志。",
+    "options": {
+      "A": "第二次工业革命爆发",
+      "B": "新中国成立",
+      "C": "拉美民族独立",
+      "D": "新兴市场的崛起"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=7",
+    "sourceLabel": "复旦大学资料第 7 页 · 原第 3 题",
+    "sourcePages": [
+      7
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-052",
+    "chapter": "1.8 国际商务导论（八）",
+    "type": "single",
+    "stem": "（）用于反映跨国公司经营所涉及的东道国的数量多少。",
+    "options": {
+      "A": "跨国指数",
+      "B": "外向程度比率",
+      "C": "外销比例",
+      "D": "网络分布指数"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=8",
+    "sourceLabel": "复旦大学资料第 8 页 · 原第 4 题",
+    "sourcePages": [
+      8
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-053",
+    "chapter": "1.8 国际商务导论（八）",
+    "type": "single",
+    "stem": "（）是当前对外直接投资的主要手段。",
+    "options": {
+      "A": "资本输出",
+      "B": "跨国并购",
+      "C": "技术支持",
+      "D": "劳务输出"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=8",
+    "sourceLabel": "复旦大学资料第 8 页 · 原第 5 题",
+    "sourcePages": [
+      8
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-054",
+    "chapter": "1.8 国际商务导论（八）",
+    "type": "judge",
+    "stem": "跨国公司的发展模式和战略在动态中并不会不断改变。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=8",
+    "sourceLabel": "复旦大学资料第 8 页 · 原第 6 题",
+    "sourcePages": [
+      8
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-055",
+    "chapter": "1.8 国际商务导论（八）",
+    "type": "judge",
+    "stem": "海外员工数量会影响跨国公司的跨国指数。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=8",
+    "sourceLabel": "复旦大学资料第 8 页 · 原第 7 题",
+    "sourcePages": [
+      8
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-056",
+    "chapter": "1.8 国际商务导论（八）",
+    "type": "judge",
+    "stem": "在上海设立总部的跨国公司，其母公司资产总额不得低于 4 亿美元。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=8",
+    "sourceLabel": "复旦大学资料第 8 页 · 原第 8 题",
+    "sourcePages": [
+      8
+    ],
+    "sourceNumber": 8,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-057",
+    "chapter": "1.9 国际商务导论（九）",
+    "type": "single",
+    "stem": "（）的子公司具备灵活的特点，可以适应不同国家的差异。",
+    "options": {
+      "A": "多国公司",
+      "B": "跨国公司",
+      "C": "国际公司",
+      "D": "全球公司"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=8",
+    "sourceLabel": "复旦大学资料第 8 页 · 原第 1 题",
+    "sourcePages": [
+      8
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-058",
+    "chapter": "1.9 国际商务导论（九）",
+    "type": "single",
+    "stem": "（）是传统跨国公司的模式。",
+    "options": {
+      "A": "国际公司",
+      "B": "多国公司",
+      "C": "全球公司",
+      "D": "以上都有"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=8",
+    "sourceLabel": "复旦大学资料第 8 页 · 原第 2 题",
+    "sourcePages": [
+      8
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-059",
+    "chapter": "1.9 国际商务导论（九）",
+    "type": "single",
+    "stem": "市场导向定价法中预测国外市场价格，是指消费者在观念上所认同的产品价值，也就是（ ）。",
+    "options": {
+      "A": "实际价值",
+      "B": "统一价格",
+      "C": "感受价值",
+      "D": "实际价格"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=8",
+    "sourceLabel": "复旦大学资料第 8 页 · 原第 3 题",
+    "sourcePages": [
+      8,
+      9
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-060",
+    "chapter": "1.9 国际商务导论（九）",
+    "type": "single",
+    "stem": "绝大多数的世界五百强公司都是属于（）。",
+    "options": {
+      "A": "基于东道国区域的跨国公司",
+      "B": "基于母国的跨国公司",
+      "C": "全球化跨国公司",
+      "D": "区域二元化跨国公司"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=9",
+    "sourceLabel": "复旦大学资料第 9 页 · 原第 4 题",
+    "sourcePages": [
+      9
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-061",
+    "chapter": "1.9 国际商务导论（九）",
+    "type": "judge",
+    "stem": "跨国公司必定是全球化公司。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=9",
+    "sourceLabel": "复旦大学资料第 9 页 · 原第 5 题",
+    "sourcePages": [
+      9
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-062",
+    "chapter": "1.9 国际商务导论（九）",
+    "type": "judge",
+    "stem": "对企业有利的利益不一定对国家有利。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=9",
+    "sourceLabel": "复旦大学资料第 9 页 · 原第 6 题",
+    "sourcePages": [
+      9
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-063",
+    "chapter": "1.10 国际商务导论（十）",
+    "type": "single",
+    "stem": "跨国公司和其他一般企业的最基本的区别是（）。",
+    "options": {
+      "A": "跨文化和多元文化",
+      "B": "管理水平先进",
+      "C": "规模大",
+      "D": "实力雄厚"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=9",
+    "sourceLabel": "复旦大学资料第 9 页 · 原第 1 题",
+    "sourcePages": [
+      9
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-064",
+    "chapter": "1.10 国际商务导论（十）",
+    "type": "single",
+    "stem": "（）不属于跨国型企业的战略能力。",
+    "options": {
+      "A": "全球效率",
+      "B": "世界范围的学习能力",
+      "C": "宏观调控能力",
+      "D": "当地回应能力"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=9",
+    "sourceLabel": "复旦大学资料第 9 页 · 原第 2 题",
+    "sourcePages": [
+      9
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-065",
+    "chapter": "1.10 国际商务导论（十）",
+    "type": "single",
+    "stem": "如下哪种说法比较正确描述了跨国公司的特点？（）",
+    "options": {
+      "A": "是企业的一种活动方式",
+      "B": "是商品和劳务的进出口",
+      "C": "是企业的一种组织形式",
+      "D": "是企业的一种活动行为"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=9",
+    "sourceLabel": "复旦大学资料第 9 页 · 原第 3 题",
+    "sourcePages": [
+      9
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-066",
+    "chapter": "1.10 国际商务导论（十）",
+    "type": "judge",
+    "stem": "国际商务决策的难度不可能始终处于理性边界之内。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=9",
+    "sourceLabel": "复旦大学资料第 9 页 · 原第 4 题",
+    "sourcePages": [
+      9
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-067",
+    "chapter": "1.10 国际商务导论（十）",
+    "type": "judge",
+    "stem": "子公司业务的多样化程度可以影响到跨国公司对各个子公司管理方式。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=9",
+    "sourceLabel": "复旦大学资料第 9 页 · 原第 5 题",
+    "sourcePages": [
+      9,
+      10
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-068",
+    "chapter": "2.1 理解政治、法律和经济（一）",
+    "type": "single",
+    "stem": "下列选项中，政治制度类型不包括（）。",
+    "options": {
+      "A": "民主共和制",
+      "B": "部落集权制",
+      "C": "神权集权制",
+      "D": "立宪制"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=10",
+    "sourceLabel": "复旦大学资料第 10 页 · 原第 1 题",
+    "sourcePages": [
+      10
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-069",
+    "chapter": "2.1 理解政治、法律和经济（一）",
+    "type": "single",
+    "stem": "在全球范围内转移核心竞争力的战略是属于如下哪种国际竞争战略？（）",
+    "options": {
+      "A": "多国战略",
+      "B": "跨国战略",
+      "C": "国际战略",
+      "D": "全球战略"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=10",
+    "sourceLabel": "复旦大学资料第 10 页 · 原第 2 题",
+    "sourcePages": [
+      10
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-070",
+    "chapter": "2.1 理解政治、法律和经济（一）",
+    "type": "single",
+    "stem": "关于集权，下列哪种说法不正确？（）",
+    "options": {
+      "A": "集权型组织不利于减少重复工作",
+      "B": "集权模式有利于国际企业全球业务的协调",
+      "C": "集权模式有利于保证公司各项决策与总公司的总体目标相一致",
+      "D": "集权型组织有利于组织变革和调整"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=10",
+    "sourceLabel": "复旦大学资料第 10 页 · 原第 3 题",
+    "sourcePages": [
+      10
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-071",
+    "chapter": "2.1 理解政治、法律和经济（一）",
+    "type": "single",
+    "stem": "（）是国际商务组织结构的主要类型。",
+    "options": {
+      "A": "出口部",
+      "B": "国际部",
+      "C": "区域部和全球组织",
+      "D": "以上都是"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=10",
+    "sourceLabel": "复旦大学资料第 10 页 · 原第 4 题",
+    "sourcePages": [
+      10
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-072",
+    "chapter": "2.1 理解政治、法律和经济（一）",
+    "type": "judge",
+    "stem": "全球性职能结构就是我们常说的矩阵结构。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=10",
+    "sourceLabel": "复旦大学资料第 10 页 · 原第 5 题",
+    "sourcePages": [
+      10
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-073",
+    "chapter": "2.1 理解政治、法律和经济（一）",
+    "type": "judge",
+    "stem": "企业的制度是一成不变的，不会发生转型。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=10",
+    "sourceLabel": "复旦大学资料第 10 页 · 原第 6 题",
+    "sourcePages": [
+      10
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-074",
+    "chapter": "2.2 理解政治、法律和经济（二）",
+    "type": "single",
+    "stem": "经互会于（）年解体。",
+    "options": {
+      "A": "1990",
+      "B": "1991",
+      "C": "1997",
+      "D": "1989"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=10",
+    "sourceLabel": "复旦大学资料第 10 页 · 原第 1 题",
+    "sourcePages": [
+      10,
+      11
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-075",
+    "chapter": "2.2 理解政治、法律和经济（二）",
+    "type": "single",
+    "stem": "下列法系中，犹太发属于（）法系。",
+    "options": {
+      "A": "宗教法",
+      "B": "普通法",
+      "C": "亚太法",
+      "D": "大陆法"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=11",
+    "sourceLabel": "复旦大学资料第 11 页 · 原第 2 题",
+    "sourcePages": [
+      11
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-076",
+    "chapter": "2.2 理解政治、法律和经济（二）",
+    "type": "single",
+    "stem": "（）是根据以往的判例和先例来判决的。",
+    "options": {
+      "A": "大陆法系",
+      "B": "普通法",
+      "C": "宗教法",
+      "D": "欧美法"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=11",
+    "sourceLabel": "复旦大学资料第 11 页 · 原第 3 题",
+    "sourcePages": [
+      11
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-077",
+    "chapter": "2.2 理解政治、法律和经济（二）",
+    "type": "single",
+    "stem": "（）是一国法律体系最根本的经济功能。",
+    "options": {
+      "A": "维护稳定",
+      "B": "保护产权",
+      "C": "宏观调控",
+      "D": "稳定币值"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=11",
+    "sourceLabel": "复旦大学资料第 11 页 · 原第 4 题",
+    "sourcePages": [
+      11
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-078",
+    "chapter": "2.2 理解政治、法律和经济（二）",
+    "type": "single",
+    "stem": "大陆法系起源于（）。",
+    "options": {
+      "A": "罗马法",
+      "B": "拿破仑法典",
+      "C": "古希伯来法",
+      "D": "希腊法"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=11",
+    "sourceLabel": "复旦大学资料第 11 页 · 原第 5 题",
+    "sourcePages": [
+      11
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-079",
+    "chapter": "2.2 理解政治、法律和经济（二）",
+    "type": "judge",
+    "stem": "大陆法是三大法律体系中条文规定最细致，最严谨的法律。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=11",
+    "sourceLabel": "复旦大学资料第 11 页 · 原第 6 题",
+    "sourcePages": [
+      11
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-080",
+    "chapter": "2.2 理解政治、法律和经济（二）",
+    "type": "judge",
+    "stem": "当前，中国法律采取的是普通法。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=11",
+    "sourceLabel": "复旦大学资料第 11 页 · 原第 7 题",
+    "sourcePages": [
+      11
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-081",
+    "chapter": "2.3 理解政治、法律和经济（三）",
+    "type": "single",
+    "stem": "（）是否明确，合理且长期保持不变成为国际经营者最关心的内容。",
+    "options": {
+      "A": "政治体制",
+      "B": "法律制度",
+      "C": "政府政策",
+      "D": "政党体制"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=11",
+    "sourceLabel": "复旦大学资料第 11 页 · 原第 1 题",
+    "sourcePages": [
+      11,
+      12
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-082",
+    "chapter": "2.3 理解政治、法律和经济（三）",
+    "type": "single",
+    "stem": "（）是法国经济体制的特点。",
+    "options": {
+      "A": "完全政府主导",
+      "B": "倾向于市场主导",
+      "C": "倾向于政府调控",
+      "D": "完全市场经济"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=12",
+    "sourceLabel": "复旦大学资料第 12 页 · 原第 2 题",
+    "sourcePages": [
+      12
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-083",
+    "chapter": "2.3 理解政治、法律和经济（三）",
+    "type": "single",
+    "stem": "部分采用新原理、新元件、新技术而开发的产品称为（ ）。",
+    "options": {
+      "A": "改进型新产品",
+      "B": "新产品",
+      "C": "全新产品",
+      "D": "更新换代产品"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=12",
+    "sourceLabel": "复旦大学资料第 12 页 · 原第 3 题",
+    "sourcePages": [
+      12
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-084",
+    "chapter": "2.3 理解政治、法律和经济（三）",
+    "type": "single",
+    "stem": "（）是德国的市场经济体制类型。",
+    "options": {
+      "A": "社会市场经济",
+      "B": "福利市场经济",
+      "C": "传统市场经济体制",
+      "D": "有计划指导的市场经济"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=12",
+    "sourceLabel": "复旦大学资料第 12 页 · 原第 4 题",
+    "sourcePages": [
+      12
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-085",
+    "chapter": "2.3 理解政治、法律和经济（三）",
+    "type": "single",
+    "stem": "（）是企业战略的定量标准。",
+    "options": {
+      "A": "销售总额",
+      "B": "利润水平",
+      "C": "投资回报率",
+      "D": "以上都是"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=12",
+    "sourceLabel": "复旦大学资料第 12 页 · 原第 5 题",
+    "sourcePages": [
+      12
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-086",
+    "chapter": "2.3 理解政治、法律和经济（三）",
+    "type": "judge",
+    "stem": "撒切尔夫人是英国保守党的代表人物。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=12",
+    "sourceLabel": "复旦大学资料第 12 页 · 原第 6 题",
+    "sourcePages": [
+      12
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-087",
+    "chapter": "2.3 理解政治、法律和经济（三）",
+    "type": "judge",
+    "stem": "混合经济体中既有政府的宏观调控在起效，也有市场经济的成分在发挥作用。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=12",
+    "sourceLabel": "复旦大学资料第 12 页 · 原第 7 题",
+    "sourcePages": [
+      12
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-088",
+    "chapter": "2.4 理解政治、法律和经济（四）",
+    "type": "single",
+    "stem": "（）是世贸组织的最高决策权力机构。",
+    "options": {
+      "A": "总理事会",
+      "B": "秘书处",
+      "C": "联席会议",
+      "D": "部长级会议"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=12",
+    "sourceLabel": "复旦大学资料第 12 页 · 原第 1 题",
+    "sourcePages": [
+      12,
+      13
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-089",
+    "chapter": "2.4 理解政治、法律和经济（四）",
+    "type": "single",
+    "stem": "“三来贸易”的内容不包括（）。",
+    "options": {
+      "A": "来料加工",
+      "B": "补偿贸易",
+      "C": "来样加工",
+      "D": "来件装配"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=13",
+    "sourceLabel": "复旦大学资料第 13 页 · 原第 2 题",
+    "sourcePages": [
+      13
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-090",
+    "chapter": "2.4 理解政治、法律和经济（四）",
+    "type": "single",
+    "stem": "（）是世界贸易组织最关键的原则。",
+    "options": {
+      "A": "最惠国待遇原则",
+      "B": "非歧视原则",
+      "C": "市场准入原则",
+      "D": "多变体制原则"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=13",
+    "sourceLabel": "复旦大学资料第 13 页 · 原第 3 题",
+    "sourcePages": [
+      13
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-091",
+    "chapter": "2.4 理解政治、法律和经济（四）",
+    "type": "single",
+    "stem": "（）还具有经济联合国的别称。",
+    "options": {
+      "A": "亚太经合组织",
+      "B": "世界银行",
+      "C": "国际货币基金组织",
+      "D": "世界贸易组织"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=13",
+    "sourceLabel": "复旦大学资料第 13 页 · 原第 4 题",
+    "sourcePages": [
+      13
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-092",
+    "chapter": "2.4 理解政治、法律和经济（四）",
+    "type": "judge",
+    "stem": "关税总协定是一个具有法律意义的强制性的组织。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=13",
+    "sourceLabel": "复旦大学资料第 13 页 · 原第 5 题",
+    "sourcePages": [
+      13
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-093",
+    "chapter": "2.4 理解政治、法律和经济（四）",
+    "type": "judge",
+    "stem": "世界贸易组织奉行的是双边贸易体制。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=13",
+    "sourceLabel": "复旦大学资料第 13 页 · 原第 6 题",
+    "sourcePages": [
+      13
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-094",
+    "chapter": "3.1 国际贸易（一）",
+    "type": "single",
+    "stem": "（）是重商主义理论最盛行的时期。",
+    "options": {
+      "A": "17 世纪和 18 世纪",
+      "B": "19 世纪和 20 世纪",
+      "C": "20 世纪和 21 世纪",
+      "D": "15 世纪和 16 世纪"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=13",
+    "sourceLabel": "复旦大学资料第 13 页 · 原第 1 题",
+    "sourcePages": [
+      13
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-095",
+    "chapter": "3.1 国际贸易（一）",
+    "type": "single",
+    "stem": "（）是比较优势理论的创始人。",
+    "options": {
+      "A": "亚当斯密",
+      "B": "凯恩斯",
+      "C": "哈耶克",
+      "D": "李嘉图"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=13",
+    "sourceLabel": "复旦大学资料第 13 页 · 原第 2 题",
+    "sourcePages": [
+      13
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-096",
+    "chapter": "3.1 国际贸易（一）",
+    "type": "single",
+    "stem": "（）最早提出了绝对优势理论。",
+    "options": {
+      "A": "凯恩斯",
+      "B": "罗斯福",
+      "C": "马歇尔",
+      "D": "亚当斯密"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=14",
+    "sourceLabel": "复旦大学资料第 14 页 · 原第 3 题",
+    "sourcePages": [
+      14
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-097",
+    "chapter": "3.1 国际贸易（一）",
+    "type": "single",
+    "stem": "（）是最早主张自由贸易。",
+    "options": {
+      "A": "平衡理论",
+      "B": "绝对优势理论",
+      "C": "国家垄断主义理论",
+      "D": "重商主义理论"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=14",
+    "sourceLabel": "复旦大学资料第 14 页 · 原第 4 题",
+    "sourcePages": [
+      14
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-098",
+    "chapter": "3.1 国际贸易（一）",
+    "type": "single",
+    "stem": "（）是指政府尽可能减少各种贸易障碍的贸易类型。",
+    "options": {
+      "A": "自由贸易",
+      "B": "双边贸易",
+      "C": "保护贸易",
+      "D": "多边贸易"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=14",
+    "sourceLabel": "复旦大学资料第 14 页 · 原第 5 题",
+    "sourcePages": [
+      14
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-099",
+    "chapter": "3.1 国际贸易（一）",
+    "type": "judge",
+    "stem": "国家层面的贸易平衡是由两国企业的购买和销售的总和所决定的。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=14",
+    "sourceLabel": "复旦大学资料第 14 页 · 原第 6 题",
+    "sourcePages": [
+      14
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-100",
+    "chapter": "3.1 国际贸易（一）",
+    "type": "judge",
+    "stem": "在当今世界上，有一些国家实行纯粹的保护贸易或者完全的自由贸易。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=14",
+    "sourceLabel": "复旦大学资料第 14 页 · 原第 7 题",
+    "sourcePages": [
+      14
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-101",
+    "chapter": "3.1 国际贸易（一）",
+    "type": "judge",
+    "stem": "当代很多政府本质上已经摆脱了重商主义的束缚。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=14",
+    "sourceLabel": "复旦大学资料第 14 页 · 原第 8 题",
+    "sourcePages": [
+      14
+    ],
+    "sourceNumber": 8,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-102",
+    "chapter": "3.2 国际贸易（二）",
+    "type": "single",
+    "stem": "在世界贸易中占比最大的是（）的跨国公司。",
+    "options": {
+      "A": "美国",
+      "B": "欧盟",
+      "C": "日本",
+      "D": "德国"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=14",
+    "sourceLabel": "复旦大学资料第 14 页 · 原第 1 题",
+    "sourcePages": [
+      14
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-103",
+    "chapter": "3.2 国际贸易（二）",
+    "type": "single",
+    "stem": "根据要素禀赋论，（）不适宜发展资本密集型产业。",
+    "options": {
+      "A": "美国",
+      "B": "朝鲜",
+      "C": "日本",
+      "D": "澳大利亚"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=14",
+    "sourceLabel": "复旦大学资料第 14 页 · 原第 2 题",
+    "sourcePages": [
+      14,
+      15
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-104",
+    "chapter": "3.2 国际贸易（二）",
+    "type": "single",
+    "stem": "李斯特的保护贸易理论认为，（）应当被施以保护。",
+    "options": {
+      "A": "农业",
+      "B": "刚刚遭遇强有力发展对手的幼稚工业",
+      "C": "服务业",
+      "D": "幼稚工业"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=15",
+    "sourceLabel": "复旦大学资料第 15 页 · 原第 3 题",
+    "sourcePages": [
+      15
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-105",
+    "chapter": "3.2 国际贸易（二）",
+    "type": "judge",
+    "stem": "诺贝尔基金提供诺贝尔经济学奖的奖金。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=15",
+    "sourceLabel": "复旦大学资料第 15 页 · 原第 4 题",
+    "sourcePages": [
+      15
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-106",
+    "chapter": "3.2 国际贸易（二）",
+    "type": "judge",
+    "stem": "一个国家的国际贸易在其经济体中的重要性每增长 10%，人均收入水平将上升至少 10%。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=15",
+    "sourceLabel": "复旦大学资料第 15 页 · 原第 5 题",
+    "sourcePages": [
+      15
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-107",
+    "chapter": "3.3 国际贸易（三）",
+    "type": "single",
+    "stem": "（）方面是发达国家和发展中国家在服务贸易方面最大的差异。",
+    "options": {
+      "A": "销售服务",
+      "B": "旅游服务",
+      "C": "运输服务",
+      "D": "技术服务与咨询"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=15",
+    "sourceLabel": "复旦大学资料第 15 页 · 原第 1 题",
+    "sourcePages": [
+      15
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-108",
+    "chapter": "3.3 国际贸易（三）",
+    "type": "single",
+    "stem": "（）在产品处于标准化生产阶段时比较占优势。",
+    "options": {
+      "A": "技术密集型国家",
+      "B": "劳动力密集型国家",
+      "C": "发达国家",
+      "D": "资本密集型国家"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=15",
+    "sourceLabel": "复旦大学资料第 15 页 · 原第 2 题",
+    "sourcePages": [
+      15
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-109",
+    "chapter": "3.3 国际贸易（三）",
+    "type": "single",
+    "stem": "下列选项中，昂立夫的国家分类不包括（）。",
+    "options": {
+      "A": "发达国家",
+      "B": "模仿国家",
+      "C": "创新国家",
+      "D": "发展中国家"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=15",
+    "sourceLabel": "复旦大学资料第 15 页 · 原第 3 题",
+    "sourcePages": [
+      15
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-110",
+    "chapter": "3.3 国际贸易（三）",
+    "type": "single",
+    "stem": "（）第一次将比较利益动态化。",
+    "options": {
+      "A": "H-O 理论",
+      "B": "绝对优势理论",
+      "C": "产品生命周期理论",
+      "D": "相互需求理论"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=15",
+    "sourceLabel": "复旦大学资料第 15 页 · 原第 4 题",
+    "sourcePages": [
+      15,
+      16
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-111",
+    "chapter": "3.3 国际贸易（三）",
+    "type": "judge",
+    "stem": "传统国际贸易理论的基本假设是报酬递增或者报酬不变。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=16",
+    "sourceLabel": "复旦大学资料第 16 页 · 原第 5 题",
+    "sourcePages": [
+      16
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-112",
+    "chapter": "3.3 国际贸易（三）",
+    "type": "judge",
+    "stem": "关贸总协定与世界贸易组织都具有法人（机构）地位。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=16",
+    "sourceLabel": "复旦大学资料第 16 页 · 原第 6 题",
+    "sourcePages": [
+      16
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-113",
+    "chapter": "3.3 国际贸易（三）",
+    "type": "judge",
+    "stem": "我国既是最大的纺织品出口国，也是最大的纺织品进口国。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=16",
+    "sourceLabel": "复旦大学资料第 16 页 · 原第 7 题",
+    "sourcePages": [
+      16
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-114",
+    "chapter": "3.4 国际贸易（四）",
+    "type": "single",
+    "stem": "（）是战略贸易理论的核心。",
+    "options": {
+      "A": "大力发展规模经济",
+      "B": "完全市场调节",
+      "C": "政府通过干预支持战略性产业发展",
+      "D": "不断降低生产成本"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=16",
+    "sourceLabel": "复旦大学资料第 16 页 · 原第 1 题",
+    "sourcePages": [
+      16
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-115",
+    "chapter": "3.4 国际贸易（四）",
+    "type": "single",
+    "stem": "下列选项中，国家竞争优势钻石模型中基本要素不包括（）。",
+    "options": {
+      "A": "通讯基础",
+      "B": "气候",
+      "C": "自然地理环境",
+      "D": "人口"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=16",
+    "sourceLabel": "复旦大学资料第 16 页 · 原第 2 题",
+    "sourcePages": [
+      16
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-116",
+    "chapter": "3.4 国际贸易（四）",
+    "type": "single",
+    "stem": "在新贸易理论中，市场是（）。",
+    "options": {
+      "A": "非完全竞争市场",
+      "B": "垄断市场",
+      "C": "寡头市场",
+      "D": "完全竞争市场"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=16",
+    "sourceLabel": "复旦大学资料第 16 页 · 原第 3 题",
+    "sourcePages": [
+      16
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-117",
+    "chapter": "3.4 国际贸易（四）",
+    "type": "single",
+    "stem": "国家竞争优势中，（）是概括国内市场是否足够大的条件。",
+    "options": {
+      "A": "要素条件",
+      "B": "相关及支撑产业",
+      "C": "公司战略、结构及对抗表现",
+      "D": "需求条件"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=16",
+    "sourceLabel": "复旦大学资料第 16 页 · 原第 4 题",
+    "sourcePages": [
+      16
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-118",
+    "chapter": "3.4 国际贸易（四）",
+    "type": "judge",
+    "stem": "新贸易理论与相对优势理论是相互冲突的。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=16",
+    "sourceLabel": "复旦大学资料第 16 页 · 原第 5 题",
+    "sourcePages": [
+      16
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-119",
+    "chapter": "3.4 国际贸易（四）",
+    "type": "judge",
+    "stem": "战略贸易理论认为，对于那些进入壁垒较高的企业，适当的政府干预会减少企业成功的几率。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=17",
+    "sourceLabel": "复旦大学资料第 17 页 · 原第 6 题",
+    "sourcePages": [
+      17
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-120",
+    "chapter": "3.4 国际贸易（四）",
+    "type": "judge",
+    "stem": "战略贸易理论认为，一个国家的优势并不是在所有行业中，而是体现在某些行业中。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=17",
+    "sourceLabel": "复旦大学资料第 17 页 · 原第 7 题",
+    "sourcePages": [
+      17
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-121",
+    "chapter": "3.5 国际贸易（五）",
+    "type": "single",
+    "stem": "关贸总协定的主要受益国是（）。",
+    "options": {
+      "A": "发达国家",
+      "B": "不发达国家",
+      "C": "资本主义国家",
+      "D": "发展中国家"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=17",
+    "sourceLabel": "复旦大学资料第 17 页 · 原第 1 题",
+    "sourcePages": [
+      17
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-122",
+    "chapter": "3.5 国际贸易（五）",
+    "type": "single",
+    "stem": "（）是第一个比较现实地将企业、产业和国家联系起来的多级理论。",
+    "options": {
+      "A": "H-O 贸易理论",
+      "B": "国家优势理论",
+      "C": "保护贸易理论",
+      "D": "重商主义理论"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=17",
+    "sourceLabel": "复旦大学资料第 17 页 · 原第 2 题",
+    "sourcePages": [
+      17
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-123",
+    "chapter": "3.5 国际贸易（五）",
+    "type": "single",
+    "stem": "（）生产的地砖、瓷砖是世界上质量最好的。",
+    "options": {
+      "A": "日本",
+      "B": "意大利",
+      "C": "土耳其",
+      "D": "法国"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=17",
+    "sourceLabel": "复旦大学资料第 17 页 · 原第 3 题",
+    "sourcePages": [
+      17
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-124",
+    "chapter": "3.5 国际贸易（五）",
+    "type": "judge",
+    "stem": "人才去向对一个国家行业的发展影响重大。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=17",
+    "sourceLabel": "复旦大学资料第 17 页 · 原第 4 题",
+    "sourcePages": [
+      17
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-125",
+    "chapter": "3.5 国际贸易（五）",
+    "type": "judge",
+    "stem": "美国比日本更强调合作精神。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=17",
+    "sourceLabel": "复旦大学资料第 17 页 · 原第 5 题",
+    "sourcePages": [
+      17
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-126",
+    "chapter": "3.6 国际贸易（六）",
+    "type": "single",
+    "stem": "下列选项中，非关税贸易壁垒不包括（）。",
+    "options": {
+      "A": "反倾销手段",
+      "B": "外汇管制",
+      "C": "出口许可",
+      "D": "财政关税"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=17",
+    "sourceLabel": "复旦大学资料第 17 页 · 原第 1 题",
+    "sourcePages": [
+      17,
+      18
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-127",
+    "chapter": "3.6 国际贸易（六）",
+    "type": "single",
+    "stem": "国际贸易中，各国之间的（）是最主要的贸易壁垒。",
+    "options": {
+      "A": "贸易流程",
+      "B": "关税",
+      "C": "贸易政策",
+      "D": "产品质量"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=18",
+    "sourceLabel": "复旦大学资料第 18 页 · 原第 2 题",
+    "sourcePages": [
+      18
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-128",
+    "chapter": "3.6 国际贸易（六）",
+    "type": "single",
+    "stem": "（）是中国当前产品出口的主要障碍。",
+    "options": {
+      "A": "关税",
+      "B": "绿色贸易壁垒",
+      "C": "劳工标准壁垒",
+      "D": "技术性贸易壁垒"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=18",
+    "sourceLabel": "复旦大学资料第 18 页 · 原第 3 题",
+    "sourcePages": [
+      18
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-129",
+    "chapter": "3.6 国际贸易（六）",
+    "type": "single",
+    "stem": "一般情况下，本国货币对外贬值有利于（）。",
+    "options": {
+      "A": "出口",
+      "B": "既有利于出口也有利于进口",
+      "C": "既不利于出口也不利于进口",
+      "D": "进口"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=18",
+    "sourceLabel": "复旦大学资料第 18 页 · 原第 4 题",
+    "sourcePages": [
+      18
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-130",
+    "chapter": "3.6 国际贸易（六）",
+    "type": "single",
+    "stem": "下列选项中，（）属于滑动关税。",
+    "options": {
+      "A": "过境税",
+      "B": "反补贴税",
+      "C": "差价税",
+      "D": "反倾销税"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=18",
+    "sourceLabel": "复旦大学资料第 18 页 · 原第 5 题",
+    "sourcePages": [
+      18
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-131",
+    "chapter": "3.6 国际贸易（六）",
+    "type": "judge",
+    "stem": "绿色贸易壁垒是一种关税壁垒。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=18",
+    "sourceLabel": "复旦大学资料第 18 页 · 原第 6 题",
+    "sourcePages": [
+      18
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-132",
+    "chapter": "3.6 国际贸易（六）",
+    "type": "judge",
+    "stem": "关税是一国政府调节进出口贸易的重要手段。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=18",
+    "sourceLabel": "复旦大学资料第 18 页 · 原第 7 题",
+    "sourcePages": [
+      18
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-133",
+    "chapter": "3.6 国际贸易（六）",
+    "type": "judge",
+    "stem": "政府征收关税的主要目的是为了增加收入。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=18",
+    "sourceLabel": "复旦大学资料第 18 页 · 原第 8 题",
+    "sourcePages": [
+      18
+    ],
+    "sourceNumber": 8,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-134",
+    "chapter": "3.7 国际贸易（七）",
+    "type": "single",
+    "stem": "当跨国公司拥有海外公司股权的（）时，联合国就认为其算是对外直接投资。",
+    "options": {
+      "A": "0.05",
+      "B": "0.15",
+      "C": "0.2",
+      "D": "0.1"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=18",
+    "sourceLabel": "复旦大学资料第 18 页 · 原第 1 题",
+    "sourcePages": [
+      18,
+      19
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-135",
+    "chapter": "3.7 国际贸易（七）",
+    "type": "single",
+    "stem": "（）是成为跨国公司的标志性要素。",
+    "options": {
+      "A": "成立多家分公司",
+      "B": "对外有投资",
+      "C": "资本额巨大",
+      "D": "全球经营"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=19",
+    "sourceLabel": "复旦大学资料第 19 页 · 原第 2 题",
+    "sourcePages": [
+      19
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-136",
+    "chapter": "3.7 国际贸易（七）",
+    "type": "single",
+    "stem": "（）是对外直接投资的主要形式。",
+    "options": {
+      "A": "跨国公司",
+      "B": "联合国",
+      "C": "世贸组织",
+      "D": "各国政府"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=19",
+    "sourceLabel": "复旦大学资料第 19 页 · 原第 3 题",
+    "sourcePages": [
+      19
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-137",
+    "chapter": "3.7 国际贸易（七）",
+    "type": "single",
+    "stem": "下列选项中，国际商务的主要形式是（）。",
+    "options": {
+      "A": "商品",
+      "B": "许可贸易",
+      "C": "对外投资",
+      "D": "以上都有"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=19",
+    "sourceLabel": "复旦大学资料第 19 页 · 原第 4 题",
+    "sourcePages": [
+      19
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-138",
+    "chapter": "3.7 国际贸易（七）",
+    "type": "judge",
+    "stem": "按照国际惯例，出口额要以 CIF 价格计算，进口额要以 FOB 价格计算。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=19",
+    "sourceLabel": "复旦大学资料第 19 页 · 原第 5 题",
+    "sourcePages": [
+      19
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-139",
+    "chapter": "3.7 国际贸易（七）",
+    "type": "judge",
+    "stem": "特殊保障措施是中国加入 WTO 时做出的一项特殊承诺。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=19",
+    "sourceLabel": "复旦大学资料第 19 页 · 原第 6 题",
+    "sourcePages": [
+      19
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-140",
+    "chapter": "4.1 外国直接投资理论和跨国公司理论（一）",
+    "type": "single",
+    "stem": "（）是国际资本流动理论的基本假设。",
+    "options": {
+      "A": "市场是一个封闭的经济系统",
+      "B": "市场是一个完全开放的经济系统",
+      "C": "整个世界由两个国家组成，一个资本充裕，一个资本短缺",
+      "D": "市场是完全竞争的"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=19",
+    "sourceLabel": "复旦大学资料第 19 页 · 原第 1 题",
+    "sourcePages": [
+      19
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-141",
+    "chapter": "4.1 外国直接投资理论和跨国公司理论（一）",
+    "type": "single",
+    "stem": "伴随对外直接投资和产业转移的持续进展，越来越多的企业将主要生产和经营基地从国内转移到国外，仅在国内留下一个“空壳”，这种现象称为：（）。",
+    "options": {
+      "A": "产业空洞化",
+      "B": "经济发展不平衡",
+      "C": "微笑曲线",
+      "D": "产业结构不均衡"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=19",
+    "sourceLabel": "复旦大学资料第 19 页 · 原第 2 题",
+    "sourcePages": [
+      19,
+      20
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-142",
+    "chapter": "4.1 外国直接投资理论和跨国公司理论（一）",
+    "type": "single",
+    "stem": "下列选项中，当一个国家（）时，它的资本收益率高。",
+    "options": {
+      "A": "资本供给大于资本需求",
+      "B": "资本供给等于资本需求",
+      "C": "无规律",
+      "D": "资本供给小于资本需求"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=20",
+    "sourceLabel": "复旦大学资料第 20 页 · 原第 3 题",
+    "sourcePages": [
+      20
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-143",
+    "chapter": "4.1 外国直接投资理论和跨国公司理论（一）",
+    "type": "single",
+    "stem": "（）是最早研究对外直接投资的独立理论。",
+    "options": {
+      "A": "国际资本流动理论",
+      "B": "产品生命周期理论",
+      "C": "内部化理论",
+      "D": "垄断优势理论"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=20",
+    "sourceLabel": "复旦大学资料第 20 页 · 原第 4 题",
+    "sourcePages": [
+      20
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-144",
+    "chapter": "4.1 外国直接投资理论和跨国公司理论（一）",
+    "type": "single",
+    "stem": "（）是国际贸易的市场前提。",
+    "options": {
+      "A": "完全垄断",
+      "B": "完全竞争",
+      "C": "寡头竞争",
+      "D": "不完全竞争"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=20",
+    "sourceLabel": "复旦大学资料第 20 页 · 原第 5 题",
+    "sourcePages": [
+      20
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-145",
+    "chapter": "4.1 外国直接投资理论和跨国公司理论（一）",
+    "type": "judge",
+    "stem": "在完全竞争条件下，资本国际流动的直接动力是追逐高利润。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=20",
+    "sourceLabel": "复旦大学资料第 20 页 · 原第 6 题",
+    "sourcePages": [
+      20
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-146",
+    "chapter": "4.1 外国直接投资理论和跨国公司理论（一）",
+    "type": "judge",
+    "stem": "当进口额大于出口额时，被称为贸易盈余。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=20",
+    "sourceLabel": "复旦大学资料第 20 页 · 原第 7 题",
+    "sourcePages": [
+      20
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-147",
+    "chapter": "4.2 外国直接投资理论和跨国公司理论（二）",
+    "type": "single",
+    "stem": "内部化理论在分析直接投资的决定性因素时强调（）。",
+    "options": {
+      "A": "中间产品市场的不完全性",
+      "B": "生产要素市场的不完全性",
+      "C": "金融市场的不完全性",
+      "D": "最终产品市场的不完全性"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=20",
+    "sourceLabel": "复旦大学资料第 20 页 · 原第 1 题",
+    "sourcePages": [
+      20
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-148",
+    "chapter": "4.2 外国直接投资理论和跨国公司理论（二）",
+    "type": "single",
+    "stem": "国际价值的转化形式是（）。",
+    "options": {
+      "A": "国际生产关系",
+      "B": "国际市场价格",
+      "C": "国际贸易量",
+      "D": "国际生产价格"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=20",
+    "sourceLabel": "复旦大学资料第 20 页 · 原第 2 题",
+    "sourcePages": [
+      20,
+      21
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-149",
+    "chapter": "4.2 外国直接投资理论和跨国公司理论（二）",
+    "type": "single",
+    "stem": "下列选项中，（）对市场内部化的影响最重要。",
+    "options": {
+      "A": "国别特定因素",
+      "B": "行业特定因素",
+      "C": "企业特定因素",
+      "D": "地区特定因素"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=21",
+    "sourceLabel": "复旦大学资料第 21 页 · 原第 3 题",
+    "sourcePages": [
+      21
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-150",
+    "chapter": "4.2 外国直接投资理论和跨国公司理论（二）",
+    "type": "single",
+    "stem": "在内部化理论中，（）是跨越国界的市场内部化过程的产物。",
+    "options": {
+      "A": "中间市场",
+      "B": "寡头市场",
+      "C": "跨国公司",
+      "D": "垄断企业"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=21",
+    "sourceLabel": "复旦大学资料第 21 页 · 原第 4 题",
+    "sourcePages": [
+      21
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-151",
+    "chapter": "4.2 外国直接投资理论和跨国公司理论（二）",
+    "type": "judge",
+    "stem": "特殊保障措施是针对特定产品或特定国家的产品而采取实施的条件相对宽松的保障措施。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=21",
+    "sourceLabel": "复旦大学资料第 21 页 · 原第 5 题",
+    "sourcePages": [
+      21
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-152",
+    "chapter": "4.2 外国直接投资理论和跨国公司理论（二）",
+    "type": "judge",
+    "stem": "一些国家还往往针对某个国家采取相应的限制性的关税壁垒，这就使关税壁垒比非关税壁垒更具有歧视性。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=21",
+    "sourceLabel": "复旦大学资料第 21 页 · 原第 6 题",
+    "sourcePages": [
+      21
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-153",
+    "chapter": "4.2 外国直接投资理论和跨国公司理论（二）",
+    "type": "judge",
+    "stem": "与其他理论相比，内部化理论属于一般理论，能解释大部分对外直接投资的动因。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=21",
+    "sourceLabel": "复旦大学资料第 21 页 · 原第 7 题",
+    "sourcePages": [
+      21
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-154",
+    "chapter": "4.3 外国直接投资理论和跨国公司理论（三）",
+    "type": "single",
+    "stem": "中海油到国外并购油田，属于国际生产形式中的（）。",
+    "options": {
+      "A": "战略资产导向型",
+      "B": "效率导向型",
+      "C": "市场导向型",
+      "D": "资源导向型"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=21",
+    "sourceLabel": "复旦大学资料第 21 页 · 原第 1 题",
+    "sourcePages": [
+      21
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-155",
+    "chapter": "4.3 外国直接投资理论和跨国公司理论（三）",
+    "type": "single",
+    "stem": "产业内贸易形成的重要成因是（）。",
+    "options": {
+      "A": "规模经济收益递增",
+      "B": "分工程度",
+      "C": "同类产品异质性",
+      "D": "经济发展水平"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=21",
+    "sourceLabel": "复旦大学资料第 21 页 · 原第 2 题",
+    "sourcePages": [
+      21,
+      22
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-156",
+    "chapter": "4.3 外国直接投资理论和跨国公司理论（三）",
+    "type": "judge",
+    "stem": "内部化理论认为，企业是在完全竞争的市场中运行的。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=22",
+    "sourceLabel": "复旦大学资料第 22 页 · 原第 3 题",
+    "sourcePages": [
+      22
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-157",
+    "chapter": "4.3 外国直接投资理论和跨国公司理论（三）",
+    "type": "judge",
+    "stem": "倾销不是一种公平的竞争行为。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=22",
+    "sourceLabel": "复旦大学资料第 22 页 · 原第 4 题",
+    "sourcePages": [
+      22
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-158",
+    "chapter": "4.4 外国直接投资理论和跨国公司理论（四）",
+    "type": "single",
+    "stem": "国际合作安排的典型代表是（）。",
+    "options": {
+      "A": "股份制企业",
+      "B": "合资企业",
+      "C": "跨国公司",
+      "D": "独资企业"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=22",
+    "sourceLabel": "复旦大学资料第 22 页 · 原第 1 题",
+    "sourcePages": [
+      22
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-159",
+    "chapter": "4.4 外国直接投资理论和跨国公司理论（四）",
+    "type": "single",
+    "stem": "下列选项中，发展中国家跨国公司的特有的竞争优势不包括（）。",
+    "options": {
+      "A": "企业集团规模小",
+      "B": "低成本投入",
+      "C": "适合当地条件的管理技术",
+      "D": "血缘关系"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=22",
+    "sourceLabel": "复旦大学资料第 22 页 · 原第 2 题",
+    "sourcePages": [
+      22
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-160",
+    "chapter": "4.4 外国直接投资理论和跨国公司理论（四）",
+    "type": "single",
+    "stem": "（）是权变理论的研究重点。",
+    "options": {
+      "A": "分析组织战略",
+      "B": "研究组织结构",
+      "C": "研究管理模式与环境之间的关系",
+      "D": "以上都有"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=22",
+    "sourceLabel": "复旦大学资料第 22 页 · 原第 3 题",
+    "sourcePages": [
+      22
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-161",
+    "chapter": "4.4 外国直接投资理论和跨国公司理论（四）",
+    "type": "judge",
+    "stem": "金德尔伯最早提出了垄断优势理论。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=22",
+    "sourceLabel": "复旦大学资料第 22 页 · 原第 4 题",
+    "sourcePages": [
+      22
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-162",
+    "chapter": "4.4 外国直接投资理论和跨国公司理论（四）",
+    "type": "judge",
+    "stem": "国际收支是一定时期内外国居民在本国进行的各项经济交易的货币价值总和。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=22",
+    "sourceLabel": "复旦大学资料第 22 页 · 原第 5 题",
+    "sourcePages": [
+      22
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-163",
+    "chapter": "4.4 外国直接投资理论和跨国公司理论（四）",
+    "type": "judge",
+    "stem": "对外直接投资形成的物质基础是跨国公司。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=22",
+    "sourceLabel": "复旦大学资料第 22 页 · 原第 6 题",
+    "sourcePages": [
+      22
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-164",
+    "chapter": "4.5 外国直接投资理论和跨国公司理论（五）",
+    "type": "single",
+    "stem": "（）是判定一项交易是否属于国际收支范围的依据。",
+    "options": {
+      "A": "民族",
+      "B": "经济利益中心",
+      "C": "国籍",
+      "D": "地理位置"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=22",
+    "sourceLabel": "复旦大学资料第 22 页 · 原第 1 题",
+    "sourcePages": [
+      22,
+      23
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-165",
+    "chapter": "4.5 外国直接投资理论和跨国公司理论（五）",
+    "type": "single",
+    "stem": "（）是为使国际收支的借贷数额相等而人为设立的抵消账户。",
+    "options": {
+      "A": "经常账户",
+      "B": "资本和金融账户",
+      "C": "错误和遗漏账户",
+      "D": "官方储备账户"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=23",
+    "sourceLabel": "复旦大学资料第 23 页 · 原第 2 题",
+    "sourcePages": [
+      23
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-166",
+    "chapter": "4.5 外国直接投资理论和跨国公司理论（五）",
+    "type": "single",
+    "stem": "（）是最早的国际收支概念。",
+    "options": {
+      "A": "贸易收支",
+      "B": "外汇收支",
+      "C": "广义国际收支",
+      "D": "狭义国际收支"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=23",
+    "sourceLabel": "复旦大学资料第 23 页 · 原第 3 题",
+    "sourcePages": [
+      23
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-167",
+    "chapter": "4.5 外国直接投资理论和跨国公司理论（五）",
+    "type": "judge",
+    "stem": "国际收支的基本平衡也是各国政府的基本目标。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=23",
+    "sourceLabel": "复旦大学资料第 23 页 · 原第 4 题",
+    "sourcePages": [
+      23
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-168",
+    "chapter": "5.1 国际商务的基本知识（一）",
+    "type": "single",
+    "stem": "（）是我国当前外汇储备中最主要的内容。",
+    "options": {
+      "A": "黄金",
+      "B": "美元",
+      "C": "欧元",
+      "D": "日元"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=23",
+    "sourceLabel": "复旦大学资料第 23 页 · 原第 1 题",
+    "sourcePages": [
+      23
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-169",
+    "chapter": "5.1 国际商务的基本知识（一）",
+    "type": "single",
+    "stem": "（）是外汇储备管理原则中第一位。",
+    "options": {
+      "A": "灵活",
+      "B": "保值",
+      "C": "增值",
+      "D": "安全"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=23",
+    "sourceLabel": "复旦大学资料第 23 页 · 原第 2 题",
+    "sourcePages": [
+      23
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-170",
+    "chapter": "5.1 国际商务的基本知识（一）",
+    "type": "single",
+    "stem": "下列选项中，中国外汇储备形式不包括（）。",
+    "options": {
+      "A": "黄金",
+      "B": "特别提款权",
+      "C": "外汇",
+      "D": "外币"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=23",
+    "sourceLabel": "复旦大学资料第 23 页 · 原第 3 题",
+    "sourcePages": [
+      23,
+      24
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-171",
+    "chapter": "5.1 国际商务的基本知识（一）",
+    "type": "single",
+    "stem": "中国外汇储备组成部分有（）。",
+    "options": {
+      "A": "巨额贸易逆差",
+      "B": "外国直接投入的大幅增加",
+      "C": "人民币贬值",
+      "D": "外国贷款的持续增多"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=24",
+    "sourceLabel": "复旦大学资料第 24 页 · 原第 4 题",
+    "sourcePages": [
+      24
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-172",
+    "chapter": "5.1 国际商务的基本知识（一）",
+    "type": "judge",
+    "stem": "一国外汇储备规模越大越好。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=24",
+    "sourceLabel": "复旦大学资料第 24 页 · 原第 5 题",
+    "sourcePages": [
+      24
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-173",
+    "chapter": "5.1 国际商务的基本知识（一）",
+    "type": "judge",
+    "stem": "国际贸易中要尽可能保持贸易顺差。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=24",
+    "sourceLabel": "复旦大学资料第 24 页 · 原第 6 题",
+    "sourcePages": [
+      24
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-174",
+    "chapter": "5.1 国际商务的基本知识（一）",
+    "type": "judge",
+    "stem": "中国大陆外汇储备排名居世界第二。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=24",
+    "sourceLabel": "复旦大学资料第 24 页 · 原第 7 题",
+    "sourcePages": [
+      24
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-175",
+    "chapter": "5.2 国际商务的基本知识（二）",
+    "type": "single",
+    "stem": "在间接标价法下，如果一定单位的本国货币折成的外国货币数额减少，则说明（）。",
+    "options": {
+      "A": "外币币值下降，本币币值上升，外币汇率下降",
+      "B": "外币币值上升，本币币值下降，外汇汇率上升",
+      "C": "本币币值下降，外币币值下降，外汇汇率上升",
+      "D": "本币币值下降，外币币值上升，外汇汇率下降"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=24",
+    "sourceLabel": "复旦大学资料第 24 页 · 原第 1 题",
+    "sourcePages": [
+      24
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-176",
+    "chapter": "5.2 国际商务的基本知识（二）",
+    "type": "single",
+    "stem": "在直接标价法下，如果一定单位的外国货币折成的本国货币数额增加，则说明（）。",
+    "options": {
+      "A": "本币币值下降，外汇汇率下降",
+      "B": "外币币值上升，外币汇率上升",
+      "C": "外币币值下降，外汇汇率下降",
+      "D": "本币币值上升，外汇汇率上升"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=24",
+    "sourceLabel": "复旦大学资料第 24 页 · 原第 2 题",
+    "sourcePages": [
+      24
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-177",
+    "chapter": "5.2 国际商务的基本知识（二）",
+    "type": "single",
+    "stem": "（）是货币的第二个发展阶段。",
+    "options": {
+      "A": "金本位条件下",
+      "B": "纸币本位条件下",
+      "C": "美元本位条件下",
+      "D": "金汇兑本位条件下"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=24",
+    "sourceLabel": "复旦大学资料第 24 页 · 原第 3 题",
+    "sourcePages": [
+      24
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-178",
+    "chapter": "5.2 国际商务的基本知识（二）",
+    "type": "single",
+    "stem": "金本位制下，（）制约着外汇汇率上下波动的幅度。",
+    "options": {
+      "A": "外汇储备状况",
+      "B": "货币含金量",
+      "C": "战争",
+      "D": "外汇政策"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=24",
+    "sourceLabel": "复旦大学资料第 24 页 · 原第 4 题",
+    "sourcePages": [
+      24,
+      25
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-179",
+    "chapter": "5.2 国际商务的基本知识（二）",
+    "type": "judge",
+    "stem": "人民币实行有管理的固定汇率制。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=25",
+    "sourceLabel": "复旦大学资料第 25 页 · 原第 5 题",
+    "sourcePages": [
+      25
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-180",
+    "chapter": "5.2 国际商务的基本知识（二）",
+    "type": "judge",
+    "stem": "用作外汇的货币一定具有充分地可兑换性。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=25",
+    "sourceLabel": "复旦大学资料第 25 页 · 原第 6 题",
+    "sourcePages": [
+      25
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-181",
+    "chapter": "5.3 国际商务的基本知识（三）",
+    "type": "single",
+    "stem": "若要将出口商品的人民币报价折算为外币报价，应选用（）。",
+    "options": {
+      "A": "卖出价",
+      "B": "现钞买入价",
+      "C": "现钞卖出价",
+      "D": "买入价"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=25",
+    "sourceLabel": "复旦大学资料第 25 页 · 原第 1 题",
+    "sourcePages": [
+      25
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-182",
+    "chapter": "5.3 国际商务的基本知识（三）",
+    "type": "single",
+    "stem": "若其他条件不变，国际收支持续逆差的国家的货币会（）。",
+    "options": {
+      "A": "上升",
+      "B": "无法确定",
+      "C": "先跌后升",
+      "D": "下降"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=25",
+    "sourceLabel": "复旦大学资料第 25 页 · 原第 2 题",
+    "sourcePages": [
+      25
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-183",
+    "chapter": "5.3 国际商务的基本知识（三）",
+    "type": "single",
+    "stem": "（）就是管理浮动。",
+    "options": {
+      "A": "肮脏浮动",
+      "B": "联合浮动",
+      "C": "单独浮动",
+      "D": "清洁浮动"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=25",
+    "sourceLabel": "复旦大学资料第 25 页 · 原第 3 题",
+    "sourcePages": [
+      25
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-184",
+    "chapter": "5.3 国际商务的基本知识（三）",
+    "type": "single",
+    "stem": "香港现在采取（）的汇率制度。",
+    "options": {
+      "A": "单独浮动",
+      "B": "联系汇率制度",
+      "C": "自有浮动",
+      "D": "联合浮动"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=25",
+    "sourceLabel": "复旦大学资料第 25 页 · 原第 4 题",
+    "sourcePages": [
+      25
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-185",
+    "chapter": "5.3 国际商务的基本知识（三）",
+    "type": "judge",
+    "stem": "一般来说西方国家，经常参与交易的“大货币”的买卖差价较大，“小货币”的外汇买卖差价较小。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=25",
+    "sourceLabel": "复旦大学资料第 25 页 · 原第 5 题",
+    "sourcePages": [
+      25,
+      26
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-186",
+    "chapter": "5.3 国际商务的基本知识（三）",
+    "type": "judge",
+    "stem": "目前美国、英国、日本和德国均采用间接标价方法。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=26",
+    "sourceLabel": "复旦大学资料第 26 页 · 原第 6 题",
+    "sourcePages": [
+      26
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-187",
+    "chapter": "5.3 国际商务的基本知识（三）",
+    "type": "judge",
+    "stem": "商业银行在卖出外汇时采用的汇率叫做卖出汇率。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=26",
+    "sourceLabel": "复旦大学资料第 26 页 · 原第 7 题",
+    "sourcePages": [
+      26
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-188",
+    "chapter": "5.4 国际商务的基本知识（四）",
+    "type": "single",
+    "stem": "（）是象征性交货，指卖方的交货义务。",
+    "options": {
+      "A": "不交货",
+      "B": "既交单又实际性交货",
+      "C": "实际性交货",
+      "D": "凭单交货"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=26",
+    "sourceLabel": "复旦大学资料第 26 页 · 原第 1 题",
+    "sourcePages": [
+      26
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-189",
+    "chapter": "5.4 国际商务的基本知识（四）",
+    "type": "single",
+    "stem": "在货币使用层次中，韩元属于（）。",
+    "options": {
+      "A": "全球货币",
+      "B": "次区域货币",
+      "C": "区域货币",
+      "D": "超区域货币"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=26",
+    "sourceLabel": "复旦大学资料第 26 页 · 原第 2 题",
+    "sourcePages": [
+      26
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-190",
+    "chapter": "5.4 国际商务的基本知识（四）",
+    "type": "single",
+    "stem": "当前，（）已成为世界第二大经济体。",
+    "options": {
+      "A": "美国",
+      "B": "欧盟",
+      "C": "俄罗斯",
+      "D": "中国"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=26",
+    "sourceLabel": "复旦大学资料第 26 页 · 原第 3 题",
+    "sourcePages": [
+      26
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-191",
+    "chapter": "5.4 国际商务的基本知识（四）",
+    "type": "single",
+    "stem": "一国国际储备主要通过（）的增减来增减。",
+    "options": {
+      "A": "外汇储备",
+      "B": "普通提款权",
+      "C": "黄金储备",
+      "D": "特别提款权"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=26",
+    "sourceLabel": "复旦大学资料第 26 页 · 原第 4 题",
+    "sourcePages": [
+      26
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-192",
+    "chapter": "5.4 国际商务的基本知识（四）",
+    "type": "single",
+    "stem": "目前，国际汇率制度的格局是（）。",
+    "options": {
+      "A": "钉住汇率制",
+      "B": "固定汇率制与浮动汇率制并存",
+      "C": "固定汇率制",
+      "D": "浮动汇率制"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=26",
+    "sourceLabel": "复旦大学资料第 26 页 · 原第 5 题",
+    "sourcePages": [
+      26
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-193",
+    "chapter": "5.4 国际商务的基本知识（四）",
+    "type": "judge",
+    "stem": "到 2020 年，人民币储备货币将达到 10%左右。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=27",
+    "sourceLabel": "复旦大学资料第 27 页 · 原第 6 题",
+    "sourcePages": [
+      27
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-194",
+    "chapter": "5.4 国际商务的基本知识（四）",
+    "type": "judge",
+    "stem": "欧洲美元市场是亚洲美元市场的延伸。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=27",
+    "sourceLabel": "复旦大学资料第 27 页 · 原第 7 题",
+    "sourcePages": [
+      27
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-195",
+    "chapter": "5.5 国际商务的基本知识（五）",
+    "type": "single",
+    "stem": "下列价格中，（）最贵。",
+    "options": {
+      "A": "FOB",
+      "B": "CFR",
+      "C": "ICAS",
+      "D": "CIF"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=27",
+    "sourceLabel": "复旦大学资料第 27 页 · 原第 1 题",
+    "sourcePages": [
+      27
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-196",
+    "chapter": "5.5 国际商务的基本知识（五）",
+    "type": "single",
+    "stem": "根据关税同盟理论，（）导致同盟国社会福利水平下降。",
+    "options": {
+      "A": "贸易转移效果",
+      "B": "贸易创造效果",
+      "C": "贸易扩大效果",
+      "D": "进口产品间替代"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=27",
+    "sourceLabel": "复旦大学资料第 27 页 · 原第 2 题",
+    "sourcePages": [
+      27
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-197",
+    "chapter": "5.5 国际商务的基本知识（五）",
+    "type": "single",
+    "stem": "在人文发展指数中，（）可以衡量体面的生活水平。",
+    "options": {
+      "A": "成人识字率",
+      "B": "购买力水平",
+      "C": "出生时期望寿命",
+      "D": "知识"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=27",
+    "sourceLabel": "复旦大学资料第 27 页 · 原第 3 题",
+    "sourcePages": [
+      27
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-198",
+    "chapter": "5.5 国际商务的基本知识（五）",
+    "type": "single",
+    "stem": "要素禀赋理论认为，各国之间要素价格的差别将（）是进行贸易的结果。",
+    "options": {
+      "A": "消失",
+      "B": "扩大不变或者消失",
+      "C": "扩大",
+      "D": "不变"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=27",
+    "sourceLabel": "复旦大学资料第 27 页 · 原第 4 题",
+    "sourcePages": [
+      27
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-199",
+    "chapter": "5.5 国际商务的基本知识（五）",
+    "type": "single",
+    "stem": "弗农的产品生命周期理论认为，从产品的（）阶段开始，就应对外直接投资。",
+    "options": {
+      "A": "成熟",
+      "B": "创新",
+      "C": "发展",
+      "D": "标准化"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=27",
+    "sourceLabel": "复旦大学资料第 27 页 · 原第 5 题",
+    "sourcePages": [
+      27
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-200",
+    "chapter": "5.5 国际商务的基本知识（五）",
+    "type": "judge",
+    "stem": "GDP 的范围要大于 GNI。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=28",
+    "sourceLabel": "复旦大学资料第 28 页 · 原第 6 题",
+    "sourcePages": [
+      28
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-201",
+    "chapter": "5.5 国际商务的基本知识（五）",
+    "type": "judge",
+    "stem": "人文发展指数越接近于 0，说明这个国家经济和社会发展程度越高。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=28",
+    "sourceLabel": "复旦大学资料第 28 页 · 原第 7 题",
+    "sourcePages": [
+      28
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-202",
+    "chapter": "6.1 评估全球市场机会（一）",
+    "type": "single",
+    "stem": "下列选项中，属于目标市场综合吸引力因素的是（）。",
+    "options": {
+      "A": "收益",
+      "B": "成本",
+      "C": "风险",
+      "D": "以上都有"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=28",
+    "sourceLabel": "复旦大学资料第 28 页 · 原第 1 题",
+    "sourcePages": [
+      28
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-203",
+    "chapter": "6.1 评估全球市场机会（一）",
+    "type": "single",
+    "stem": "货币是作为（）而发展起来的。",
+    "options": {
+      "A": "交换媒介",
+      "B": "特殊价值物",
+      "C": "商品使用价值的表现形式",
+      "D": "共同的交换媒介"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=28",
+    "sourceLabel": "复旦大学资料第 28 页 · 原第 2 题",
+    "sourcePages": [
+      28
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-204",
+    "chapter": "6.1 评估全球市场机会（一）",
+    "type": "single",
+    "stem": "资金的（）就是利息。",
+    "options": {
+      "A": "价值",
+      "B": "资金",
+      "C": "水平",
+      "D": "价格"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=28",
+    "sourceLabel": "复旦大学资料第 28 页 · 原第 3 题",
+    "sourcePages": [
+      28
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-205",
+    "chapter": "6.1 评估全球市场机会（一）",
+    "type": "single",
+    "stem": "当今世界主权国家和地区共有（）个。",
+    "options": {
+      "A": "196",
+      "B": "224",
+      "C": "194",
+      "D": "226"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=28",
+    "sourceLabel": "复旦大学资料第 28 页 · 原第 4 题",
+    "sourcePages": [
+      28
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-206",
+    "chapter": "6.1 评估全球市场机会（一）",
+    "type": "judge",
+    "stem": "信用货币的购买力低于其自身的价值。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=28",
+    "sourceLabel": "复旦大学资料第 28 页 · 原第 5 题",
+    "sourcePages": [
+      28
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-207",
+    "chapter": "6.1 评估全球市场机会（一）",
+    "type": "judge",
+    "stem": "调查显示，热带国家经济增长速度要明显快于温带国家。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=28",
+    "sourceLabel": "复旦大学资料第 28 页 · 原第 6 题",
+    "sourcePages": [
+      28
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-208",
+    "chapter": "6.2 评估全球市场机会（二）",
+    "type": "single",
+    "stem": "下列各地区中，（）华侨分布数量最多。",
+    "options": {
+      "A": "东南亚",
+      "B": "大洋洲",
+      "C": "加拿大",
+      "D": "欧洲"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=29",
+    "sourceLabel": "复旦大学资料第 29 页 · 原第 1 题",
+    "sourcePages": [
+      29
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-209",
+    "chapter": "6.2 评估全球市场机会（二）",
+    "type": "single",
+    "stem": "（）是人类学最根本的研究方法。",
+    "options": {
+      "A": "文献法",
+      "B": "观察法",
+      "C": "访谈法",
+      "D": "问卷法"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=29",
+    "sourceLabel": "复旦大学资料第 29 页 · 原第 2 题",
+    "sourcePages": [
+      29
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-210",
+    "chapter": "6.2 评估全球市场机会（二）",
+    "type": "judge",
+    "stem": "FOB\\CFR 都属于象征性交货的贸易术语。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=29",
+    "sourceLabel": "复旦大学资料第 29 页 · 原第 3 题",
+    "sourcePages": [
+      29
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-211",
+    "chapter": "6.3 评估全球市场机会（三）",
+    "type": "single",
+    "stem": "（）是国际市场调研中成本最高的环节。",
+    "options": {
+      "A": "目标客户定位",
+      "B": "优势对比",
+      "C": "产品研发",
+      "D": "信息搜集"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=29",
+    "sourceLabel": "复旦大学资料第 29 页 · 原第 1 题",
+    "sourcePages": [
+      29
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-212",
+    "chapter": "6.3 评估全球市场机会（三）",
+    "type": "single",
+    "stem": "下列选项中，不属于企业进入市场的类型的是（）。",
+    "options": {
+      "A": "并购",
+      "B": "加工处理",
+      "C": "向要素市场采购",
+      "D": "向成品市场销售"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=29",
+    "sourceLabel": "复旦大学资料第 29 页 · 原第 2 题",
+    "sourcePages": [
+      29
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-213",
+    "chapter": "6.3 评估全球市场机会（三）",
+    "type": "single",
+    "stem": "下列选项中，不属于 Austin 环境分析框架的是（）。",
+    "options": {
+      "A": "文化因素",
+      "B": "社会因素",
+      "C": "经济因素",
+      "D": "政治因素"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=29",
+    "sourceLabel": "复旦大学资料第 29 页 · 原第 3 题",
+    "sourcePages": [
+      29
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-214",
+    "chapter": "6.3 评估全球市场机会（三）",
+    "type": "judge",
+    "stem": "要素、市场和产品是国外目标市场的三大类因素。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=29",
+    "sourceLabel": "复旦大学资料第 29 页 · 原第 4 题",
+    "sourcePages": [
+      29
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-215",
+    "chapter": "6.3 评估全球市场机会（三）",
+    "type": "judge",
+    "stem": "目标市场筛选过程第一步是对几个主要大型国家进行调查。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=29",
+    "sourceLabel": "复旦大学资料第 29 页 · 原第 5 题",
+    "sourcePages": [
+      29,
+      30
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-216",
+    "chapter": "6.4 评估全球市场机会（四）",
+    "type": "single",
+    "stem": "（）是企业国际化的内涵。",
+    "options": {
+      "A": "生产国际化",
+      "B": "销售国际化",
+      "C": "管理国际化",
+      "D": "以上都包括"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=30",
+    "sourceLabel": "复旦大学资料第 30 页 · 原第 1 题",
+    "sourcePages": [
+      30
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-217",
+    "chapter": "6.4 评估全球市场机会（四）",
+    "type": "single",
+    "stem": "对于本国市场狭小的企业来说，（）是企业发展的唯一选择。",
+    "options": {
+      "A": "扩大生产规模",
+      "B": "实现企业国际化发展",
+      "C": "提高知名度",
+      "D": "提高产品质量"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=30",
+    "sourceLabel": "复旦大学资料第 30 页 · 原第 2 题",
+    "sourcePages": [
+      30
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-218",
+    "chapter": "6.4 评估全球市场机会（四）",
+    "type": "single",
+    "stem": "（）是指在现有的市场中发展新的产品。",
+    "options": {
+      "A": "渗透策略",
+      "B": "新产品发展策略",
+      "C": "相关或非相关的多元化",
+      "D": "市场拓展策略"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=30",
+    "sourceLabel": "复旦大学资料第 30 页 · 原第 3 题",
+    "sourcePages": [
+      30
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-219",
+    "chapter": "6.4 评估全球市场机会（四）",
+    "type": "single",
+    "stem": "产品发展策略是基于（）。",
+    "options": {
+      "A": "规模经济",
+      "B": "质量经济",
+      "C": "效益经济",
+      "D": "范围经济"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=30",
+    "sourceLabel": "复旦大学资料第 30 页 · 原第 4 题",
+    "sourcePages": [
+      30
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-220",
+    "chapter": "6.4 评估全球市场机会（四）",
+    "type": "judge",
+    "stem": "距离造成了国际市场绝大部分的成本和代价。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=30",
+    "sourceLabel": "复旦大学资料第 30 页 · 原第 5 题",
+    "sourcePages": [
+      30
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-221",
+    "chapter": "6.4 评估全球市场机会（四）",
+    "type": "judge",
+    "stem": "一旦规则发生变化，先进入市场者要比后进入市场者具有较大的优势。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=30",
+    "sourceLabel": "复旦大学资料第 30 页 · 原第 6 题",
+    "sourcePages": [
+      30
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-222",
+    "chapter": "6.5 评估全球市场机会（五）",
+    "type": "single",
+    "stem": "跨国公司的收购通常分为两种形式，分别是吸收兼并和（）。",
+    "options": {
+      "A": "换股收购",
+      "B": "公开收购",
+      "C": "杠杆收购",
+      "D": "创新合并"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=30",
+    "sourceLabel": "复旦大学资料第 30 页 · 原第 1 题",
+    "sourcePages": [
+      30,
+      31
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-223",
+    "chapter": "6.5 评估全球市场机会（五）",
+    "type": "single",
+    "stem": "截止到 20 世纪 60 年代，可口可乐公司都采用（）。",
+    "options": {
+      "A": "专业化营销策略",
+      "B": "集中化营销策略",
+      "C": "无差异营销策略",
+      "D": "差异化营销策略"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=31",
+    "sourceLabel": "复旦大学资料第 31 页 · 原第 2 题",
+    "sourcePages": [
+      31
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-224",
+    "chapter": "6.5 评估全球市场机会（五）",
+    "type": "single",
+    "stem": "跨国公司的法律形式有哪四类？（）",
+    "options": {
+      "A": "母公司、子公司、分公司、避税地公司",
+      "B": "总公司、子公司、分公司、避税地公司",
+      "C": "总公司、子公司、分公司、控股公司",
+      "D": "母公司、子公司、分公司、控股公司"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=31",
+    "sourceLabel": "复旦大学资料第 31 页 · 原第 3 题",
+    "sourcePages": [
+      31
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-225",
+    "chapter": "6.5 评估全球市场机会（五）",
+    "type": "single",
+    "stem": "跨国公司为了加强某地的投资，而往往必须放弃另外其他地区投资的撤资策略是（）。",
+    "options": {
+      "A": "主动撤资",
+      "B": "有计划地撤资",
+      "C": "被动撤资",
+      "D": "进攻性撤资"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=31",
+    "sourceLabel": "复旦大学资料第 31 页 · 原第 4 题",
+    "sourcePages": [
+      31
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-226",
+    "chapter": "6.5 评估全球市场机会（五）",
+    "type": "judge",
+    "stem": "跨国公司借助“参与制”以大量的自有资本控制他人的巨额资本。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=31",
+    "sourceLabel": "复旦大学资料第 31 页 · 原第 5 题",
+    "sourcePages": [
+      31
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-227",
+    "chapter": "6.5 评估全球市场机会（五）",
+    "type": "judge",
+    "stem": "跨国公司与国际公司的含义和特征相同，两者都具有国际性和多国性。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=31",
+    "sourceLabel": "复旦大学资料第 31 页 · 原第 6 题",
+    "sourcePages": [
+      31
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-228",
+    "chapter": "7.1 跨国公司演进轨迹（一）",
+    "type": "single",
+    "stem": "对于产品线有限、业务地区分布较广的跨国公司，通常会采取（）。",
+    "options": {
+      "A": "全球性地区组织结构",
+      "B": "混合式组织结构",
+      "C": "矩阵式组织结构",
+      "D": "全球性产品组织结构"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=31",
+    "sourceLabel": "复旦大学资料第 31 页 · 原第 1 题",
+    "sourcePages": [
+      31
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-229",
+    "chapter": "7.1 跨国公司演进轨迹（一）",
+    "type": "single",
+    "stem": "（）不属于跨国公司演进的特点。",
+    "options": {
+      "A": "间断演进",
+      "B": "演进放缓",
+      "C": "加速演进",
+      "D": "反向演进"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=31",
+    "sourceLabel": "复旦大学资料第 31 页 · 原第 2 题",
+    "sourcePages": [
+      31,
+      32
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-230",
+    "chapter": "7.1 跨国公司演进轨迹（一）",
+    "type": "single",
+    "stem": "跨国公司技术转移时的技术使用费的支付方式包括（）。",
+    "options": {
+      "A": "入门费加提成费方式",
+      "B": "入门费方式",
+      "C": "总付方式",
+      "D": "提成费方式"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=32",
+    "sourceLabel": "复旦大学资料第 32 页 · 原第 3 题",
+    "sourcePages": [
+      32
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-231",
+    "chapter": "7.1 跨国公司演进轨迹（一）",
+    "type": "judge",
+    "stem": "跨国企业的技术转移中，LSLP 原则是指利润分成率原则。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=32",
+    "sourceLabel": "复旦大学资料第 32 页 · 原第 4 题",
+    "sourcePages": [
+      32
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-232",
+    "chapter": "7.1 跨国公司演进轨迹（一）",
+    "type": "judge",
+    "stem": "跨国合营企业的注册资本是双方实缴额而不是认缴额。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=32",
+    "sourceLabel": "复旦大学资料第 32 页 · 原第 5 题",
+    "sourcePages": [
+      32
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-233",
+    "chapter": "7.1 跨国公司演进轨迹（一）",
+    "type": "judge",
+    "stem": "ＴＮＣＳ对外直接投资的区位配置已明显向发展中国家倾斜。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=32",
+    "sourceLabel": "复旦大学资料第 32 页 · 原第 6 题",
+    "sourcePages": [
+      32
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-234",
+    "chapter": "7.2 跨国公司演进轨迹（二）",
+    "type": "single",
+    "stem": "（）掌握着日本企业的最高决策权。",
+    "options": {
+      "A": "股东大会",
+      "B": "企业社长",
+      "C": "职业经理人",
+      "D": "董事会"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=32",
+    "sourceLabel": "复旦大学资料第 32 页 · 原第 1 题",
+    "sourcePages": [
+      32
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-235",
+    "chapter": "7.2 跨国公司演进轨迹（二）",
+    "type": "single",
+    "stem": "下列选项中，公司重构的主要内容不包括（）。",
+    "options": {
+      "A": "业务重构",
+      "B": "财务重构",
+      "C": "组织重构",
+      "D": "工商重构"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=32",
+    "sourceLabel": "复旦大学资料第 32 页 · 原第 2 题",
+    "sourcePages": [
+      32
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-236",
+    "chapter": "7.2 跨国公司演进轨迹（二）",
+    "type": "single",
+    "stem": "（）是美国大公司的管理重心。",
+    "options": {
+      "A": "从低至高的职业经理层",
+      "B": "高层",
+      "C": "基层",
+      "D": "中高层"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=32",
+    "sourceLabel": "复旦大学资料第 32 页 · 原第 3 题",
+    "sourcePages": [
+      32
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-237",
+    "chapter": "7.2 跨国公司演进轨迹（二）",
+    "type": "single",
+    "stem": "下列国家中，（）的大公司治理中将员工利益放在首位。",
+    "options": {
+      "A": "韩国",
+      "B": "德国",
+      "C": "美国",
+      "D": "日本"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=32",
+    "sourceLabel": "复旦大学资料第 32 页 · 原第 4 题",
+    "sourcePages": [
+      32,
+      33
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-238",
+    "chapter": "7.2 跨国公司演进轨迹（二）",
+    "type": "judge",
+    "stem": "日本企业由家族控股，因此在集权和规模化经营方面具有独特优势。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=33",
+    "sourceLabel": "复旦大学资料第 33 页 · 原第 5 题",
+    "sourcePages": [
+      33
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-239",
+    "chapter": "7.2 跨国公司演进轨迹（二）",
+    "type": "judge",
+    "stem": "美国之所以能够具有很多创新产品，与其制度和文化有着密切联系。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=33",
+    "sourceLabel": "复旦大学资料第 33 页 · 原第 6 题",
+    "sourcePages": [
+      33
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-240",
+    "chapter": "7.3 跨国公司演进轨迹（三）",
+    "type": "single",
+    "stem": "下列选项中，（）属于多国行业竞争。",
+    "options": {
+      "A": "软饮料市场",
+      "B": "蔬菜市场",
+      "C": "计算机市场",
+      "D": "玩具市场"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=33",
+    "sourceLabel": "复旦大学资料第 33 页 · 原第 1 题",
+    "sourcePages": [
+      33
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-241",
+    "chapter": "7.3 跨国公司演进轨迹（三）",
+    "type": "single",
+    "stem": "关于跨国公司在大宗贸易市场竞争中的地位，下列说法错误的是（）。",
+    "options": {
+      "A": "政治敏感性高",
+      "B": "以直接投资的方式为主",
+      "C": "产品以资源与劳动力密集型为主",
+      "D": "跨国公司在大宗贸易市场上作用有限"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=33",
+    "sourceLabel": "复旦大学资料第 33 页 · 原第 2 题",
+    "sourcePages": [
+      33
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-242",
+    "chapter": "7.3 跨国公司演进轨迹（三）",
+    "type": "single",
+    "stem": "下列选项中，关于福特模式的描述错误的是（）。",
+    "options": {
+      "A": "强调消除浪费",
+      "B": "强调精英管理",
+      "C": "重视规模效益",
+      "D": "主张通过“量”的扩张和品牌优势来获得垄断优势"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=33",
+    "sourceLabel": "复旦大学资料第 33 页 · 原第 3 题",
+    "sourcePages": [
+      33
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-243",
+    "chapter": "7.3 跨国公司演进轨迹（三）",
+    "type": "single",
+    "stem": "（）是丰田企业价值观的核心。",
+    "options": {
+      "A": "规模战胜一切",
+      "B": "顾客即是上帝",
+      "C": "质量大于数量",
+      "D": "精益管理思想"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=33",
+    "sourceLabel": "复旦大学资料第 33 页 · 原第 4 题",
+    "sourcePages": [
+      33
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-244",
+    "chapter": "7.3 跨国公司演进轨迹（三）",
+    "type": "judge",
+    "stem": "丰田财务模式是一种积极的财政政策。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=33",
+    "sourceLabel": "复旦大学资料第 33 页 · 原第 5 题",
+    "sourcePages": [
+      33
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-245",
+    "chapter": "7.3 跨国公司演进轨迹（三）",
+    "type": "judge",
+    "stem": "成本领先战略认为，低成本可以抵御竞争对手的抗争。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=34",
+    "sourceLabel": "复旦大学资料第 34 页 · 原第 6 题",
+    "sourcePages": [
+      34
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-246",
+    "chapter": "7.3 跨国公司演进轨迹（三）",
+    "type": "judge",
+    "stem": "丰田模式是欧美管理模式的复制。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=34",
+    "sourceLabel": "复旦大学资料第 34 页 · 原第 7 题",
+    "sourcePages": [
+      34
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-247",
+    "chapter": "8.1 国际战略选择与执行（一）",
+    "type": "single",
+    "stem": "（）通常制定战略规划。",
+    "options": {
+      "A": "CEO",
+      "B": "董事长",
+      "C": "总部高阶主管和子公司主管",
+      "D": "股东代表"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=34",
+    "sourceLabel": "复旦大学资料第 34 页 · 原第 1 题",
+    "sourcePages": [
+      34
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-248",
+    "chapter": "8.1 国际战略选择与执行（一）",
+    "type": "single",
+    "stem": "以世界为导向的国际战略思想是（）。",
+    "options": {
+      "A": "地球中心主义",
+      "B": "民族中心主义",
+      "C": "多国中心主义",
+      "D": "以上都不对"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=34",
+    "sourceLabel": "复旦大学资料第 34 页 · 原第 2 题",
+    "sourcePages": [
+      34
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-249",
+    "chapter": "8.1 国际战略选择与执行（一）",
+    "type": "single",
+    "stem": "（）是多国市场的竞争焦点。",
+    "options": {
+      "A": "市场拓展阶段",
+      "B": "市场营销阶段",
+      "C": "产品销售阶段",
+      "D": "产品生产阶段"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=34",
+    "sourceLabel": "复旦大学资料第 34 页 · 原第 3 题",
+    "sourcePages": [
+      34
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-250",
+    "chapter": "8.1 国际战略选择与执行（一）",
+    "type": "judge",
+    "stem": "多国化导向中，每个子公司只针对当地市场习惯而制定战略规划。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=34",
+    "sourceLabel": "复旦大学资料第 34 页 · 原第 4 题",
+    "sourcePages": [
+      34
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-251",
+    "chapter": "8.1 国际战略选择与执行（一）",
+    "type": "judge",
+    "stem": "医药产业和电信产业的公司都坚持多国化战略导向。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=34",
+    "sourceLabel": "复旦大学资料第 34 页 · 原第 5 题",
+    "sourcePages": [
+      34
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-252",
+    "chapter": "8.2 国际战略选择与执行（二）",
+    "type": "single",
+    "stem": "集中化战略分为低成本集中化和（）。",
+    "options": {
+      "A": "差异的集中化",
+      "B": "顾客集中化",
+      "C": "地区集中化",
+      "D": "产品线集中化"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=34",
+    "sourceLabel": "复旦大学资料第 34 页 · 原第 1 题",
+    "sourcePages": [
+      34
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-253",
+    "chapter": "8.2 国际战略选择与执行（二）",
+    "type": "single",
+    "stem": "（）是竞争对手各种行为取向的最根本动因。",
+    "options": {
+      "A": "现行战略",
+      "B": "未来目标",
+      "C": "潜在能力",
+      "D": "自我假设"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=35",
+    "sourceLabel": "复旦大学资料第 35 页 · 原第 2 题",
+    "sourcePages": [
+      35
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-254",
+    "chapter": "8.2 国际战略选择与执行（二）",
+    "type": "single",
+    "stem": "（）是企业竞争优势的根基。",
+    "options": {
+      "A": "核心竞争力",
+      "B": "财务能力",
+      "C": "营销能力",
+      "D": "科技能力"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=35",
+    "sourceLabel": "复旦大学资料第 35 页 · 原第 3 题",
+    "sourcePages": [
+      35
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-255",
+    "chapter": "8.2 国际战略选择与执行（二）",
+    "type": "single",
+    "stem": "取得某种对顾客有价值的（）是差异化战略的核心。",
+    "options": {
+      "A": "可靠性",
+      "B": "独特性",
+      "C": "信誉性",
+      "D": "实用性"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=35",
+    "sourceLabel": "复旦大学资料第 35 页 · 原第 4 题",
+    "sourcePages": [
+      35
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-256",
+    "chapter": "8.2 国际战略选择与执行（二）",
+    "type": "judge",
+    "stem": "对于规模经济型行业中的优胜企业可以采用领导地位战略。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=35",
+    "sourceLabel": "复旦大学资料第 35 页 · 原第 5 题",
+    "sourcePages": [
+      35
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-257",
+    "chapter": "8.2 国际战略选择与执行（二）",
+    "type": "judge",
+    "stem": "战略联盟中的合作与竞争是兼容的。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=35",
+    "sourceLabel": "复旦大学资料第 35 页 · 原第 6 题",
+    "sourcePages": [
+      35
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-258",
+    "chapter": "8.2 国际战略选择与执行（二）",
+    "type": "judge",
+    "stem": "从企业经营战略角度看，行业生命周期分为新兴、成熟、衰退、危机四个阶段。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=35",
+    "sourceLabel": "复旦大学资料第 35 页 · 原第 7 题",
+    "sourcePages": [
+      35
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-259",
+    "chapter": "8.3 国际战略选择与执行（三）",
+    "type": "single",
+    "stem": "分析工具（）是指对企业外部环境和内部条件进行分析，从而找出二者最佳可行战略组合。",
+    "options": {
+      "A": "波士顿矩阵分析",
+      "B": "SWOT 分析矩阵",
+      "C": "政策指导矩阵",
+      "D": "优劣分析"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=35",
+    "sourceLabel": "复旦大学资料第 35 页 · 原第 1 题",
+    "sourcePages": [
+      35
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-260",
+    "chapter": "8.3 国际战略选择与执行（三）",
+    "type": "single",
+    "stem": "下列选项中，执行多样化战略的原因不包括（）。",
+    "options": {
+      "A": "获得与竞争者相关的市场势力",
+      "B": "提高某个业务单元的不佳经营状况",
+      "C": "强化整个公司的战略竞争力",
+      "D": "扩充业务活动以减少管理风险"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=35",
+    "sourceLabel": "复旦大学资料第 35 页 · 原第 2 题",
+    "sourcePages": [
+      35,
+      36
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-261",
+    "chapter": "8.3 国际战略选择与执行（三）",
+    "type": "single",
+    "stem": "制定企业的战略目标既要具有可行性，又要考虑到它的先进性，这是指战略目标制定的（）。",
+    "options": {
+      "A": "激励性",
+      "B": "稳定性",
+      "C": "关键性",
+      "D": "一致性"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=36",
+    "sourceLabel": "复旦大学资料第 36 页 · 原第 3 题",
+    "sourcePages": [
+      36
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-262",
+    "chapter": "8.3 国际战略选择与执行（三）",
+    "type": "single",
+    "stem": "（）是指一个公司收购其产品供应商的行为。",
+    "options": {
+      "A": "横向收购",
+      "B": "不相关收购",
+      "C": "恶意接管",
+      "D": "纵向收购"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=36",
+    "sourceLabel": "复旦大学资料第 36 页 · 原第 4 题",
+    "sourcePages": [
+      36
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-263",
+    "chapter": "8.3 国际战略选择与执行（三）",
+    "type": "judge",
+    "stem": "企业战略环境对企业的影响是局部的，未来的，动态的。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=36",
+    "sourceLabel": "复旦大学资料第 36 页 · 原第 5 题",
+    "sourcePages": [
+      36
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-264",
+    "chapter": "8.3 国际战略选择与执行（三）",
+    "type": "judge",
+    "stem": "战略联盟是全球化的重要路径之一。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=36",
+    "sourceLabel": "复旦大学资料第 36 页 · 原第 6 题",
+    "sourcePages": [
+      36
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-265",
+    "chapter": "8.4 国际战略选择与执行（四）",
+    "type": "single",
+    "stem": "（）是指不同的民族有着不同的语言、观念文化、行为文化、物质文化等等。",
+    "options": {
+      "A": "制度差异",
+      "B": "文化差异",
+      "C": "体制差异",
+      "D": "种族差异"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=36",
+    "sourceLabel": "复旦大学资料第 36 页 · 原第 1 题",
+    "sourcePages": [
+      36
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-266",
+    "chapter": "8.4 国际战略选择与执行（四）",
+    "type": "single",
+    "stem": "（）是广义的国际经营政治环境。",
+    "options": {
+      "A": "东道国的政治环境",
+      "B": "整个国际政治体系和格局",
+      "C": "东道国的政治体制",
+      "D": "国际政治体系"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=36",
+    "sourceLabel": "复旦大学资料第 36 页 · 原第 2 题",
+    "sourcePages": [
+      36
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-267",
+    "chapter": "8.4 国际战略选择与执行（四）",
+    "type": "single",
+    "stem": "下列选项中，企业战略的定量标准不包括（）。",
+    "options": {
+      "A": "利润水平",
+      "B": "投资回报率",
+      "C": "企业战略选择",
+      "D": "销售总额"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=36",
+    "sourceLabel": "复旦大学资料第 36 页 · 原第 3 题",
+    "sourcePages": [
+      36,
+      37
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-268",
+    "chapter": "8.4 国际战略选择与执行（四）",
+    "type": "judge",
+    "stem": "发达国家的对外贸易依存度普遍比发展中国家的对外贸易依存度要高。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=37",
+    "sourceLabel": "复旦大学资料第 37 页 · 原第 4 题",
+    "sourcePages": [
+      37
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-269",
+    "chapter": "8.5 国际战略选择与执行（五）",
+    "type": "single",
+    "stem": "下列选项中，企业核心竞争能力整合的基本方式不包括（）。",
+    "options": {
+      "A": "功能配合",
+      "B": "技术的功能性配合",
+      "C": "技术复合",
+      "D": "技术融合"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=37",
+    "sourceLabel": "复旦大学资料第 37 页 · 原第 1 题",
+    "sourcePages": [
+      37
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-270",
+    "chapter": "8.5 国际战略选择与执行（五）",
+    "type": "single",
+    "stem": "（）最早出现了企业战略管理。",
+    "options": {
+      "A": "日本",
+      "B": "德国",
+      "C": "澳大利亚",
+      "D": "美国"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=37",
+    "sourceLabel": "复旦大学资料第 37 页 · 原第 2 题",
+    "sourcePages": [
+      37
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-271",
+    "chapter": "8.5 国际战略选择与执行（五）",
+    "type": "single",
+    "stem": "（）是简单整合最普遍的形式。",
+    "options": {
+      "A": "委托加工",
+      "B": "外包",
+      "C": "内部整合",
+      "D": "市场整合"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=37",
+    "sourceLabel": "复旦大学资料第 37 页 · 原第 3 题",
+    "sourcePages": [
+      37
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-272",
+    "chapter": "8.5 国际战略选择与执行（五）",
+    "type": "single",
+    "stem": "下列选项中，核心竞争力的特点不包括（）。",
+    "options": {
+      "A": "可以模仿的",
+      "B": "稀有的",
+      "C": "有价值的",
+      "D": "不可替代的"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=37",
+    "sourceLabel": "复旦大学资料第 37 页 · 原第 4 题",
+    "sourcePages": [
+      37
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-273",
+    "chapter": "8.5 国际战略选择与执行（五）",
+    "type": "judge",
+    "stem": "公司要不断地加强和补充核心竞争力，并将其作为日后发展和出售一系列最终产品的途径。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=37",
+    "sourceLabel": "复旦大学资料第 37 页 · 原第 5 题",
+    "sourcePages": [
+      37
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-274",
+    "chapter": "8.5 国际战略选择与执行（五）",
+    "type": "judge",
+    "stem": "全局性是企业战略管理最根本的特性。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=37",
+    "sourceLabel": "复旦大学资料第 37 页 · 原第 6 题",
+    "sourcePages": [
+      37
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-275",
+    "chapter": "8.5 国际战略选择与执行（五）",
+    "type": "judge",
+    "stem": "战术是一种宏观布局，战略是一种具体操作方案。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=38",
+    "sourceLabel": "复旦大学资料第 38 页 · 原第 7 题",
+    "sourcePages": [
+      38
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-276",
+    "chapter": "8.6 国际战略选择与执行（六）",
+    "type": "single",
+    "stem": "下列选项中，汽车行业的战略选择属于（）。",
+    "options": {
+      "A": "经济规则导向",
+      "B": "文化规则导向",
+      "C": "质量规则导向",
+      "D": "政治规则导向"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=38",
+    "sourceLabel": "复旦大学资料第 38 页 · 原第 1 题",
+    "sourcePages": [
+      38
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-277",
+    "chapter": "8.6 国际战略选择与执行（六）",
+    "type": "single",
+    "stem": "下列选项中，“拉丁美洲自由贸易协会”属于（）。",
+    "options": {
+      "A": "关税同盟",
+      "B": "完全经济一体化",
+      "C": "经济同盟",
+      "D": "自由贸易区"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=38",
+    "sourceLabel": "复旦大学资料第 38 页 · 原第 2 题",
+    "sourcePages": [
+      38
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-278",
+    "chapter": "8.6 国际战略选择与执行（六）",
+    "type": "single",
+    "stem": "（）最早提出全球本土化的概念。",
+    "options": {
+      "A": "20 世纪 60 年代",
+      "B": "20 世纪 70 年代",
+      "C": "20 世纪 90 年代",
+      "D": "20 世纪 80 年代"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=38",
+    "sourceLabel": "复旦大学资料第 38 页 · 原第 3 题",
+    "sourcePages": [
+      38
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-279",
+    "chapter": "8.6 国际战略选择与执行（六）",
+    "type": "single",
+    "stem": "下列选项中，（）不属于获得国家竞争力的公司层面的战略。",
+    "options": {
+      "A": "跨国公司",
+      "B": "全球本土化",
+      "C": "发挥核心竞争力的杠杆作用",
+      "D": "反击"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=38",
+    "sourceLabel": "复旦大学资料第 38 页 · 原第 4 题",
+    "sourcePages": [
+      38
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-280",
+    "chapter": "8.6 国际战略选择与执行（六）",
+    "type": "judge",
+    "stem": "保险行业的战略选择符合质量规则导向。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=38",
+    "sourceLabel": "复旦大学资料第 38 页 · 原第 5 题",
+    "sourcePages": [
+      38
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-281",
+    "chapter": "8.6 国际战略选择与执行（六）",
+    "type": "judge",
+    "stem": "麦当劳的成功是全球本土化的经典案例之一。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=38",
+    "sourceLabel": "复旦大学资料第 38 页 · 原第 6 题",
+    "sourcePages": [
+      38
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-282",
+    "chapter": "8.6 国际战略选择与执行（六）",
+    "type": "judge",
+    "stem": "公司全球竞争力取决于通过内部发展、许可证交易或战略结盟发展的能力。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=38",
+    "sourceLabel": "复旦大学资料第 38 页 · 原第 7 题",
+    "sourcePages": [
+      38
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-283",
+    "chapter": "8.7 国际战略选择与执行（七）",
+    "type": "single",
+    "stem": "（）是市场调查中的抽样对象。",
+    "options": {
+      "A": "样本大小",
+      "B": "抽样方法",
+      "C": "抽样时机",
+      "D": "抽样范围"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=39",
+    "sourceLabel": "复旦大学资料第 39 页 · 原第 1 题",
+    "sourcePages": [
+      39
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-284",
+    "chapter": "8.7 国际战略选择与执行（七）",
+    "type": "single",
+    "stem": "国际企业当地管理人员的（），表现为一旦当地管理人员在子公司被提拔到最高职位时，他们就不能再提升了。",
+    "options": {
+      "A": "不可移动性",
+      "B": "不可升迁性",
+      "C": "不可降低性",
+      "D": "不可解雇性"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=39",
+    "sourceLabel": "复旦大学资料第 39 页 · 原第 2 题",
+    "sourcePages": [
+      39
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-285",
+    "chapter": "8.7 国际战略选择与执行（七）",
+    "type": "single",
+    "stem": "下列选项中，国际企业公司治理结构权利阶层不包括（）。",
+    "options": {
+      "A": "董事会",
+      "B": "纪委",
+      "C": "监事会",
+      "D": "股东大会"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=39",
+    "sourceLabel": "复旦大学资料第 39 页 · 原第 3 题",
+    "sourcePages": [
+      39
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-286",
+    "chapter": "8.7 国际战略选择与执行（七）",
+    "type": "judge",
+    "stem": "“跨国公司操纵垄断价格，获得高额利润”这个命题中的垄断价格既包括卖方垄断价格，也包括买方垄断价格。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=39",
+    "sourceLabel": "复旦大学资料第 39 页 · 原第 4 题",
+    "sourcePages": [
+      39
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-287",
+    "chapter": "9.1 跨国经营组织与控制（一）",
+    "type": "single",
+    "stem": "（）是当跨国公司产品经营多样化、地区多样化时所采取的结构。",
+    "options": {
+      "A": "产品部制",
+      "B": "国际部",
+      "C": "销售部",
+      "D": "生产部"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=39",
+    "sourceLabel": "复旦大学资料第 39 页 · 原第 1 题",
+    "sourcePages": [
+      39
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-288",
+    "chapter": "9.1 跨国经营组织与控制（一）",
+    "type": "single",
+    "stem": "一般跨国公司组织形式发展的第三阶段是（）。",
+    "options": {
+      "A": "出口部",
+      "B": "国际部",
+      "C": "全球结构",
+      "D": "销售部"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=39",
+    "sourceLabel": "复旦大学资料第 39 页 · 原第 2 题",
+    "sourcePages": [
+      39
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-289",
+    "chapter": "9.1 跨国经营组织与控制（一）",
+    "type": "single",
+    "stem": "关于矩阵制组织结构，下列描述正确的是（）。",
+    "options": {
+      "A": "将企业的横向与纵向紧密相连",
+      "B": "有利于发挥个体优势，集众家之长",
+      "C": "有利于信息沟通交流",
+      "D": "以上都对"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=39",
+    "sourceLabel": "复旦大学资料第 39 页 · 原第 3 题",
+    "sourcePages": [
+      39,
+      40
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-290",
+    "chapter": "9.2 跨国经营组织与控制（二）",
+    "type": "single",
+    "stem": "关于无边界组织，下列描述错误的是（）。",
+    "options": {
+      "A": "大量采用项目团队、跨功能团队",
+      "B": "与竞争对手处于绝对敌对状态",
+      "C": "可以和供应商、客户建立战略联盟",
+      "D": "与外界边界模糊"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=40",
+    "sourceLabel": "复旦大学资料第 40 页 · 原第 1 题",
+    "sourcePages": [
+      40
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-291",
+    "chapter": "9.2 跨国经营组织与控制（二）",
+    "type": "single",
+    "stem": "根据内部化理论，跨国化就是企业（）。",
+    "options": {
+      "A": "内部化过程超越国界的表现",
+      "B": "特定优势的体现",
+      "C": "内部关系和对外关系的协调统一",
+      "D": "加强内部组织管理"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=40",
+    "sourceLabel": "复旦大学资料第 40 页 · 原第 2 题",
+    "sourcePages": [
+      40
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-292",
+    "chapter": "9.2 跨国经营组织与控制（二）",
+    "type": "single",
+    "stem": "下列选项中，企业型网络不包括（）。",
+    "options": {
+      "A": "独立的利润中心",
+      "B": "纳入合伙关系",
+      "C": "纯粹的经济式",
+      "D": "许可证贸易"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=40",
+    "sourceLabel": "复旦大学资料第 40 页 · 原第 3 题",
+    "sourcePages": [
+      40
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-293",
+    "chapter": "9.2 跨国经营组织与控制（二）",
+    "type": "judge",
+    "stem": "软环境好了，则可在一定程度上弥补硬环境的不足。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=40",
+    "sourceLabel": "复旦大学资料第 40 页 · 原第 4 题",
+    "sourcePages": [
+      40
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-294",
+    "chapter": "9.2 跨国经营组织与控制（二）",
+    "type": "judge",
+    "stem": "跨国公司与从事跨国经营的企业之间的最本质区别是经营业务国际化。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=40",
+    "sourceLabel": "复旦大学资料第 40 页 · 原第 5 题",
+    "sourcePages": [
+      40
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-295",
+    "chapter": "9.2 跨国经营组织与控制（二）",
+    "type": "judge",
+    "stem": "联合利华是一家美国跨国公司。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=40",
+    "sourceLabel": "复旦大学资料第 40 页 · 原第 6 题",
+    "sourcePages": [
+      40
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-296",
+    "chapter": "9.3 跨国经营组织与控制（三）",
+    "type": "single",
+    "stem": "下列选项中，（）不属于企业的法律形式。",
+    "options": {
+      "A": "个人企业",
+      "B": "合伙",
+      "C": "公司",
+      "D": "工厂"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=40",
+    "sourceLabel": "复旦大学资料第 40 页 · 原第 1 题",
+    "sourcePages": [
+      40,
+      41
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-297",
+    "chapter": "9.3 跨国经营组织与控制（三）",
+    "type": "single",
+    "stem": "企业着眼于全球竞争力而进行的投资属于（）。",
+    "options": {
+      "A": "劳动力导向型投资",
+      "B": "战略导向型投资",
+      "C": "自然资源导向型投资",
+      "D": "市场导向投资"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=41",
+    "sourceLabel": "复旦大学资料第 41 页 · 原第 2 题",
+    "sourcePages": [
+      41
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-298",
+    "chapter": "9.3 跨国经营组织与控制（三）",
+    "type": "single",
+    "stem": "（）是将研发机构设在母国公司的跨国公司创新形式。",
+    "options": {
+      "A": "借力地方创新",
+      "B": "全球联动创新",
+      "C": "中央创新",
+      "D": "地方创新"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=41",
+    "sourceLabel": "复旦大学资料第 41 页 · 原第 3 题",
+    "sourcePages": [
+      41
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-299",
+    "chapter": "9.3 跨国经营组织与控制（三）",
+    "type": "judge",
+    "stem": "美国的公司更倾向于社会化，欧洲的公司倾向于集权。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=41",
+    "sourceLabel": "复旦大学资料第 41 页 · 原第 4 题",
+    "sourcePages": [
+      41
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-300",
+    "chapter": "9.3 跨国经营组织与控制（三）",
+    "type": "judge",
+    "stem": "在工业发展早期，最早出现的组织结构形式是职能制。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=41",
+    "sourceLabel": "复旦大学资料第 41 页 · 原第 5 题",
+    "sourcePages": [
+      41
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-301",
+    "chapter": "9.4 跨国经营组织与控制（四）",
+    "type": "single",
+    "stem": "当一个子公司面对高全球化压力，但是能力较低时，通常采取的战略选择是（）。",
+    "options": {
+      "A": "建立合资企业或者兼并",
+      "B": "发挥战略创造性",
+      "C": "影响母公司战略",
+      "D": "遵循母公司指令"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=41",
+    "sourceLabel": "复旦大学资料第 41 页 · 原第 1 题",
+    "sourcePages": [
+      41
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-302",
+    "chapter": "9.4 跨国经营组织与控制（四）",
+    "type": "single",
+    "stem": "（）是跨国公司内部交易的特征。",
+    "options": {
+      "A": "完全控股",
+      "B": "内部商品调拨",
+      "C": "转移定价",
+      "D": "统一管理"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=41",
+    "sourceLabel": "复旦大学资料第 41 页 · 原第 2 题",
+    "sourcePages": [
+      41
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-303",
+    "chapter": "9.4 跨国经营组织与控制（四）",
+    "type": "single",
+    "stem": "（）的子公司管控模式体现为“上有头脑，下有头脑”。",
+    "options": {
+      "A": "完全管控型",
+      "B": "战略管控型",
+      "C": "操作管控型",
+      "D": "财务管控型"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=41",
+    "sourceLabel": "复旦大学资料第 41 页 · 原第 3 题",
+    "sourcePages": [
+      41
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-304",
+    "chapter": "9.4 跨国经营组织与控制（四）",
+    "type": "single",
+    "stem": "下列选项中，（）不属于对子公司的管理模式。",
+    "options": {
+      "A": "复制式结构",
+      "B": "全球性下属公司结构",
+      "C": "世界性产品委任结构",
+      "D": "母公司控制式"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=42",
+    "sourceLabel": "复旦大学资料第 42 页 · 原第 4 题",
+    "sourcePages": [
+      42
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-305",
+    "chapter": "9.4 跨国经营组织与控制（四）",
+    "type": "judge",
+    "stem": "外包的功能可以在线完成。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=42",
+    "sourceLabel": "复旦大学资料第 42 页 · 原第 5 题",
+    "sourcePages": [
+      42
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-306",
+    "chapter": "9.4 跨国经营组织与控制（四）",
+    "type": "judge",
+    "stem": "目前世界贸易总量的近 81%为跨国公司内部贸易。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=42",
+    "sourceLabel": "复旦大学资料第 42 页 · 原第 6 题",
+    "sourcePages": [
+      42
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-307",
+    "chapter": "9.4 跨国经营组织与控制（四）",
+    "type": "judge",
+    "stem": "子公司与分公司相同，都是独立的法人。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=42",
+    "sourceLabel": "复旦大学资料第 42 页 · 原第 7 题",
+    "sourcePages": [
+      42
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-308",
+    "chapter": "9.5 跨国经营组织与控制（五）",
+    "type": "single",
+    "stem": "动态性、科学性、艺术性、创造性和（ ）是管理特征体现的五个方面。",
+    "options": {
+      "A": "发展性",
+      "B": "学习性",
+      "C": "盈利性",
+      "D": "经济性"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=42",
+    "sourceLabel": "复旦大学资料第 42 页 · 原第 1 题",
+    "sourcePages": [
+      42
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-309",
+    "chapter": "9.5 跨国经营组织与控制（五）",
+    "type": "single",
+    "stem": "（）是建立在工具设施技术上的直接的跨国公司控制机制。",
+    "options": {
+      "A": "行政控制",
+      "B": "同化控制",
+      "C": "结果控制",
+      "D": "人员控制"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=42",
+    "sourceLabel": "复旦大学资料第 42 页 · 原第 2 题",
+    "sourcePages": [
+      42
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-310",
+    "chapter": "9.5 跨国经营组织与控制（五）",
+    "type": "single",
+    "stem": "管理职能包括计划、组织、领导、（ ）四大基本职能。",
+    "options": {
+      "A": "决策",
+      "B": "控制",
+      "C": "沟通",
+      "D": "战略"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=42",
+    "sourceLabel": "复旦大学资料第 42 页 · 原第 3 题",
+    "sourcePages": [
+      42
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-311",
+    "chapter": "9.5 跨国经营组织与控制（五）",
+    "type": "single",
+    "stem": "（）出现整合网络式的企业组织类型。",
+    "options": {
+      "A": "20 世纪 20 年代",
+      "B": "21 世纪以后",
+      "C": "20 世纪 50 年代",
+      "D": "20 世纪 80 年代"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=42",
+    "sourceLabel": "复旦大学资料第 42 页 · 原第 4 题",
+    "sourcePages": [
+      42,
+      43
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-312",
+    "chapter": "9.5 跨国经营组织与控制（五）",
+    "type": "judge",
+    "stem": "坚持创新是西门子的重要企业文化。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=43",
+    "sourceLabel": "复旦大学资料第 43 页 · 原第 5 题",
+    "sourcePages": [
+      43
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-313",
+    "chapter": "9.6 跨国经营组织与控制（六）",
+    "type": "single",
+    "stem": "（）是为外国市场提供服务的成本最高的方法。",
+    "options": {
+      "A": "与东道国建立伙伴关系",
+      "B": "出口",
+      "C": "特许经营",
+      "D": "建立独资子公司"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=43",
+    "sourceLabel": "复旦大学资料第 43 页 · 原第 1 题",
+    "sourcePages": [
+      43
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-314",
+    "chapter": "9.6 跨国经营组织与控制（六）",
+    "type": "single",
+    "stem": "关于出口的优点，下列说法错误的是（）。",
+    "options": {
+      "A": "实现经验曲线经济和区位经济",
+      "B": "降低关税",
+      "C": "扩大东道国市场",
+      "D": "降低成本"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=43",
+    "sourceLabel": "复旦大学资料第 43 页 · 原第 2 题",
+    "sourcePages": [
+      43
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-315",
+    "chapter": "9.6 跨国经营组织与控制（六）",
+    "type": "single",
+    "stem": "（）是目标管理的精神。",
+    "options": {
+      "A": "以人员编制为中心",
+      "B": "以自我管理为中心",
+      "C": "以监督控制为中心",
+      "D": "以岗位设置为中心"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=43",
+    "sourceLabel": "复旦大学资料第 43 页 · 原第 3 题",
+    "sourcePages": [
+      43
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-316",
+    "chapter": "9.6 跨国经营组织与控制（六）",
+    "type": "single",
+    "stem": "下列选项中，企业进入外国市场的方式不包括（）。",
+    "options": {
+      "A": "出口",
+      "B": "许可经营",
+      "C": "倾销",
+      "D": "交钥匙项目"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=43",
+    "sourceLabel": "复旦大学资料第 43 页 · 原第 4 题",
+    "sourcePages": [
+      43
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-317",
+    "chapter": "9.6 跨国经营组织与控制（六）",
+    "type": "judge",
+    "stem": "价格竞争力是日本企业具有国际竞争能力的基础。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=43",
+    "sourceLabel": "复旦大学资料第 43 页 · 原第 5 题",
+    "sourcePages": [
+      43
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-318",
+    "chapter": "9.6 跨国经营组织与控制（六）",
+    "type": "judge",
+    "stem": "产量决策一般属于定量决策。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=43",
+    "sourceLabel": "复旦大学资料第 43 页 · 原第 6 题",
+    "sourcePages": [
+      43
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-319",
+    "chapter": "9.6 跨国经营组织与控制（六）",
+    "type": "judge",
+    "stem": "亚当·斯密认为把计划职能同执行职能分开，变原来的经验工作方法为科学工作方法。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=43",
+    "sourceLabel": "复旦大学资料第 43 页 · 原第 7 题",
+    "sourcePages": [
+      43,
+      44
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-320",
+    "chapter": "10.1 国际市场进入战略（一）",
+    "type": "single",
+    "stem": "关于技术授权的特点，下列描述错误的是（）。",
+    "options": {
+      "A": "缺乏对技术的控制",
+      "B": "成本较高",
+      "C": "不能实现区位和经验曲线经济性",
+      "D": "不能实现全球战略合作"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=44",
+    "sourceLabel": "复旦大学资料第 44 页 · 原第 1 题",
+    "sourcePages": [
+      44
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-321",
+    "chapter": "10.1 国际市场进入战略（一）",
+    "type": "single",
+    "stem": "特许经营一般出现在（）中。",
+    "options": {
+      "A": "服务业",
+      "B": "交通运输业",
+      "C": "采矿业",
+      "D": "金融业"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=44",
+    "sourceLabel": "复旦大学资料第 44 页 · 原第 2 题",
+    "sourcePages": [
+      44
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-322",
+    "chapter": "10.1 国际市场进入战略（一）",
+    "type": "single",
+    "stem": "系列关于合资经营企业的描述中，正确的是（）。",
+    "options": {
+      "A": "形式多样化",
+      "B": "可以是法人企业也可以不是",
+      "C": "股权式合资",
+      "D": "契约式合作"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=44",
+    "sourceLabel": "复旦大学资料第 44 页 · 原第 3 题",
+    "sourcePages": [
+      44
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-323",
+    "chapter": "10.1 国际市场进入战略（一）",
+    "type": "single",
+    "stem": "下列选项中，合资经营的有点不包括（）。",
+    "options": {
+      "A": "可以利用当地合伙者的知识",
+      "B": "经济上具有较高的独立性",
+      "C": "政治上的可接受性",
+      "D": "共同承担开发成本和风险"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=44",
+    "sourceLabel": "复旦大学资料第 44 页 · 原第 4 题",
+    "sourcePages": [
+      44
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-324",
+    "chapter": "10.1 国际市场进入战略（一）",
+    "type": "judge",
+    "stem": "特许经营是技术授权的一种特殊形式。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=44",
+    "sourceLabel": "复旦大学资料第 44 页 · 原第 5 题",
+    "sourcePages": [
+      44
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-325",
+    "chapter": "10.1 国际市场进入战略（一）",
+    "type": "judge",
+    "stem": "技术授权是将技术的所有权从卖方转移到买方。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=44",
+    "sourceLabel": "复旦大学资料第 44 页 · 原第 6 题",
+    "sourcePages": [
+      44
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-326",
+    "chapter": "10.2 国际市场进入战略（二）",
+    "type": "single",
+    "stem": "（）是产业链的整合模式。",
+    "options": {
+      "A": "横向整合",
+      "B": "纵向整合",
+      "C": "混合整合",
+      "D": "以上都对"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=44",
+    "sourceLabel": "复旦大学资料第 44 页 · 原第 1 题",
+    "sourcePages": [
+      44,
+      45
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-327",
+    "chapter": "10.2 国际市场进入战略（二）",
+    "type": "single",
+    "stem": "计划经济条件下，中国贸易形式属于（）。",
+    "options": {
+      "A": "自由贸易",
+      "B": "区域贸易",
+      "C": "垄断贸易",
+      "D": "统制贸易"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=45",
+    "sourceLabel": "复旦大学资料第 45 页 · 原第 2 题",
+    "sourcePages": [
+      45
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-328",
+    "chapter": "10.2 国际市场进入战略（二）",
+    "type": "single",
+    "stem": "下列选项中，战略性资产的类型不包括（）。",
+    "options": {
+      "A": "人力资源",
+      "B": "顾客资源",
+      "C": "投入要素资产",
+      "D": "渠道资产"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=45",
+    "sourceLabel": "复旦大学资料第 45 页 · 原第 3 题",
+    "sourcePages": [
+      45
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-329",
+    "chapter": "10.2 国际市场进入战略（二）",
+    "type": "judge",
+    "stem": "企业最根本的目标就是生产尽可能多的产品。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=45",
+    "sourceLabel": "复旦大学资料第 45 页 · 原第 4 题",
+    "sourcePages": [
+      45
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-330",
+    "chapter": "10.2 国际市场进入战略（二）",
+    "type": "judge",
+    "stem": "企业的战略资产就是企业的核心能力。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=45",
+    "sourceLabel": "复旦大学资料第 45 页 · 原第 5 题",
+    "sourcePages": [
+      45
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-331",
+    "chapter": "10.3 国际市场进入战略（三）",
+    "type": "single",
+    "stem": "下列选项中，政治风险不包括（）。",
+    "options": {
+      "A": "本国化",
+      "B": "当地化",
+      "C": "有偿征用",
+      "D": "国有化"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=45",
+    "sourceLabel": "复旦大学资料第 45 页 · 原第 1 题",
+    "sourcePages": [
+      45
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-332",
+    "chapter": "10.3 国际市场进入战略（三）",
+    "type": "single",
+    "stem": "国际企业最早使用也是最基本的经营方式（）。",
+    "options": {
+      "A": "工业合作",
+      "B": "国际贸易",
+      "C": "国际咨询",
+      "D": "国外直接投资"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=45",
+    "sourceLabel": "复旦大学资料第 45 页 · 原第 2 题",
+    "sourcePages": [
+      45
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-333",
+    "chapter": "10.3 国际市场进入战略（三）",
+    "type": "single",
+    "stem": "享有国外经营管理权的国际化经营活动是（）。",
+    "options": {
+      "A": "直接投资",
+      "B": "证券投资",
+      "C": "劳务进出口",
+      "D": "合同性安排"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=45",
+    "sourceLabel": "复旦大学资料第 45 页 · 原第 3 题",
+    "sourcePages": [
+      45,
+      46
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-334",
+    "chapter": "10.3 国际市场进入战略（三）",
+    "type": "single",
+    "stem": "近年来成为生物技术、半导体公司等高新技术企业弥补研发费用的有效途径的是实施（）战略。",
+    "options": {
+      "A": "许可证贸易",
+      "B": "并购",
+      "C": "产品出口",
+      "D": "特许经营"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=46",
+    "sourceLabel": "复旦大学资料第 46 页 · 原第 4 题",
+    "sourcePages": [
+      46
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-335",
+    "chapter": "10.3 国际市场进入战略（三）",
+    "type": "judge",
+    "stem": "许可证贸易作为特许经营的一种变体，正成为增长最快的贸易形式。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=46",
+    "sourceLabel": "复旦大学资料第 46 页 · 原第 5 题",
+    "sourcePages": [
+      46
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-336",
+    "chapter": "10.3 国际市场进入战略（三）",
+    "type": "judge",
+    "stem": "政治环境对国际企业经营的影响表现得最直接。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=46",
+    "sourceLabel": "复旦大学资料第 46 页 · 原第 6 题",
+    "sourcePages": [
+      46
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-337",
+    "chapter": "10.3 国际市场进入战略（三）",
+    "type": "judge",
+    "stem": "企业推出新产品时，为赚取尽可能多的利润，及早收回投资，通常采取渗透定价策略。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=46",
+    "sourceLabel": "复旦大学资料第 46 页 · 原第 7 题",
+    "sourcePages": [
+      46
+    ],
+    "sourceNumber": 7,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-338",
+    "chapter": "10.4 国际市场进入战略（四）",
+    "type": "single",
+    "stem": "从全球经营管理战略的基本需要出发，（）选择最为重要。",
+    "options": {
+      "A": "某国的地区",
+      "B": "厂址国别",
+      "C": "工厂内设备的布置",
+      "D": "某国某地区的具体位置"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=46",
+    "sourceLabel": "复旦大学资料第 46 页 · 原第 1 题",
+    "sourcePages": [
+      46
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-339",
+    "chapter": "10.4 国际市场进入战略（四）",
+    "type": "single",
+    "stem": "（ ）是指在技术许可证合同中，受权人有权在规定的地域范围内，将其获得的技术使用权转售给第三者。",
+    "options": {
+      "A": "回归转让权",
+      "B": "转售权",
+      "C": "交叉使用权",
+      "D": "普通使用权"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=46",
+    "sourceLabel": "复旦大学资料第 46 页 · 原第 2 题",
+    "sourcePages": [
+      46
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-340",
+    "chapter": "10.4 国际市场进入战略（四）",
+    "type": "single",
+    "stem": "进入下列国际市场的形式时，（）能够进行全球战略合作。",
+    "options": {
+      "A": "特许经营",
+      "B": "合资经营",
+      "C": "技术授权",
+      "D": "全资子公司"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=46",
+    "sourceLabel": "复旦大学资料第 46 页 · 原第 3 题",
+    "sourcePages": [
+      46
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-341",
+    "chapter": "10.4 国际市场进入战略（四）",
+    "type": "single",
+    "stem": "（）公司较多采用国际事业部结构。",
+    "options": {
+      "A": "日本",
+      "B": "欧洲",
+      "C": "亚洲",
+      "D": "美国"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=47",
+    "sourceLabel": "复旦大学资料第 47 页 · 原第 4 题",
+    "sourcePages": [
+      47
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-342",
+    "chapter": "10.4 国际市场进入战略（四）",
+    "type": "judge",
+    "stem": "设立全资子公司具有较低的成本和风险。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=47",
+    "sourceLabel": "复旦大学资料第 47 页 · 原第 5 题",
+    "sourcePages": [
+      47
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-343",
+    "chapter": "10.4 国际市场进入战略（四）",
+    "type": "judge",
+    "stem": "直接销售主要适合于消费品的销售。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=47",
+    "sourceLabel": "复旦大学资料第 47 页 · 原第 6 题",
+    "sourcePages": [
+      47
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-344",
+    "chapter": "11.1 国际经营中的跨文化管理（一）",
+    "type": "single",
+    "stem": "从（）开始，跨文化管理真正成为一门科学。",
+    "options": {
+      "A": "20 世纪 70 年代",
+      "B": "20 世纪 80 年代",
+      "C": "20 世纪 50 年代",
+      "D": "20 世纪 60 年代"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=47",
+    "sourceLabel": "复旦大学资料第 47 页 · 原第 1 题",
+    "sourcePages": [
+      47
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-345",
+    "chapter": "11.1 国际经营中的跨文化管理（一）",
+    "type": "single",
+    "stem": "国际企业文化的首要特征是（）。",
+    "options": {
+      "A": "民族性",
+      "B": "潜意识",
+      "C": "传统型",
+      "D": "地域性"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=47",
+    "sourceLabel": "复旦大学资料第 47 页 · 原第 2 题",
+    "sourcePages": [
+      47
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-346",
+    "chapter": "11.1 国际经营中的跨文化管理（一）",
+    "type": "single",
+    "stem": "（）是跨文化管理要解决的核心问题。",
+    "options": {
+      "A": "选择相同文化",
+      "B": "拥有共同信仰",
+      "C": "促进经济发展",
+      "D": "消除文化差异"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=47",
+    "sourceLabel": "复旦大学资料第 47 页 · 原第 3 题",
+    "sourcePages": [
+      47
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-347",
+    "chapter": "11.1 国际经营中的跨文化管理（一）",
+    "type": "single",
+    "stem": "在韩国，企业高管常会（）。",
+    "options": {
+      "A": "不鼓励下属直接报告，而是喜欢通过正式的渠道进行报告",
+      "B": "鼓励下属之间保持良好地关系",
+      "C": "鼓励人们致力于团队工作和合作",
+      "D": "鼓励下属之间互相竞争"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=47",
+    "sourceLabel": "复旦大学资料第 47 页 · 原第 4 题",
+    "sourcePages": [
+      47
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-348",
+    "chapter": "11.1 国际经营中的跨文化管理（一）",
+    "type": "judge",
+    "stem": "在德国，人们十分喜欢经常展现魅力的领导者。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=47",
+    "sourceLabel": "复旦大学资料第 47 页 · 原第 5 题",
+    "sourcePages": [
+      47,
+      48
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-349",
+    "chapter": "11.2 国际经营中的跨文化管理（二）",
+    "type": "single",
+    "stem": "下列选项中，日本人最看中的文化因素是（）。",
+    "options": {
+      "A": "祭坛",
+      "B": "橄榄球",
+      "C": "房屋",
+      "D": "花园"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=48",
+    "sourceLabel": "复旦大学资料第 48 页 · 原第 1 题",
+    "sourcePages": [
+      48
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-350",
+    "chapter": "11.2 国际经营中的跨文化管理（二）",
+    "type": "single",
+    "stem": "（）是跨国公司跨文化发展的第三个阶段。",
+    "options": {
+      "A": "种族优越主义",
+      "B": "以地球为中心阶段",
+      "C": "多轴心阶段",
+      "D": "以上都不对"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=48",
+    "sourceLabel": "复旦大学资料第 48 页 · 原第 2 题",
+    "sourcePages": [
+      48
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-351",
+    "chapter": "11.2 国际经营中的跨文化管理（二）",
+    "type": "single",
+    "stem": "因为（），所以地球不会因成为“地球村”而拥有完全一致的价值观。",
+    "options": {
+      "A": "文化是民族的又是世界的",
+      "B": "不同民族的文化具有共性和普遍性",
+      "C": "各民族都有自己的文化个性和特点",
+      "D": "经济全球化背景下文化冲突越演越烈"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=48",
+    "sourceLabel": "复旦大学资料第 48 页 · 原第 3 题",
+    "sourcePages": [
+      48
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-352",
+    "chapter": "11.2 国际经营中的跨文化管理（二）",
+    "type": "single",
+    "stem": "文化差异的中观层面属于（）。",
+    "options": {
+      "A": "企业文化差异",
+      "B": "个体北京差异",
+      "C": "文化背景差异",
+      "D": "民族文化差异"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=48",
+    "sourceLabel": "复旦大学资料第 48 页 · 原第 4 题",
+    "sourcePages": [
+      48
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-353",
+    "chapter": "11.2 国际经营中的跨文化管理（二）",
+    "type": "judge",
+    "stem": "可口可乐在阿拉伯国家非常畅销。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=48",
+    "sourceLabel": "复旦大学资料第 48 页 · 原第 5 题",
+    "sourcePages": [
+      48
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-354",
+    "chapter": "11.2 国际经营中的跨文化管理（二）",
+    "type": "judge",
+    "stem": "跨文化管理的对象只限于海外子公司的员工，母国公司员工不用接受跨文化管理。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=48",
+    "sourceLabel": "复旦大学资料第 48 页 · 原第 6 题",
+    "sourcePages": [
+      48
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-355",
+    "chapter": "11.3 国际经营中的跨文化管理（三）",
+    "type": "single",
+    "stem": "（）是跨文化管理中的乡土观念。",
+    "options": {
+      "A": "以自己固有的观点来看待世界",
+      "B": "过于谨慎，时时处处怕触犯文化成规",
+      "C": "失去了了解的意愿，缺乏跨文化学习的动力",
+      "D": "对不同的文化群体采取相同的工作方法"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=48",
+    "sourceLabel": "复旦大学资料第 48 页 · 原第 1 题",
+    "sourcePages": [
+      48,
+      49
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-356",
+    "chapter": "11.3 国际经营中的跨文化管理（三）",
+    "type": "single",
+    "stem": "下列选项中，西方文化要义包括（）。",
+    "options": {
+      "A": "节俭与保守",
+      "B": "具有罪恶感",
+      "C": "具有羞耻心",
+      "D": "好面子"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=49",
+    "sourceLabel": "复旦大学资料第 49 页 · 原第 2 题",
+    "sourcePages": [
+      49
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-357",
+    "chapter": "11.3 国际经营中的跨文化管理（三）",
+    "type": "single",
+    "stem": "下列选项中，在美国价值观里排列第一位的是（）。",
+    "options": {
+      "A": "自由独立",
+      "B": "坦率真诚",
+      "C": "家庭观念",
+      "D": "集体主义"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=49",
+    "sourceLabel": "复旦大学资料第 49 页 · 原第 3 题",
+    "sourcePages": [
+      49
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-358",
+    "chapter": "11.3 国际经营中的跨文化管理（三）",
+    "type": "single",
+    "stem": "下列关于跨文化管理的实质，说法不正确的是（）。",
+    "options": {
+      "A": "面对不同的文化环境，成功的跨文化管理应作出灵活的调整",
+      "B": "结合当地的文化背景、体制与文化的冲突，是进行跨文化管理面临的最突出的问题",
+      "C": "跨文化管理中要集中企业的经营理念",
+      "D": "文化管理中集中比分散更重要"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=49",
+    "sourceLabel": "复旦大学资料第 49 页 · 原第 4 题",
+    "sourcePages": [
+      49
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-359",
+    "chapter": "11.3 国际经营中的跨文化管理（三）",
+    "type": "judge",
+    "stem": "当今世界中外向型文化国家要多于内向型文化国家。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=49",
+    "sourceLabel": "复旦大学资料第 49 页 · 原第 5 题",
+    "sourcePages": [
+      49
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-360",
+    "chapter": "11.3 国际经营中的跨文化管理（三）",
+    "type": "judge",
+    "stem": "中国是典型的高语境文化国家。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=49",
+    "sourceLabel": "复旦大学资料第 49 页 · 原第 6 题",
+    "sourcePages": [
+      49
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-361",
+    "chapter": "11.4 国际经营中的跨文化管理（四）",
+    "type": "single",
+    "stem": "在融合，同化，隔离，边缘化这四种文化适应方式中，最痛苦糟糕的适应方式（）。",
+    "options": {
+      "A": "融合",
+      "B": "边缘化",
+      "C": "同化",
+      "D": "隔离"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=49",
+    "sourceLabel": "复旦大学资料第 49 页 · 原第 1 题",
+    "sourcePages": [
+      49
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-362",
+    "chapter": "11.4 国际经营中的跨文化管理（四）",
+    "type": "single",
+    "stem": "( )强调不同文化中共性和共同关注的东西，丰富人类活动。",
+    "options": {
+      "A": "文化协同",
+      "B": "跨文化交流",
+      "C": "文化适应",
+      "D": "文化敏感性"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=49",
+    "sourceLabel": "复旦大学资料第 49 页 · 原第 2 题",
+    "sourcePages": [
+      49,
+      50
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-363",
+    "chapter": "11.4 国际经营中的跨文化管理（四）",
+    "type": "judge",
+    "stem": "文化嫁接模式兼顾了全球统一战略，但不具有灵活性。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=50",
+    "sourceLabel": "复旦大学资料第 50 页 · 原第 3 题",
+    "sourcePages": [
+      50
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-364",
+    "chapter": "11.4 国际经营中的跨文化管理（四）",
+    "type": "judge",
+    "stem": "日本企业采取温情式的福利性管理模式，分工不明确。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=50",
+    "sourceLabel": "复旦大学资料第 50 页 · 原第 4 题",
+    "sourcePages": [
+      50
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-365",
+    "chapter": "11.5 国际经营中的跨文化管理（五）",
+    "type": "single",
+    "stem": "下列选项中，中国文化的特点不包括（）。",
+    "options": {
+      "A": "提倡谦虚和卑己尊人",
+      "B": "提倡中庸之道",
+      "C": "注重人际关系",
+      "D": "重视得体原则"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=50",
+    "sourceLabel": "复旦大学资料第 50 页 · 原第 1 题",
+    "sourcePages": [
+      50
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-366",
+    "chapter": "11.5 国际经营中的跨文化管理（五）",
+    "type": "single",
+    "stem": "把文化的共同特点与人们在具体的时间和地点工作时的情况结合起来是指（）。",
+    "options": {
+      "A": "全球文化",
+      "B": "工作文化",
+      "C": "文化适应",
+      "D": "文化敏感性"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=50",
+    "sourceLabel": "复旦大学资料第 50 页 · 原第 2 题",
+    "sourcePages": [
+      50
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-367",
+    "chapter": "11.5 国际经营中的跨文化管理（五）",
+    "type": "single",
+    "stem": "（）是文化相容的最高形式。",
+    "options": {
+      "A": "平行相容策略",
+      "B": "母国价值移植模式",
+      "C": "文化嫁接模式",
+      "D": "和平相容策略"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=50",
+    "sourceLabel": "复旦大学资料第 50 页 · 原第 3 题",
+    "sourcePages": [
+      50
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-368",
+    "chapter": "11.5 国际经营中的跨文化管理（五）",
+    "type": "judge",
+    "stem": "文化是一个群体共享的东西。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=50",
+    "sourceLabel": "复旦大学资料第 50 页 · 原第 4 题",
+    "sourcePages": [
+      50
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-369",
+    "chapter": "11.5 国际经营中的跨文化管理（五）",
+    "type": "judge",
+    "stem": "文化渗透是个需要长时间观察，但培育的过程并不耗时。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=50",
+    "sourceLabel": "复旦大学资料第 50 页 · 原第 5 题",
+    "sourcePages": [
+      50
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-370",
+    "chapter": "11.5 国际经营中的跨文化管理（五）",
+    "type": "judge",
+    "stem": "成功的跨文化谈判应当尽可能挖掘文化差异中的整合机会。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=50",
+    "sourceLabel": "复旦大学资料第 50 页 · 原第 6 题",
+    "sourcePages": [
+      50
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-371",
+    "chapter": "12.1 中国企业国际化模式（上）",
+    "type": "single",
+    "stem": "下列选项中，不属于人类抵抗未来不确定性的途径的是（）。",
+    "options": {
+      "A": "科技",
+      "B": "宗教",
+      "C": "法律",
+      "D": "社会传统"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=51",
+    "sourceLabel": "复旦大学资料第 51 页 · 原第 1 题",
+    "sourcePages": [
+      51
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-372",
+    "chapter": "12.1 中国企业国际化模式（上）",
+    "type": "single",
+    "stem": "（）指资源利用和市场焦点都放在国内的企业。",
+    "options": {
+      "A": "全球资源利用者",
+      "B": "本地市场经营者",
+      "C": "全球市场开拓者",
+      "D": "全球市场经营者"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=51",
+    "sourceLabel": "复旦大学资料第 51 页 · 原第 2 题",
+    "sourcePages": [
+      51
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-373",
+    "chapter": "12.1 中国企业国际化模式（上）",
+    "type": "single",
+    "stem": "（）是跨国公司制定国际化战略的主要目的。",
+    "options": {
+      "A": "开拓海外市场",
+      "B": "获取先进技术",
+      "C": "建立国际品牌",
+      "D": "增加产品销量"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=51",
+    "sourceLabel": "复旦大学资料第 51 页 · 原第 3 题",
+    "sourcePages": [
+      51
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-374",
+    "chapter": "12.1 中国企业国际化模式（上）",
+    "type": "single",
+    "stem": "（）是企业国际化的第一阶段。",
+    "options": {
+      "A": "后发优势",
+      "B": "小规模技术优势",
+      "C": "国内市场优势",
+      "D": "成本优势"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=51",
+    "sourceLabel": "复旦大学资料第 51 页 · 原第 4 题",
+    "sourcePages": [
+      51
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-375",
+    "chapter": "12.1 中国企业国际化模式（上）",
+    "type": "judge",
+    "stem": "中国企业在国际化发展中，市场资金充裕，相对融资成本较低。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=51",
+    "sourceLabel": "复旦大学资料第 51 页 · 原第 5 题",
+    "sourcePages": [
+      51
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-376",
+    "chapter": "12.2 中国企业国际化模式（下）",
+    "type": "single",
+    "stem": "中国企业“走出去”趋势放缓的原因是（）。",
+    "options": {
+      "A": "世界经济不稳定性的影响",
+      "B": "投资保护主义的兴起对中国企业走出去战略的阻碍",
+      "C": "海外投资成本较高，投资失败率较高",
+      "D": "以上都有"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=51",
+    "sourceLabel": "复旦大学资料第 51 页 · 原第 1 题",
+    "sourcePages": [
+      51
+    ],
+    "sourceNumber": 1,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-377",
+    "chapter": "12.2 中国企业国际化模式（下）",
+    "type": "single",
+    "stem": "中国企业海外投资面临的主要风险不包括（）。",
+    "options": {
+      "A": "政治风险",
+      "B": "融资风险",
+      "C": "政府管理及服务风险",
+      "D": "技术风险"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=51",
+    "sourceLabel": "复旦大学资料第 51 页 · 原第 2 题",
+    "sourcePages": [
+      51,
+      52
+    ],
+    "sourceNumber": 2,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-378",
+    "chapter": "12.2 中国企业国际化模式（下）",
+    "type": "single",
+    "stem": "分散企业海外投资风险不包括（）。",
+    "options": {
+      "A": "购买保险",
+      "B": "社区参股",
+      "C": "合资企业",
+      "D": "战略联盟"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=52",
+    "sourceLabel": "复旦大学资料第 52 页 · 原第 3 题",
+    "sourcePages": [
+      52
+    ],
+    "sourceNumber": 3,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-379",
+    "chapter": "12.2 中国企业国际化模式（下）",
+    "type": "judge",
+    "stem": "中国大型国企可能因为竞争缺乏而变得效率低下。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=52",
+    "sourceLabel": "复旦大学资料第 52 页 · 原第 4 题",
+    "sourcePages": [
+      52
+    ],
+    "sourceNumber": 4,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-380",
+    "chapter": "12.2 中国企业国际化模式（下）",
+    "type": "judge",
+    "stem": "未来 11 年，中国国有企业将成为中国企业国际化的主体。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=52",
+    "sourceLabel": "复旦大学资料第 52 页 · 原第 5 题",
+    "sourcePages": [
+      52
+    ],
+    "sourceNumber": 5,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-fd-381",
+    "chapter": "12.2 中国企业国际化模式（下）",
+    "type": "judge",
+    "stem": "中国公司海外收购的成本会因为人民币升值而增加。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceDocument": "sources/business/full-20261024.pdf#page=52",
+    "sourceLabel": "复旦大学资料第 52 页 · 原第 6 题",
+    "sourcePages": [
+      52
+    ],
+    "sourceNumber": 6,
+    "referenceKind": "我的答案"
+  },
+  {
+    "id": "business-001",
+    "chapter": "旧预览版本（原文首组）",
+    "type": "single",
+    "stem": "金砖国家中，最后加入的国家是（）。",
+    "options": {
+      "A": "中国",
+      "B": "巴西",
+      "C": "印度",
+      "D": "南非"
+    },
+    "answer": [
+      "D"
+    ],
+    "note": "本题按原资料的历史时点作答；所列答案未按现状更新。 此题沿用此前预览原文；本次完整PDF的同主题题目可能有不同题干或选项顺序，按各自题面分别练习。",
+    "sourceImage": "sources/business/page-001.png",
+    "sourceLabel": "原文第 1 页 · 首组第 1 题"
+  },
+  {
+    "id": "business-002",
+    "chapter": "旧预览版本（原文首组）",
+    "type": "single",
+    "stem": "跨国公司这一名称产生于（）。",
+    "options": {
+      "A": "1964年",
+      "B": "1974年",
+      "C": "1984年",
+      "D": "1994年"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceImage": "sources/business/page-001.png",
+    "sourceLabel": "原文第 1 页 · 首组第 2 题",
+    "note": "此题沿用此前预览原文；本次完整PDF的同主题题目可能有不同题干或选项顺序，按各自题面分别练习。"
+  },
+  {
+    "id": "business-005",
+    "chapter": "旧预览版本（原文首组）",
+    "type": "judge",
+    "stem": "到2012年，全世界手机新增用户的80%以上来自LDC国家。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceImage": "sources/business/page-002.png",
+    "sourceLabel": "原文第 2 页 · 首组第 5 题",
+    "note": "此题沿用此前预览原文；本次完整PDF的同主题题目可能有不同题干或选项顺序，按各自题面分别练习。"
+  },
+  {
+    "id": "business-006",
+    "chapter": "旧预览版本（原文首组）",
+    "type": "judge",
+    "stem": "华为公司目前还不是世界500强公司。（）",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "note": "“目前”指原资料的写作时点；所列答案照录原文。 此题沿用此前预览原文；本次完整PDF的同主题题目可能有不同题干或选项顺序，按各自题面分别练习。",
+    "sourceImage": "sources/business/page-002.png",
+    "sourceLabel": "原文第 2 页 · 首组第 6 题"
+  }
+]
