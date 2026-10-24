@@ -1,0 +1,154 @@
+{
+  "checkedOn": "2026-10-24",
+  "method": "逐项对照用户提供的本地原图；参考答案仅按原标记映射，不推测缺失内容",
+  "business": {
+    "complete": false,
+    "declaredPages": 35,
+    "savedPages": [
+      1,
+      2
+    ],
+    "included": 4,
+    "pendingSourceReview": [
+      "首组第3题：原图“飞体制造”“巴西航东工业公司”疑有源错字",
+      "国际商务导论（二）第2题：文本“产质量量”“环保和人工权益”疑有源错字，缺本地原图",
+      "国际商务导论（二）第3题：文本“根天性原由”疑有源错字，缺本地原图"
+    ],
+    "excluded": [
+      "首组第4题：原图与文本均缺题干",
+      "国际商务导论（二）第1题：B选项缺内容，原图跨页",
+      "国际商务导论（二）第4题：仅题干及A项，余项和答案未保存"
+    ]
+  },
+  "physics": {
+    "complete": false,
+    "declaredPages": 49,
+    "savedPages": [
+      1,
+      2
+    ],
+    "included": 7,
+    "excluded": [
+      "探秘宇宙第3题：第2页页尾截断，未保存参考答案"
+    ]
+  },
+  "questions": [
+    {
+      "id": "business-001",
+      "source": "sources/business/page-001.png",
+      "location": "原文第 1 页 · 首组第 1 题",
+      "sourceAnswer": "D",
+      "mappedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "business-002",
+      "source": "sources/business/page-001.png",
+      "location": "原文第 1 页 · 首组第 2 题",
+      "sourceAnswer": "B",
+      "mappedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "business-005",
+      "source": "sources/business/page-002.png",
+      "location": "原文第 2 页 · 首组第 5 题",
+      "sourceAnswer": "√",
+      "mappedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "business-006",
+      "source": "sources/business/page-002.png",
+      "location": "原文第 2 页 · 首组第 6 题",
+      "sourceAnswer": "×",
+      "mappedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "physics-001",
+      "source": "sources/physics/page-002.png",
+      "location": "原文第 2 页 · 物理是文化第 1 题",
+      "sourceAnswer": "D",
+      "mappedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "physics-002",
+      "source": "sources/physics/page-002.png",
+      "location": "原文第 2 页 · 物理是文化第 2 题",
+      "sourceAnswer": "D",
+      "mappedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "physics-003",
+      "source": "sources/physics/page-002.png",
+      "location": "原文第 2 页 · 物理是文化第 3 题",
+      "sourceAnswer": "BCD",
+      "mappedAnswer": [
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id": "physics-004",
+      "source": "sources/physics/page-002.png",
+      "location": "原文第 2 页 · 物理是文化第 4 题",
+      "sourceAnswer": "×",
+      "mappedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": "physics-005",
+      "source": "sources/physics/page-002.png",
+      "location": "原文第 2 页 · 物理是文化第 5 题",
+      "sourceAnswer": "√",
+      "mappedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": "physics-006",
+      "source": "sources/physics/page-002.png",
+      "location": "原文第 2 页 · 探秘宇宙第 1 题",
+      "sourceAnswer": "D",
+      "mappedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": "physics-007",
+      "source": "sources/physics/page-002.png",
+      "location": "原文第 2 页 · 探秘宇宙第 2 题",
+      "sourceAnswer": "ABD",
+      "mappedAnswer": [
+        "A",
+        "B",
+        "D"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "sources/business/page-001.png",
+      "sha256": "4cb2897172bf17d5f1482d14796fac25291bcc239e373cc709313db21703c880"
+    },
+    {
+      "path": "sources/business/page-002.png",
+      "sha256": "48fa718b7f73293b14beac2971b72979336b57535ec79a916a42eff866dba9b4"
+    },
+    {
+      "path": "sources/physics/page-002.png",
+      "sha256": "e07c4e42db28512289194edcd92c5cfdc810ac644e6cdf8a64489b4778258859"
+    }
+  ]
+}
