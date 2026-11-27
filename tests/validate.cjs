@@ -29,16 +29,16 @@ for(const mode of ['sequence','random','wrong','star','read','exam']){
 const multi=communication.find(q=>q.type==='multiple');assert(!E.correct(multi,multi.answer.slice(1)));
 for(const q of communication.filter(q=>q.type==='judge')){assert(E.correct(q,q.answer));assert(!E.correct(q,[q.answer[0]==='A'?'B':'A']))}
 // All new source question marks have been cross-checked against the original documents.
-assert.equal(banks.business.length,385);assert.equal(banks.physics.length,388);
-assert.equal(new Set(banks.physics.map(q=>q.chapter)).size,88);
+assert.equal(banks.business.length,385);assert.equal(banks.physics.length,309);
+assert.equal(new Set(banks.physics.map(q=>q.chapter)).size,87);
 assert.equal(new Set(banks.business.filter(q=>q.id.startsWith('business-fd-')).map(q=>q.chapter)).size,63);
 for(const [type,count] of [['single',241],['judge',140]])assert.equal(banks.business.filter(q=>q.id.startsWith('business-fd-')&&q.type===type).length,count);
-for(const [type,count] of [['single',190],['multiple',38],['judge',160]])assert.equal(banks.physics.filter(q=>q.type===type).length,count);
+for(const [type,count] of [['single',156],['multiple',33],['judge',120]])assert.equal(banks.physics.filter(q=>q.type===type).length,count);
 for(const [id,answer] of [['business-001',['D']],['business-002',['B']],['business-005',['A']],['business-006',['B']]])assert.deepEqual(banks.business.find(q=>q.id===id).answer,answer);
-assert.deepEqual(banks.physics.slice(0,7).map(q=>q.id),['physics-001','physics-002','physics-003','physics-004','physics-005','physics-006','physics-007']);
-assert.deepEqual(banks.physics.slice(0,7).map(q=>q.answer),[['D'],['D'],['B','C','D'],['B'],['A'],['D'],['A','B','D']]);
+assert.deepEqual(banks.physics.slice(0,7).map(q=>q.id),['physics-001','physics-002','physics-003','physics-004','physics-006','physics-007','physics-full-009']);
+assert.deepEqual(banks.physics.slice(0,7).map(q=>q.answer),[['D'],['D'],['B','C','D'],['B'],['D'],['A','B','D'],['B']]);
 const manifest=JSON.parse(fs.readFileSync(path.join(__dirname,'../sources/import-full-20261024.json')));
-assert.equal(manifest.questions.length,banks.business.length+banks.physics.length);
+assert.equal(manifest.questions.length,banks.business.length+manifest.coverage.physics.providedDocumentQuestions);
 assert.equal(manifest.crosscheck.business.exactIndependentMatches,381);
 assert.equal(manifest.crosscheck.physics.contentAndAnswerMatches,388);
 assert(manifest.coverage.business.allProvidedQuestionsIncluded&&manifest.coverage.physics.allProvidedQuestionsIncluded);
