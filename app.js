@@ -12,6 +12,64 @@ function pageView(){document.body.classList.remove('practicing');window.scrollTo
 function scrollQuestion(){const el=document.querySelector('#questionScroll');if(el)el.scrollTop=0}
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const names={single:'单选题',multiple:'多选题',judge:'判断题'},modeNames={sequence:'顺序练习',random:'随机练习',wrong:'错题复习',star:'收藏练习',read:'背题模式',exam:'模拟测试'};
+// 判断题对错看参考答案对应的选项原文（正确/对、错误/错），不改题目，也不读作答记录。
+function judgeMark(q){
+ if(!q||q.type!=='judge'||!Array.isArray(q.answer)||q.answer.length!==1)return '';
+ const text=String(q.options&&q.options[q.answer[0]]||'').replace(/\s/g,'').trim();
+ if(text==='正确'||text==='对')return 'right';
+ if(text==='错误'||text==='错')return 'wrong';
+ return '';
+}
+function judgeSplit(qs){
+ let judge=0,right=0,wrong=0;
+ for(const q of qs){
+  if(q.type!=='judge')continue;
+  judge++;
+  const m=judgeMark(q);
+  if(m==='right')right++;
+  else if(m==='wrong')wrong++;
+ }
+ return {judge,right,wrong,enabled:right+wrong>0};
+}
+function matchType(q,type,side){
+ if(type&&q.type!==type)return false;
+ if(type==='judge'&&(side==='right'||side==='wrong')&&judgeMark(q)!==side)return false;
+ return true;
+}
+function filterRecord(mode,chapter,type,search,unanswered,side){
+ const t=['single','multiple','judge'].includes(type)?type:'';
+ const s=t==='judge'&&(side==='right'||side==='wrong')?side:'';
+ const next={mode,chapter,type:t,search,unanswered};
+ if(s)next.judgeSide=s;
+ return next;
+}
+function applyJudgeSide(side){
+ const box=document.querySelector('#judgeSide');if(!box)return;
+ if(side!=='right'&&side!=='wrong')side='';
+ box.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',(b.dataset.side||'')===side?'true':'false'));
+}
+function activeJudgeSide(){
+ const box=document.querySelector('#judgeSide'),type=document.querySelector('#type');
+ if(!box||box.hidden||!type||type.value!=='judge')return '';
+ const side=box.querySelector('button[aria-pressed="true"]')?.dataset.side||'';
+ return side==='right'||side==='wrong'?side:'';
+}
+function syncJudgeChrome(){
+ const box=document.querySelector('#judgeSide'),filters=document.querySelector('.filters'),type=document.querySelector('#type');
+ const show=!!(box&&type&&type.value==='judge');
+ if(filters)filters.classList.toggle('judge-open',show);
+ if(!box)return;
+ box.hidden=!show;
+ if(!show)applyJudgeSide('');
+}
+function refreshJudgeCounts(){
+ const box=document.querySelector('#judgeSide');if(!box||!course)return;
+ const ch=document.querySelector('#chapter').value,kw=document.querySelector('#search').value.trim().toLowerCase(),unanswered=document.querySelector('#unanswered').checked;
+ const pool=bank[course.id].filter(q=>q.type==='judge'&&(!ch||q.chapter===ch)&&(!kw||(q.stem+Object.values(q.options).join('')).toLowerCase().includes(kw))&&(!unanswered||!state.answers[q.id])&&(mode!=='wrong'||state.answers[q.id]?.lastCorrect===false)&&(mode!=='star'||state.stars.includes(q.id)));
+ const nums={'':pool.length,right:pool.filter(q=>judgeMark(q)==='right').length,wrong:pool.filter(q=>judgeMark(q)==='wrong').length};
+ const labels={'':'全部',right:'正确',wrong:'错误'};
+ box.querySelectorAll('button').forEach(b=>{const side=b.dataset.side||'';b.textContent=labels[side]+' '+nums[side]});
+}
 function toast(t){const el=document.querySelector('#toast');el.textContent=t;el.style.display='block';clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.style.display='none',3500)}
 function save(){if(rawBackup!==null){toast('旧记录无法读取，暂未覆盖。请在记录管理中导出原始记录，再导入有效备份或清空记录。');return}try{localStorage.setItem(E.KEY,JSON.stringify(state));document.querySelector('#saveStatus').textContent='本机记录已保存'}catch(e){document.querySelector('#saveStatus').textContent='记录保存失败';toast('浏览器无法保存记录，请导出备份，检查存储空间或浏览器设置。')}}
 function applyTheme(){document.body.classList.toggle('dark',state.theme==='dark');document.querySelector('#theme').textContent=state.theme==='dark'?'浅色':'深色'}
@@ -23,10 +81,10 @@ function leave(cb){stopTimer();cb()}
 
 function openCourse(id){
  pageView();stopTimer();course=courses.find(c=>c.id===id);run=null;
- const qs=bank[id],s=summary(qs),chapters=[...new Set(qs.map(q=>q.chapter))],f=prefs.filters[id]||{};
+ const qs=bank[id],s=summary(qs),chapters=[...new Set(qs.map(q=>q.chapter))],f=prefs.filters[id]||{},split=judgeSplit(qs),savedSide=f.type==='judge'&&(f.judgeSide==='right'||f.judgeSide==='wrong')?f.judgeSide:'';
  mode=Object.keys(modeNames).includes(f.mode)?f.mode:'sequence';
  app.innerHTML=heading()+`<div class="panel"><h2 style="font-size:18px">今天怎么练？</h2><div class="modes">${Object.keys(modeNames).map(m=>`<button class="mode ${m===mode?'active':''}" data-mode="${m}" aria-pressed="${m===mode}">${modeNames[m]}<small>${({sequence:'按题库顺序练习',random:'打乱题目顺序',wrong:s.wrong+' 道待复习',star:s.stars+' 道已收藏',read:'直接查看参考答案',exam:'随机 30 题 · 30 分钟'})[m]}</small></button>`).join('')}</div>
- <div class="filters"><label>章节<select id="chapter"><option value="">全部章节</option>${chapters.map(ch=>`<option>${esc(ch)}</option>`).join('')}</select></label><label>题型<select id="type"><option value="">全部题型</option><option value="single">单选题</option><option value="multiple">多选题</option><option value="judge">判断题</option></select></label><label>题目搜索<input id="search" type="search" placeholder="输入题干或选项关键词" value="${esc(f.search||'')}"></label></div>
+ <div class="filters${f.type==='judge'&&split.enabled?' judge-open':''}"><label>章节<select id="chapter"><option value="">全部章节</option>${chapters.map(ch=>`<option>${esc(ch)}</option>`).join('')}</select></label><div class="type-field"><label>题型<select id="type"><option value="">全部题型</option><option value="single">单选题</option><option value="multiple">多选题</option><option value="judge">判断题</option></select></label>${split.enabled?`<div class="judge-side" id="judgeSide"${f.type==='judge'?'':' hidden'} role="group" aria-label="判断题对错"><button type="button" data-side="" aria-pressed="${savedSide?'false':'true'}">全部 ${split.judge}</button><button type="button" data-side="right" aria-pressed="${savedSide==='right'}">正确 ${split.right}</button><button type="button" data-side="wrong" aria-pressed="${savedSide==='wrong'}">错误 ${split.wrong}</button></div>`:''}</div><label>题目搜索<input id="search" type="search" placeholder="输入题干或选项关键词" value="${esc(f.search||'')}"></label></div>
  <div class="filter-options"><label><input id="unanswered" type="checkbox" ${f.unanswered?'checked':''}> 只练从未作答的题</label><button id="clearFilters" class="quiet">重置筛选</button></div>
  <div id="resumeCard"></div><div class="launch"><p id="matchCount" role="status"></p><button id="start">开始练习</button></div><p id="emptyHelp" class="empty-help" hidden></p></div>
  <div class="panel"><div class="section-head"><h2>学习概况</h2><span class="muted">最近作答正确率 ${s.rate}%</span></div><div class="progress-text"><span>已练 ${s.done} / ${qs.length} 题</span><span>最新答对 ${s.right} 题 · 待复习 ${s.wrong} 题</span></div><div class="bar"><i style="width:${s.done/qs.length*100}%"></i></div><p class="muted" style="font-size:12px;margin:15px 0 0">各模式分别保存进度。错题答对后自动移出错题本；背题不计入统计。</p></div>${examHistory(id)}`;
@@ -34,21 +92,25 @@ function openCourse(id){
  document.querySelector('#type').value=['single','multiple','judge'].includes(f.type)?f.type:'';
  document.querySelectorAll('[data-mode]').forEach(b=>b.onclick=()=>{mode=b.dataset.mode;document.querySelectorAll('[data-mode]').forEach(x=>{x.classList.toggle('active',x===b);x.setAttribute('aria-pressed',x===b)});updateCount()});
  ['chapter','type','search','unanswered'].forEach(id=>document.querySelector('#'+id).oninput=updateCount);
- document.querySelector('#clearFilters').onclick=()=>{['chapter','type','search'].forEach(id=>document.querySelector('#'+id).value='');document.querySelector('#unanswered').checked=false;updateCount()};
+ const sideBox=document.querySelector('#judgeSide');
+ if(sideBox)sideBox.querySelectorAll('button').forEach(b=>b.onclick=()=>{applyJudgeSide(b.dataset.side||'');updateCount()});
+ document.querySelector('#clearFilters').onclick=()=>{['chapter','type','search'].forEach(id=>document.querySelector('#'+id).value='');document.querySelector('#unanswered').checked=false;applyJudgeSide('');updateCount()};
  document.querySelector('#start').onclick=start;updateCount();
 }
 
 function examHistory(id){let arr=state.exams.filter(e=>e.course===id).slice(-5).reverse();return arr.length?`<div class="panel"><h3>最近模拟测试</h3>${arr.map(e=>`<div class="history-row"><span>${new Date(e.date).toLocaleString('zh-CN')}</span><span>${e.correct} / ${e.total} 题正确 · ${e.score} 分</span></div>`).join('')}</div>`:''}
 function filtered(){
- const ch=document.querySelector('#chapter').value,t=document.querySelector('#type').value,kw=document.querySelector('#search').value.trim().toLowerCase(),unanswered=document.querySelector('#unanswered').checked;
- return bank[course.id].filter(q=>(!ch||q.chapter===ch)&&(!t||q.type===t)&&(!kw||(q.stem+Object.values(q.options).join('')).toLowerCase().includes(kw))&&(!unanswered||!state.answers[q.id])&&(mode!=='wrong'||state.answers[q.id]?.lastCorrect===false)&&(mode!=='star'||state.stars.includes(q.id)));
+ const ch=document.querySelector('#chapter').value,t=document.querySelector('#type').value,side=activeJudgeSide(),kw=document.querySelector('#search').value.trim().toLowerCase(),unanswered=document.querySelector('#unanswered').checked;
+ return bank[course.id].filter(q=>(!ch||q.chapter===ch)&&matchType(q,t,side)&&(!kw||(q.stem+Object.values(q.options).join('')).toLowerCase().includes(kw))&&(!unanswered||!state.answers[q.id])&&(mode!=='wrong'||state.answers[q.id]?.lastCorrect===false)&&(mode!=='star'||state.stars.includes(q.id)));
 }
 
 function updateCount(){
  const unanswered=document.querySelector('#unanswered');unanswered.disabled=mode==='wrong';if(mode==='wrong')unanswered.checked=false;
- const n=filtered().length,saved=savedSession(course.id,mode);
- prefs.filters[course.id]={mode,chapter:document.querySelector('#chapter').value,type:document.querySelector('#type').value,search:document.querySelector('#search').value,unanswered:document.querySelector('#unanswered').checked};savePrefs();
- document.querySelector('#matchCount').textContent=mode==='exam'?`符合条件 ${n} 题，本次抽取 ${Math.min(30,n)} 题。`:`符合条件 ${n} 题。`;
+ syncJudgeChrome();refreshJudgeCounts();
+ const n=filtered().length,saved=savedSession(course.id,mode),side=activeJudgeSide();
+ prefs.filters[course.id]=filterRecord(mode,document.querySelector('#chapter').value,document.querySelector('#type').value,document.querySelector('#search').value,document.querySelector('#unanswered').checked,side);savePrefs();
+ const sideLabel=side==='right'?'判断题·正确':side==='wrong'?'判断题·错误':'';
+ document.querySelector('#matchCount').textContent=mode==='exam'?`符合条件 ${n} 题${sideLabel?'（'+sideLabel+'）':''}，本次抽取 ${Math.min(30,n)} 题。`:`符合条件 ${n} 题${sideLabel?'（'+sideLabel+'）':''}。`;
  const start=document.querySelector('#start');start.disabled=!n;start.textContent=saved?'重新开始'+(mode==='exam'?'测试':'本轮'):(mode==='exam'?'开始测试':'开始练习');
  const help=document.querySelector('#emptyHelp');help.hidden=!!n;help.textContent=mode==='wrong'?'当前条件下没有待复习错题。可重置筛选或选择顺序练习。':mode==='star'?'当前条件下没有收藏。练习中点击“收藏”后可在这里复习。':'没有符合条件的题目，请重置筛选或取消“只练从未作答的题”。';
  document.querySelector('#resumeCard').innerHTML=saved?`<div class="resume-card"><div><b>${modeNames[mode]} · 第 ${saved.index+1} / ${saved.ids.length} 题</b><small>继续原来的题组；下方筛选仅用于新练习。${mode==='exam'?'关闭页面后仍继续计时。':''}</small></div><button id="resume">继续上次${mode==='exam'?'测试':'练习'}</button></div>`:'';

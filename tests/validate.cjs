@@ -68,4 +68,59 @@ for(const c of ['business','physics']){
   assert.deepEqual(E.validate(JSON.parse(JSON.stringify(backup)),ids),backup,`${c} ${mode} progress must survive restore`);
  }
 }
+function extractFunctions(source,names){
+ const bodies=[];
+ for(const name of names){
+  const start=source.indexOf('function '+name+'(');
+  assert(start>=0,name+' missing from app.js');
+  let i=source.indexOf('{',start),depth=0;
+  for(;i<source.length;i++){
+   const c=source[i];
+   if(c==='{')depth++;
+   else if(c==='}'){depth--;if(!depth){i++;break}}
+  }
+  bodies.push(source.slice(start,i));
+ }
+ return new Function(bodies.join('\n')+'\nreturn {'+names.join(',')+'};')();
+}
+const appSource=fs.readFileSync(path.join(__dirname,'../app.js'),'utf8');
+const {judgeMark,judgeSplit,matchType,filterRecord}=extractFunctions(appSource,['judgeMark','judgeSplit','matchType','filterRecord']);
+const physicsJudges=banks.physics.filter(q=>q.type==='judge');
+assert.equal(physicsJudges.length,160);
+assert(physicsJudges.every(q=>q.options.A==='正确'&&q.options.B==='错误'&&q.answer.length===1));
+assert.equal(physicsJudges.filter(q=>judgeMark(q)==='right').length,100);
+assert.equal(physicsJudges.filter(q=>judgeMark(q)==='wrong').length,60);
+assert.equal(physicsJudges.filter(q=>q.answer[0]==='A'&&judgeMark(q)!=='right').length,0);
+assert.equal(banks.physics.filter(q=>matchType(q,'single','')).length,190);
+assert.equal(banks.physics.filter(q=>matchType(q,'single','right')).length,190,'A saved 对/错 choice must not narrow 单选题');
+assert.equal(banks.physics.filter(q=>matchType(q,'multiple','')).length,38);
+assert.equal(banks.physics.filter(q=>matchType(q,'judge','')).length,160);
+assert.equal(banks.physics.filter(q=>matchType(q,'judge','right')).length,100);
+assert.equal(banks.physics.filter(q=>matchType(q,'judge','wrong')).length,60);
+assert(banks.physics.filter(q=>matchType(q,'judge','right')).every(q=>q.type==='judge'&&q.answer[0]==='A'));
+assert(banks.physics.filter(q=>matchType(q,'judge','wrong')).every(q=>q.type==='judge'&&q.answer[0]==='B'));
+for(const c of courses){
+ const split=judgeSplit(banks[c]);
+ assert.equal(split.judge,banks[c].filter(q=>q.type==='judge').length);
+ assert.equal(split.right+split.wrong,split.judge,c+' 判断题 should all be 正确/错误');
+ assert.equal(split.enabled,split.judge>0);
+}
+const singlePref=filterRecord('sequence','物理是文化','single','伽利略',false,'right');
+assert.deepEqual(singlePref,{mode:'sequence',chapter:'物理是文化',type:'single',search:'伽利略',unanswered:false});
+assert.equal(Object.hasOwn(singlePref,'judgeSide'),false);
+const judgePref=filterRecord('random','','judge','',true,'');
+assert.equal(judgePref.type,'judge');
+assert.equal(Object.hasOwn(judgePref,'judgeSide'),false,'Missing 对/错 means all 判断题');
+assert.equal(filterRecord('sequence','','judge','',false,'right').judgeSide,'right');
+assert.equal(filterRecord('sequence','','judge','',false,'wrong').judgeSide,'wrong');
+assert.equal(filterRecord('sequence','','judge-right','',false,'right').type,'');
+assert.equal(filterRecord('sequence','','judge','',false,'A').judgeSide,undefined);
+const html=fs.readFileSync(path.join(__dirname,'../index.html'),'utf8');
+assert(html.includes('app.js?v=20261128-judgefilter'));
+assert(html.includes('style.css?v=20261128-judgefilter'));
+assert(html.includes('engine.js?v=20261024-full2'));
+assert(appSource.includes("const PREF_KEY='cumt-practice-preferences-v1'"));
+assert(appSource.includes("fetch('data/'+c.id+'.json'+(c.id==='physics'?'?v=20261128-physics388':'')"));
+assert(!appSource.includes('localStorage.removeItem'));
+assert.equal(E.KEY,'cumt-history-v1');
 console.log('PASS',qs.length,'questions across',courses.length,'courses; scoring, records, backup validation, shuffle, new course session persistence');
