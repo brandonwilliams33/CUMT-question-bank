@@ -3,7 +3,7 @@
     "id": "physics-001",
     "chapter": "物理是文化",
     "type": "single",
-    "stem": "（ ）是实验科学的奠基人。",
+    "stem": "（）是实验科学的奠基人。",
     "options": {
       "A": "爱迪生",
       "B": "普朗克",
@@ -26,7 +26,7 @@
     "id": "physics-002",
     "chapter": "物理是文化",
     "type": "single",
-    "stem": "玻尔学说的（ ）学说曾经被爱因斯坦批判。",
+    "stem": "玻尔学说的（）学说曾经被爱因斯坦批判。",
     "options": {
       "A": "互补原理",
       "B": "决定论",
@@ -50,7 +50,7 @@
     "id": "physics-003",
     "chapter": "物理是文化",
     "type": "multiple",
-    "stem": "物理学包括的内容有（ ）。",
+    "stem": "物理学包括的内容有（）。",
     "options": {
       "A": "公理",
       "B": "定理",
@@ -93,10 +93,31 @@
     "explain": "错误。量子力学并没有使经典力学整体失效，宏观低速的日常现象仍用经典力学，它是更普遍理论在一定条件下的近似。"
   },
   {
+    "id": "physics-005",
+    "chapter": "物理是文化",
+    "type": "judge",
+    "stem": "物理是自然科学发展的基石。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 41,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=2",
+    "sourceLabel": "Word核对副本第 2 页 · 物理是文化原第 5 题",
+    "sourcePages": [
+      2
+    ],
+    "explain": "正确。物理是自然科学发展的基石，这是题库的标准表述。"
+  },
+  {
     "id": "physics-006",
     "chapter": "探秘宇宙",
     "type": "single",
-    "stem": "物理学科的主要内容为研究物质结构、运动规律及物质间的（ ）。",
+    "stem": "物理学科的主要内容为研究物质结构，运动规律及物质间的（）。",
     "options": {
       "A": "数学表达",
       "B": "实验结果",
@@ -119,7 +140,7 @@
     "id": "physics-007",
     "chapter": "探秘宇宙",
     "type": "multiple",
-    "stem": "量子力学中涉及以下哪几个概念？",
+    "stem": "量子力学中涉及以下哪几个概念？（）",
     "options": {
       "A": "动量",
       "B": "能量",
@@ -139,6 +160,27 @@
       2
     ],
     "explain": "选 A、B、D。量子力学涉及动量、能量、宇称等概念；力是经典牛顿力学的核心概念，本题不要选C。"
+  },
+  {
+    "id": "physics-full-008",
+    "chapter": "探秘宇宙",
+    "type": "judge",
+    "stem": "物理可分为两部分内容，基础物理和应用物理。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 56,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=3",
+    "sourceLabel": "Word核对副本第 3 页 · 探秘宇宙原第 3 题",
+    "sourcePages": [
+      3
+    ],
+    "explain": "正确。物理学可以分为基础物理和应用物理两大部分。"
   },
   {
     "id": "physics-full-009",
@@ -165,7 +207,7 @@
     "id": "physics-full-010",
     "chapter": "物理的工具",
     "type": "single",
-    "stem": "如下哪种工具不被现今物理理论所普遍接受？",
+    "stem": "如下哪种工具不被现今物理理论所普遍接受？（）",
     "options": {
       "A": "线性代数",
       "B": "群论",
@@ -188,7 +230,7 @@
     "id": "physics-full-011",
     "chapter": "物理的工具",
     "type": "single",
-    "stem": "（ ）支持了爱因斯坦的狭义相对论？",
+    "stem": "（）支持了爱因斯坦的狭义相对论？",
     "options": {
       "A": "水星近日点进动",
       "B": "迈克尔逊干涉实验",
@@ -206,6 +248,27 @@
       3
     ],
     "explain": "选 B，迈克尔逊干涉实验。它表明光速与地球运动无关，支持狭义相对论。水星近日点进动支持的是广义相对论，黑体辐射导向量子论，宇宙加速膨胀与暗能量有关，都不要选。"
+  },
+  {
+    "id": "physics-full-012",
+    "chapter": "物理的工具",
+    "type": "judge",
+    "stem": "光的粒子性是由泊松斑的实验证明的。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 73,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=3",
+    "sourceLabel": "Word核对副本第 3 页 · 物理的工具原第 3 题",
+    "sourcePages": [
+      3
+    ],
+    "explain": "错误。泊松斑（阿喇戈斑）证明的是光的波动性，不是粒子性；光的粒子性由光电效应等实验支持。"
   },
   {
     "id": "physics-full-013",
@@ -232,7 +295,7 @@
     "id": "physics-full-014",
     "chapter": "猜与争论",
     "type": "single",
-    "stem": "（ ）被焦耳的关于热和物质运动的关系的证明所否定。",
+    "stem": "（）被焦耳的关于热和物质运动的关系的证明所否定。",
     "options": {
       "A": "相对论",
       "B": "热质说",
@@ -255,7 +318,7 @@
     "id": "physics-full-015",
     "chapter": "猜与争论",
     "type": "single",
-    "stem": "（ ）实验否定了以太假说。",
+    "stem": "（）实验否定了以太假说。",
     "options": {
       "A": "宇宙的加速膨胀",
       "B": "迈克尔逊莫雷实验",
@@ -278,7 +341,7 @@
     "id": "physics-full-016",
     "chapter": "猜与争论",
     "type": "multiple",
-    "stem": "美国P5文件指出了当今粒子物理的主要问题，包括的内容有（ ）。",
+    "stem": "美国P5文件指出了当今粒子物理的主要问题，包括的内容有（）。",
     "options": {
       "A": "宇宙加速膨胀",
       "B": "中微子质量",
@@ -299,6 +362,27 @@
       4
     ],
     "explain": "选 A、B、D。P5文件针对的是粒子物理的主要问题：宇宙加速膨胀、中微子质量和希格斯玻色子。高温超导属于凝聚态物理，不要选C。"
+  },
+  {
+    "id": "physics-full-017",
+    "chapter": "猜与争论",
+    "type": "judge",
+    "stem": "玻尔和爱因斯坦关于量子力学的争论仅在一定程度上完善了量子力学。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 96,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=4",
+    "sourceLabel": "Word核对副本第 4 页 · 猜与争论原第 4 题",
+    "sourcePages": [
+      4
+    ],
+    "explain": "正确。玻尔和爱因斯坦关于量子力学的争论，只是在一定程度上完善了量子力学，并没有终结相关讨论。"
   },
   {
     "id": "physics-full-018",
@@ -325,7 +409,7 @@
     "id": "physics-full-019",
     "chapter": "近年来的物理成就",
     "type": "single",
-    "stem": "为表彰三位科学家在（ ）领域的贡献，2014年诺贝尔物理奖授予了他们。",
+    "stem": "为表彰三位科学家在（）领域的贡献，2014年诺贝尔物理奖授予了他们。",
     "options": {
       "A": "黄光LED",
       "B": "蓝光LED",
@@ -348,7 +432,7 @@
     "id": "physics-full-020",
     "chapter": "近年来的物理成就",
     "type": "multiple",
-    "stem": "粒子物理近些年的成就包括（ ）。",
+    "stem": "粒子物理近些年的成就包括（）。",
     "options": {
       "A": "标准模型的确立",
       "B": "top夸克的发现",
@@ -373,7 +457,7 @@
     "id": "physics-full-021",
     "chapter": "近年来的物理成就",
     "type": "multiple",
-    "stem": "量子力学近些年的成就包括（ ）。",
+    "stem": "量子力学近些年的成就包括（）。",
     "options": {
       "A": "无损伤探测",
       "B": "相变",
@@ -416,10 +500,31 @@
     "explain": "正确。大亚湾中微子实验精确测量了中微子混合角，是中国在粒子物理上的重要贡献，具有重大科学意义。"
   },
   {
+    "id": "physics-full-023",
+    "chapter": "近年来的物理成就",
+    "type": "judge",
+    "stem": "无损伤探测属于宇宙学近些年的成就。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 121,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=4",
+    "sourceLabel": "Word核对副本第 4 页 · 近年来的物理成就原第 5 题",
+    "sourcePages": [
+      4
+    ],
+    "explain": "错误。无损伤探测属于应用物理或医学、材料检测等方面的成就，并不属于宇宙学近些年的成就。"
+  },
+  {
     "id": "physics-full-024",
     "chapter": "惯性系中的牛顿力学",
     "type": "single",
-    "stem": "在允许误差存在的情况下，如果认为地球半径近似为6400公里，且第一宇宙速度是发射人造地球卫星所需的速度，则它近似为多少？（ ）（注意：这时引力等于向心力）",
+    "stem": "在允许误差存在的情况下，如果认为地球半径近似为6400公里，且第一宇宙速度是发射人造地球卫星所需的速度，则它近似为多少？（）（注意：这时引力等于向心力）",
     "options": {
       "A": "6.5m/s",
       "B": "7.8km/s",
@@ -442,7 +547,7 @@
     "id": "physics-full-025",
     "chapter": "惯性系中的牛顿力学",
     "type": "single",
-    "stem": "1958年，核动力潜艇Nautilus用了6天12个小时从波特兰出发横跨大西洋到英国，航程5068km，它的时速为（ ）。",
+    "stem": "1958年，核动力潜艇Nautilus用了6天12个小时从波特兰出发横跨大西洋到英国，航程5068km，它的时速为（）。",
     "options": {
       "A": "32.5km/h",
       "B": "33.0km/h",
@@ -483,10 +588,31 @@
     "explain": "正确。惯性质量就是用来定量量度物体惯性大小的物理量。"
   },
   {
+    "id": "physics-full-027",
+    "chapter": "惯性系中的牛顿力学",
+    "type": "judge",
+    "stem": "牛顿第三定律不是从实验中总结出来的。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 138,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=5",
+    "sourceLabel": "Word核对副本第 5 页 · 惯性系中的牛顿力学原第 4 题",
+    "sourcePages": [
+      5
+    ],
+    "explain": "错误。牛顿第三定律是从实验中总结出来的，说“不是”就说反了。"
+  },
+  {
     "id": "physics-full-028",
     "chapter": "摩擦力",
     "type": "single",
-    "stem": "当人往前走路的时候，摩擦力的方向是（ ）。",
+    "stem": "当人往前走路的时候，摩擦力的方向是（）。",
     "options": {
       "A": "向前",
       "B": "向左",
@@ -506,10 +632,33 @@
     "explain": "选 A，向前。人走路时脚向后蹬地，地给人的静摩擦力向前，这才是使人前进的力；不要按“摩擦总是向后”去选D。"
   },
   {
+    "id": "physics-full-029",
+    "chapter": "摩擦力",
+    "type": "single",
+    "stem": "斜面有一定的倾斜角度，在如下哪种情况下小滑块一定不会滑下来？（）",
+    "options": {
+      "A": "小滑块没有重力远小于斜面的重力",
+      "B": "小滑块重力沿斜面的分解力小于斜面的摩擦力",
+      "C": "小滑块重力沿斜面的分解力大于斜面的摩擦力",
+      "D": "小滑块重力沿斜面的分解力大于斜面对它的支撑力"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 147,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=5",
+    "sourceLabel": "Word核对副本第 5 页 · 摩擦力原第 2 题",
+    "sourcePages": [
+      5
+    ],
+    "explain": "选 B，小滑块重力沿斜面的分解力小于斜面的摩擦力。沿斜面的分力小于摩擦力时，滑块不会下滑；分力大于摩擦力就会滑下来，不要选C。A表述不通，D比较的是支持力，都不是“一定不会滑下来”的条件。"
+  },
+  {
     "id": "physics-full-030",
     "chapter": "摩擦力",
     "type": "multiple",
-    "stem": "减小摩擦力的方法有（ ）。",
+    "stem": "减小摩擦力的方法有（）。",
     "options": {
       "A": "减小压力",
       "B": "使接触面变光滑",
@@ -576,7 +725,7 @@
     "id": "physics-full-033",
     "chapter": "惯性系",
     "type": "single",
-    "stem": "为补偿参考系中的非惯性运动，我们引入了一个惯性力-ma_0,则牛顿第二定律应写为（ ）。（假定汽车加速度为a_0。）",
+    "stem": "为补偿参考系中的非惯性运动，我们引入了一个惯性力-ma_0,则牛顿第二定律应写为（）。（假定汽车加速度为a_0。）",
     "options": {
       "A": "ma=F/ma_0",
       "B": "ma=F-ma_0",
@@ -595,6 +744,29 @@
     ],
     "note": "原文将A“ma=F/ma_0”标作参考答案，并另列B“ma=F-ma_0”；公式与答案存在疑点，已照录，建议核对课程材料。",
     "explain": "选 A，ma=F/ma_0。按题库就记这一式；不要改选看起来更像惯性力补偿的B（ma=F-ma_0）。"
+  },
+  {
+    "id": "physics-full-034",
+    "chapter": "惯性系",
+    "type": "single",
+    "stem": "如下参考系中，（）为惯性系。（已知惯性系G。）",
+    "options": {
+      "A": "相对于G做匀速直线运动的参考系B",
+      "B": "相对于G做匀加速直线运动的参考系C",
+      "C": "相对于G做类平抛运动的参考系D",
+      "D": "相对于G做匀速圆周运动的参考系A"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 170,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=6",
+    "sourceLabel": "Word核对副本第 6 页 · 惯性系原第 2 题",
+    "sourcePages": [
+      6
+    ],
+    "explain": "选 A，相对于G做匀速直线运动的参考系B。相对惯性系做匀速直线运动的参考系仍是惯性系；有加速度的C、做类平抛的D、做匀速圆周运动的A都是非惯性系，不要选。"
   },
   {
     "id": "physics-full-035",
@@ -639,10 +811,33 @@
     "explain": "错误。北半球地转偏向力使水平运动向右偏，河水自北向南流时冲刷的是右岸，不是左岸。"
   },
   {
+    "id": "physics-full-037",
+    "chapter": "万有引力",
+    "type": "single",
+    "stem": "已知木星的一个卫星周期1.8天，轨道半径42万千米。月地距离约为38万千米，一个月约27天。则木星与地球质量之比为（）。",
+    "options": {
+      "A": "336",
+      "B": "436",
+      "C": "136",
+      "D": "236"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 181,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=6",
+    "sourceLabel": "Word核对副本第 6 页 · 万有引力原第 1 题",
+    "sourcePages": [
+      6
+    ],
+    "explain": "选 A，336。由开普勒第三定律 M∝r³/T²，按题给的周期和轨道半径，木星与地球质量之比记选336。"
+  },
+  {
     "id": "physics-full-038",
     "chapter": "万有引力",
     "type": "single",
-    "stem": "根据开普勒第二定律，行星角速度ω与其到太阳的距离r的关系为（ ）。",
+    "stem": "根据开普勒第二定律，行星角速度ω与其到太阳的距离r的关系为（）。",
     "options": {
       "A": "距离乘角速度为常数",
       "B": "距离的立方成角速度为常数",
@@ -707,7 +902,7 @@
     "id": "physics-full-041",
     "chapter": "是什么解释了复杂的力",
     "type": "single",
-    "stem": "一辆816kg的大众汽车需要以（ ）的速度行驶才能取得和一台2650kg的凯迪拉克以16.0km/h行驶时的相同动量。",
+    "stem": "一辆816kg的大众汽车需要以（）的速度行驶才能取得和一台2650kg的凯迪拉克以16.0km/h行驶时的相同动量。",
     "options": {
       "A": "51.9",
       "B": "40",
@@ -727,10 +922,34 @@
     "explain": "选 A，51.9。动量相等则 m1v1=m2v2，v=2650×16.0/816≈51.96，取51.9。"
   },
   {
+    "id": "physics-full-042",
+    "chapter": "是什么解释了复杂的力",
+    "type": "single",
+    "stem": "当作用10N的力在放置于光滑平面的50KG物体上25s，可使物体达到（）的速度。",
+    "options": {
+      "A": "10",
+      "B": "60",
+      "C": "2",
+      "D": "5"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 204,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=6",
+    "sourceLabel": "Word核对副本第 6—7 页 · 是什么解释了复杂的力原第 2 题",
+    "sourcePages": [
+      6,
+      7
+    ],
+    "explain": "选 D，5。a=F/m=10/50=0.2，v=at=0.2×25=5。"
+  },
+  {
     "id": "physics-full-043",
     "chapter": "是什么解释了复杂的力",
     "type": "single",
-    "stem": "将一钢尺一端被固定在一可光滑旋转的铰链上，钢尺的另一端用以钢球撞击，整个过程会满足如下（ ）定理。",
+    "stem": "将一钢尺一端被固定在一可光滑旋转的铰链上，钢尺的另一端用以钢球撞击，整个过程会满足如下（）定理。",
     "options": {
       "A": "机械能守恒",
       "B": "动量守恒",
@@ -795,7 +1014,7 @@
     "id": "physics-full-046",
     "chapter": "力的效果——动能",
     "type": "single",
-    "stem": "（ ）对应于时间平移不变性。",
+    "stem": "（）对应于时间平移不变性。",
     "options": {
       "A": "动量守恒",
       "B": "角动量守恒",
@@ -818,7 +1037,7 @@
     "id": "physics-full-047",
     "chapter": "力的效果——动能",
     "type": "multiple",
-    "stem": "下列哪些项为是动能的组成部分？",
+    "stem": "下列哪些项为是动能的组成部分？（）",
     "options": {
       "A": "平动动能",
       "B": "转动动能",
@@ -840,10 +1059,52 @@
     "explain": "选 A、B、C。动能可以包括平动动能、转动动能和振动动能；电势能属于势能，不是动能，不要选D。"
   },
   {
+    "id": "physics-full-048",
+    "chapter": "力的效果——动能",
+    "type": "judge",
+    "stem": "内力可以使总势能发生变化。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 233,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=7",
+    "sourceLabel": "Word核对副本第 7 页 · 力的效果——动能原第 3 题",
+    "sourcePages": [
+      7
+    ],
+    "explain": "错误。按题库，内力不能使系统的总势能发生变化。"
+  },
+  {
+    "id": "physics-full-049",
+    "chapter": "力的效果——动能",
+    "type": "judge",
+    "stem": "对某种连续变化保持不变的对称性对应固定的守恒量。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 235,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=7",
+    "sourceLabel": "Word核对副本第 7 页 · 力的效果——动能原第 4 题",
+    "sourcePages": [
+      7
+    ],
+    "explain": "正确。这就是诺特定理的思路：一种连续对称性对应一个守恒量。"
+  },
+  {
     "id": "physics-full-050",
     "chapter": "保守力场——势能",
     "type": "single",
-    "stem": "因为有（ ）理论，所以势能和位置无关。",
+    "stem": "因为有（）理论，所以势能和位置无关。",
     "options": {
       "A": "电荷守恒",
       "B": "动能守恒",
@@ -866,7 +1127,7 @@
     "id": "physics-full-051",
     "chapter": "保守力场——势能",
     "type": "single",
-    "stem": "万有引力理论中，势能和两质点距离的关系为（ ）。",
+    "stem": "万有引力理论中，势能和两质点距离的关系为（）。",
     "options": {
       "A": "和距离平方成反比",
       "B": "成反比",
@@ -890,7 +1151,7 @@
     "id": "physics-full-052",
     "chapter": "保守力场——势能",
     "type": "single",
-    "stem": "“摩擦力势能”不存在的原因是（ ）。",
+    "stem": "“摩擦力势能”不存在的原因是（）。",
     "options": {
       "A": "因为摩擦力复杂",
       "B": "因为摩擦力大小与压力有关",
@@ -931,10 +1192,31 @@
     "explain": "错误。机械能是否守恒，取决于有没有非保守力做功，并不取决于参考系如何选择。"
   },
   {
+    "id": "physics-full-054",
+    "chapter": "保守力场——势能",
+    "type": "judge",
+    "stem": "F=-▽V只对保守力场成立，其他情况不成立。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 258,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=8",
+    "sourceLabel": "Word核对副本第 8 页 · 保守力场——势能原第 5 题",
+    "sourcePages": [
+      8
+    ],
+    "explain": "正确。F=-▽V（力是势能的负梯度）只对保守力场成立，非保守力不能这样用势能来表示。"
+  },
+  {
     "id": "physics-full-055",
     "chapter": "真的守恒吗？",
     "type": "single",
-    "stem": "因为有（ ），才有了我们的能量守恒定律。",
+    "stem": "因为有（），才有了我们的能量守恒定律。",
     "options": {
       "A": "计算机模拟的结果",
       "B": "科学家的直觉",
@@ -957,7 +1239,7 @@
     "id": "physics-full-056",
     "chapter": "真的守恒吗？",
     "type": "single",
-    "stem": "将5N的作用力作用于粗糙平面上的10kg物体位移4m，物体获得的速度为（ ）。",
+    "stem": "将5N的作用力作用于粗糙平面上的10kg物体位移4m，物体获得的速度为（）。",
     "options": {
       "A": "2m/s",
       "B": "小于2m/s",
@@ -980,7 +1262,7 @@
     "id": "physics-full-057",
     "chapter": "真的守恒吗？",
     "type": "single",
-    "stem": "机械能守恒相对于（ ）成立。",
+    "stem": "机械能守恒相对于（）成立。",
     "options": {
       "A": "非保守力",
       "B": "摩擦力",
@@ -998,6 +1280,27 @@
       8
     ],
     "explain": "选 C，保守力。机械能守恒成立的条件是只有保守力做功；有摩擦力等非保守力时，机械能一般不守恒。"
+  },
+  {
+    "id": "physics-full-058",
+    "chapter": "真的守恒吗？",
+    "type": "judge",
+    "stem": "能量守恒律中的能量并不仅仅指机械能，还包括了化学能、辐射出的光能、热能等等能量。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 279,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=8",
+    "sourceLabel": "Word核对副本第 8 页 · 真的守恒吗？原第 4 题",
+    "sourcePages": [
+      8
+    ],
+    "explain": "正确。能量守恒中的“能量”不只是机械能，还包括化学能、辐射光能、热能等。"
   },
   {
     "id": "physics-full-059",
@@ -1024,7 +1327,7 @@
     "id": "physics-full-060",
     "chapter": "为什么会旋转？",
     "type": "single",
-    "stem": "势能的空间旋转不变，遵守如下（ ）守恒定律。",
+    "stem": "势能的空间旋转不变，遵守如下（）守恒定律。",
     "options": {
       "A": "动量",
       "B": "机械能",
@@ -1047,7 +1350,7 @@
     "id": "physics-full-061",
     "chapter": "为什么会旋转？",
     "type": "single",
-    "stem": "（ ）的改变引起了向心加速度。",
+    "stem": "（）的改变引起了向心加速度。",
     "options": {
       "A": "速度大小",
       "B": "速度方向",
@@ -1088,10 +1391,33 @@
     "explain": "正确。先从最简单的圆周运动入手，再把结论推广到更一般的转动，这是常用的学习方法。"
   },
   {
+    "id": "physics-full-063",
+    "chapter": "完美的模型——刚体",
+    "type": "single",
+    "stem": "刚体的自由度为（）。",
+    "options": {
+      "A": "6",
+      "B": "9",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 299,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=9",
+    "sourceLabel": "Word核对副本第 9 页 · 完美的模型——刚体原第 1 题",
+    "sourcePages": [
+      9
+    ],
+    "explain": "选 A，6。刚体有6个自由度：平动3个，转动3个；不要记成9、2或3。"
+  },
+  {
     "id": "physics-full-064",
     "chapter": "完美的模型——刚体",
     "type": "single",
-    "stem": "设一个物体的转动惯量为I，角速度为ω，则动能表达式为（ ）。",
+    "stem": "设一个物体的转动惯量为I，角速度为ω，则动能表达式为（）。",
     "options": {
       "A": "I和ω的乘积的一半",
       "B": "是I和角速度平方乘积的一半",
@@ -1114,7 +1440,7 @@
     "id": "physics-full-065",
     "chapter": "完美的模型——刚体",
     "type": "single",
-    "stem": "（ ）是开普勒定律中的面积定律本质。",
+    "stem": "（）是开普勒定律中的面积定律本质。",
     "options": {
       "A": "机械能守恒",
       "B": "能量守恒",
@@ -1176,10 +1502,33 @@
     "explain": "错误。I=mr² 只对质点成立；一般物体要对质元积分 I=∫r²dm，不能用某一个 r 写成 mr²。"
   },
   {
+    "id": "physics-full-068",
+    "chapter": "陀螺动起来",
+    "type": "single",
+    "stem": "若M为一个陀螺总质量，r为它质心到支点的距离，L为其自转角动量，g为重力加速度，则进动的速度可表示为（）。",
+    "options": {
+      "A": "M,g,r的乘积除以L",
+      "B": "M,r,L的乘积",
+      "C": "M,g,r的乘积",
+      "D": "M,g,L的乘积"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 322,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=10",
+    "sourceLabel": "Word核对副本第 10 页 · 陀螺动起来原第 1 题",
+    "sourcePages": [
+      10
+    ],
+    "explain": "选 A，M,g,r的乘积除以L。进动角速度 Ω=Mgr/L。"
+  },
+  {
     "id": "physics-full-069",
     "chapter": "陀螺动起来",
     "type": "single",
-    "stem": "进动是指（ ）的改变。",
+    "stem": "进动是指（）的改变。",
     "options": {
       "A": "转动角速度",
       "B": "转动线速度",
@@ -1244,7 +1593,7 @@
     "id": "physics-full-072",
     "chapter": "简谐振动",
     "type": "single",
-    "stem": "单摆的振动周期T和（ ）成正比关系。",
+    "stem": "单摆的振动周期T和（）成正比关系。",
     "options": {
       "A": "2L",
       "B": "2g",
@@ -1262,6 +1611,29 @@
       10
     ],
     "explain": "选 D，(L/g)的平方根。单摆周期 T=2π√(L/g)，所以 T 与 √(L/g) 成正比。"
+  },
+  {
+    "id": "physics-full-073",
+    "chapter": "简谐振动",
+    "type": "single",
+    "stem": "若单摆振动幅角为a,则单摆的回复力可表示为（）。",
+    "options": {
+      "A": "m乘以a的正弦",
+      "B": "m和g乘积的负值",
+      "C": "m，g乘积乘以a的正弦（负方向）",
+      "D": "mg乘积"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 345,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=10",
+    "sourceLabel": "Word核对副本第 10 页 · 简谐振动原第 2 题",
+    "sourcePages": [
+      10
+    ],
+    "explain": "选 C，m，g乘积乘以a的正弦（负方向）。单摆回复力 F=-mg sin a，不要漏掉g，也不要丢掉负方向。"
   },
   {
     "id": "physics-full-074",
@@ -1309,7 +1681,7 @@
     "id": "physics-full-076",
     "chapter": "强迫振动",
     "type": "single",
-    "stem": "强迫振动现象中，如结果仍是简谐振动时，对外力的要求是（ ）。",
+    "stem": "强迫振动现象中，如结果仍是简谐振动时，对外力的要求是（）。",
     "options": {
       "A": "大小适中",
       "B": "非常大",
@@ -1333,7 +1705,7 @@
     "id": "physics-full-077",
     "chapter": "强迫振动",
     "type": "single",
-    "stem": "（ ）的时候，可引起振幅最大时候的共振。",
+    "stem": "（）的时候，可引起振幅最大时候的共振。",
     "options": {
       "A": "外力频率=物体固有频率",
       "B": "外力频率>物体固有频率",
@@ -1351,6 +1723,29 @@
       11
     ],
     "explain": "选 A，外力频率=物体固有频率。共振发生在驱动力频率等于固有频率时，振幅达到最大；大于或小于都不对。"
+  },
+  {
+    "id": "physics-full-078",
+    "chapter": "强迫振动",
+    "type": "single",
+    "stem": "由强迫振动引起的现象是（）。",
+    "options": {
+      "A": "衰减",
+      "B": "波的传播",
+      "C": "共振",
+      "D": "以上所有"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 368,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=11",
+    "sourceLabel": "Word核对副本第 11 页 · 强迫振动原第 3 题",
+    "sourcePages": [
+      11
+    ],
+    "explain": "选 C，共振。强迫振动在驱动力频率接近固有频率时引起共振；衰减是阻尼造成的，不要选A或D。"
   },
   {
     "id": "physics-full-079",
@@ -1398,7 +1793,7 @@
     "id": "physics-full-081",
     "chapter": "振动的传播——波",
     "type": "single",
-    "stem": "横波里波的传播方向和振动方向的关系是（ ）。",
+    "stem": "横波里波的传播方向和振动方向的关系是（）。",
     "options": {
       "A": "垂直",
       "B": "相交",
@@ -1421,7 +1816,7 @@
     "id": "physics-full-082",
     "chapter": "振动的传播——波",
     "type": "single",
-    "stem": "物理量里，表现波长时间特性的是（ ）。",
+    "stem": "物理量里，表现波长时间特性的是（）。",
     "options": {
       "A": "波长",
       "B": "振幅",
@@ -1465,7 +1860,7 @@
     "id": "physics-full-084",
     "chapter": "干涉和衍射",
     "type": "single",
-    "stem": "有两相干波，其振幅相等，且相位差为0，则它们的合成波振幅是原来的（ ）。",
+    "stem": "有两相干波，其振幅相等，且相位差为0，则它们的合成波振幅是原来的（）。",
     "options": {
       "A": "不变",
       "B": "两倍",
@@ -1488,7 +1883,7 @@
     "id": "physics-full-085",
     "chapter": "干涉和衍射",
     "type": "single",
-    "stem": "分析衍射需要用到（ ）。",
+    "stem": "分析衍射需要用到（）。",
     "options": {
       "A": "惠更斯原理",
       "B": "开普勒定律",
@@ -1511,7 +1906,7 @@
     "id": "physics-full-086",
     "chapter": "干涉和衍射",
     "type": "single",
-    "stem": "两波相干，有明显效果时，两者频率的的关系是（ ）。",
+    "stem": "两波相干，有明显效果时，两者频率的的关系是（）。",
     "options": {
       "A": "差别不大",
       "B": "差别较大",
@@ -1576,7 +1971,7 @@
     "id": "physics-full-089",
     "chapter": "驻波",
     "type": "single",
-    "stem": "驻波的本质是两列波的（ ）。",
+    "stem": "驻波的本质是两列波的（）。",
     "options": {
       "A": "衍射",
       "B": "干涉",
@@ -1599,7 +1994,7 @@
     "id": "physics-full-090",
     "chapter": "驻波",
     "type": "multiple",
-    "stem": "产生驻波的条件包括（ ）。",
+    "stem": "产生驻波的条件包括（）。",
     "options": {
       "A": "两波频率相同",
       "B": "两波传播速度相同",
@@ -1645,7 +2040,7 @@
     "id": "physics-full-092",
     "chapter": "光就是电磁波",
     "type": "single",
-    "stem": "在真空中传播时，光波的电场，磁场和传播方向的关系为（ ）。",
+    "stem": "在真空中传播时，光波的电场，磁场和传播方向的关系为（）。",
     "options": {
       "A": "两两垂直",
       "B": "两两平行",
@@ -1665,10 +2060,33 @@
     "explain": "选 A，两两垂直。真空中光是横波，电场、磁场与传播方向两两垂直，构成右手系。"
   },
   {
+    "id": "physics-full-093",
+    "chapter": "光就是电磁波",
+    "type": "single",
+    "stem": "光是电磁波，满足如下理论或方程的是（）。",
+    "options": {
+      "A": "相对论力学",
+      "B": "热传导方程",
+      "C": "麦克斯韦方程",
+      "D": "牛顿运动定律"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 438,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=13",
+    "sourceLabel": "Word核对副本第 13 页 · 光就是电磁波原第 2 题",
+    "sourcePages": [
+      13
+    ],
+    "explain": "选 C，麦克斯韦方程。光是电磁波，满足麦克斯韦方程组；不是牛顿运动定律、热传导方程或相对论力学本身。"
+  },
+  {
     "id": "physics-full-094",
     "chapter": "光就是电磁波",
     "type": "single",
-    "stem": "光的传播是否需要介质？",
+    "stem": "光的传播是否需要介质？（）",
     "options": {
       "A": "视波长而定",
       "B": "需要",
@@ -1733,7 +2151,7 @@
     "id": "physics-full-097",
     "chapter": "光的波粒之争",
     "type": "single",
-    "stem": "远视眼需（ ）镜片纠正。",
+    "stem": "远视眼需（）镜片纠正。",
     "options": {
       "A": "凸面反射镜",
       "B": "凹面反射镜",
@@ -1756,7 +2174,7 @@
     "id": "physics-full-098",
     "chapter": "光的波粒之争",
     "type": "single",
-    "stem": "近视眼需（ ）镜片纠正。",
+    "stem": "近视眼需（）镜片纠正。",
     "options": {
       "A": "凸面反射镜",
       "B": "凹面反射镜",
@@ -1800,7 +2218,7 @@
     "id": "physics-full-100",
     "chapter": "光学成像",
     "type": "single",
-    "stem": "光学成像的成像性质是（ ）。",
+    "stem": "光学成像的成像性质是（）。",
     "options": {
       "A": "两者都没有",
       "B": "实像",
@@ -1823,7 +2241,7 @@
     "id": "physics-full-101",
     "chapter": "光学成像",
     "type": "single",
-    "stem": "反射定律中，入射角为a，反射角为b，两者的关系为（ ）。",
+    "stem": "反射定律中，入射角为a，反射角为b，两者的关系为（）。",
     "options": {
       "A": "a=b",
       "B": "a<b<a=\"\"></b<>",
@@ -1847,7 +2265,7 @@
     "id": "physics-full-102",
     "chapter": "光学成像",
     "type": "single",
-    "stem": "在薄透镜成像中，物距o,相距i,和焦距f之间的关系是（ ）。",
+    "stem": "在薄透镜成像中，物距o,相距i,和焦距f之间的关系是（）。",
     "options": {
       "A": "1/o+1/i>1/f",
       "B": "1/o+1/i<1/f",
@@ -1865,6 +2283,27 @@
       14
     ],
     "explain": "选 D，1/o+1/i=1/f。薄透镜成像公式：物距、像距的倒数之和等于焦距的倒数。"
+  },
+  {
+    "id": "physics-full-103",
+    "chapter": "光学成像",
+    "type": "judge",
+    "stem": "对镜片来说，无论如何精细打磨，都会存在像差。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 488,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=14",
+    "sourceLabel": "Word核对副本第 14 页 · 光学成像原第 4 题",
+    "sourcePages": [
+      14
+    ],
+    "explain": "正确。实际镜片即使打磨得再精细，也仍然会存在像差。"
   },
   {
     "id": "physics-full-104",
@@ -1888,10 +2327,77 @@
     "explain": "错误。物理光学和几何光学得到的折射定律是一致的，并不矛盾；几何光学是波动光学在波长很短时的近似。"
   },
   {
+    "id": "physics-full-105",
+    "chapter": "眼睛的功能",
+    "type": "single",
+    "stem": "远视眼需（）镜片纠正。",
+    "options": {
+      "A": "凸面反射镜",
+      "B": "凹面反射镜",
+      "C": "凹透镜",
+      "D": "凸透镜"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 493,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=14",
+    "sourceLabel": "Word核对副本第 14 页 · 眼睛的功能原第 1 题",
+    "sourcePages": [
+      14
+    ],
+    "explain": "选 D，凸透镜。远视眼成像偏后，用凸透镜会聚来矫正；凹透镜是用来矫正近视的，不要记反。"
+  },
+  {
+    "id": "physics-full-106",
+    "chapter": "眼睛的功能",
+    "type": "single",
+    "stem": "近视眼需（）镜片纠正。",
+    "options": {
+      "A": "凸面反射镜",
+      "B": "凹面反射镜",
+      "C": "凹透镜",
+      "D": "凸透镜"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 499,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=14",
+    "sourceLabel": "Word核对副本第 14 页 · 眼睛的功能原第 2 题",
+    "sourcePages": [
+      14
+    ],
+    "explain": "选 C，凹透镜。近视眼成像偏前，用凹透镜发散来矫正；凸透镜是用来矫正远视的，不要记反。"
+  },
+  {
+    "id": "physics-full-107",
+    "chapter": "眼睛的功能",
+    "type": "judge",
+    "stem": "如果将眼睛看作一个整体，那么它的折射率是不变的。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 505,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=14",
+    "sourceLabel": "Word核对副本第 14 页 · 眼睛的功能原第 3 题",
+    "sourcePages": [
+      14
+    ],
+    "explain": "错误。眼睛各部分（角膜、晶状体、玻璃体）折射率不同，晶状体还能调节，不能把眼睛看成折射率不变的整体。"
+  },
+  {
     "id": "physics-full-108",
     "chapter": "光的波动性",
     "type": "single",
-    "stem": "对于圆偏振的光，X方向和Y方向的光波分量相位差为（ ）。",
+    "stem": "对于圆偏振的光，X方向和Y方向的光波分量相位差为（）。",
     "options": {
       "A": "pi/2",
       "B": "pi",
@@ -1914,7 +2420,7 @@
     "id": "physics-full-109",
     "chapter": "光的波动性",
     "type": "single",
-    "stem": "下列哪项实验不能证明光的波动性？",
+    "stem": "下列哪项实验不能证明光的波动性？（）",
     "options": {
       "A": "干涉",
       "B": "衍射",
@@ -1938,7 +2444,7 @@
     "id": "physics-full-110",
     "chapter": "光的波动性",
     "type": "single",
-    "stem": "下列哪个频率的电磁波不属于可见光？",
+    "stem": "下列哪个频率的电磁波不属于可见光？（）",
     "options": {
       "A": "1000000赫兹",
       "B": "4000赫兹",
@@ -1979,10 +2485,31 @@
     "explain": "正确。光的双缝干涉会形成明暗相间、间距按规律变化的干涉条纹。"
   },
   {
+    "id": "physics-full-112",
+    "chapter": "光的波动性",
+    "type": "judge",
+    "stem": "自然光是白色的。通过棱镜产生色散是由于自然光中存在波长不同的各种光。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 528,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=15",
+    "sourceLabel": "Word核对副本第 15 页 · 光的波动性原第 5 题",
+    "sourcePages": [
+      15
+    ],
+    "explain": "正确。自然光呈白色，通过棱镜色散，是因为其中包含不同波长的光。"
+  },
+  {
     "id": "physics-full-113",
     "chapter": "从微观到宏观",
     "type": "single",
-    "stem": "范德瓦尔斯对理想气体的方程做的改进是（ ）。",
+    "stem": "范德瓦尔斯对理想气体的方程做的改进是（）。",
     "options": {
       "A": "A和B",
       "B": "考虑外界环境对气体的影响",
@@ -2005,7 +2532,7 @@
     "id": "physics-full-114",
     "chapter": "从微观到宏观",
     "type": "single",
-    "stem": "（ ）是微观过程所特有的。",
+    "stem": "（）是微观过程所特有的。",
     "options": {
       "A": "位移",
       "B": "自由程",
@@ -2023,6 +2550,52 @@
       15
     ],
     "explain": "选 B，自由程。平均自由程是分子两次碰撞之间飞过的路程，是微观过程特有的概念；位移、动能、动量在宏观力学里也有。"
+  },
+  {
+    "id": "physics-full-115",
+    "chapter": "从微观到宏观",
+    "type": "multiple",
+    "stem": "从微观考虑问题，哪个说法是不对的？（）",
+    "options": {
+      "A": "要做出合理的假设",
+      "B": "宏观现象不是微观过程的统计结果",
+      "C": "要合理描写微观粒子的运动",
+      "D": "要符合实验现象"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 543,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=15",
+    "sourceLabel": "Word核对副本第 15 页 · 从微观到宏观原第 3 题",
+    "sourcePages": [
+      15
+    ],
+    "explain": "选 A、C、D。按题库，从微观考虑问题时“不对”的说法记选 A、C、D；不要选 B。"
+  },
+  {
+    "id": "physics-full-116",
+    "chapter": "从微观到宏观",
+    "type": "judge",
+    "stem": "如同动量，能量等，很多物理量同时具有宏观解释与微观意义。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 549,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=15",
+    "sourceLabel": "Word核对副本第 15 页 · 从微观到宏观原第 4 题",
+    "sourcePages": [
+      15
+    ],
+    "explain": "正确。动量、能量等许多物理量既有宏观解释，也有微观意义。"
   },
   {
     "id": "physics-full-117",
@@ -2049,7 +2622,7 @@
     "id": "physics-full-118",
     "chapter": "温度是什么？",
     "type": "single",
-    "stem": "（ ）定义了温度的概念。",
+    "stem": "（）定义了温度的概念。",
     "options": {
       "A": "热力学第二定律",
       "B": "热力学第三定律",
@@ -2073,7 +2646,7 @@
     "id": "physics-full-119",
     "chapter": "温度是什么？",
     "type": "multiple",
-    "stem": "下列关于温度的微观解释正确的是（ ）",
+    "stem": "下列关于温度的微观解释正确的是（）",
     "options": {
       "A": "温度是与大量分子的平动能的统计平均值相联系",
       "B": "在相同温度下，任何气体的平均平动能相等",
@@ -2098,7 +2671,7 @@
     "id": "physics-full-120",
     "chapter": "温度是什么？",
     "type": "multiple",
-    "stem": "关于温标的说法正确的是（ ）。",
+    "stem": "关于温标的说法正确的是（）。",
     "options": {
       "A": "温标不止一个",
       "B": "最常用的为线性关系",
@@ -2141,10 +2714,31 @@
     "explain": "正确。温度的高低体现的就是物体内大量分子无规则热运动的剧烈程度。"
   },
   {
+    "id": "physics-full-122",
+    "chapter": "温度是什么？",
+    "type": "judge",
+    "stem": "因为能均分原理的关系，温度与大量分子平动能平均值是有联系的。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 574,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=16",
+    "sourceLabel": "Word核对副本第 16 页 · 温度是什么？原第 5 题",
+    "sourcePages": [
+      16
+    ],
+    "explain": "正确。由能均分原理，温度与大量分子的平均平动能相联系。"
+  },
+  {
     "id": "physics-full-123",
     "chapter": "热力学系统",
     "type": "single",
-    "stem": "最简单的卡诺循环包括的过程是（ ）",
+    "stem": "最简单的卡诺循环包括的过程是（）",
     "options": {
       "A": "两段等温过程，两段等容过程",
       "B": "两段等压过程，两段绝热过程",
@@ -2167,7 +2761,7 @@
     "id": "physics-full-124",
     "chapter": "热力学系统",
     "type": "single",
-    "stem": "在冬天，空调实际是一个（ ）。",
+    "stem": "在冬天，空调实际是一个（）。",
     "options": {
       "A": "蓄冷器",
       "B": "压出器",
@@ -2190,7 +2784,7 @@
     "id": "physics-full-125",
     "chapter": "热力学系统",
     "type": "single",
-    "stem": "在夏天，空调实际是一个（ ）。",
+    "stem": "在夏天，空调实际是一个（）。",
     "options": {
       "A": "蓄冷器",
       "B": "压出器",
@@ -2231,10 +2825,31 @@
     "explain": "正确。卡诺效率 η=1-T低/T高，低温热源温度不能为绝对零度，效率一定不可能达到100%。"
   },
   {
+    "id": "physics-full-127",
+    "chapter": "热力学系统",
+    "type": "judge",
+    "stem": "一部热机至少包括三个组成部分：1.循环工作物质；2.最少两个具有不同温度的热源；3.做功的机械装置。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 597,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=17",
+    "sourceLabel": "Word核对副本第 17 页 · 热力学系统原第 5 题",
+    "sourcePages": [
+      17
+    ],
+    "explain": "正确。一部热机至少包括：循环工作物质、至少两个不同温度的热源，以及做功的机械装置。"
+  },
+  {
     "id": "physics-full-128",
     "chapter": "理想的气体",
     "type": "single",
-    "stem": "环境为1Kpa,300K，则4mol气体的体积是（ ）立方米。",
+    "stem": "环境为1Kpa,300K，则4mol气体的体积是（）立方米。",
     "options": {
       "A": "21.65立方米",
       "B": "30.12立方米",
@@ -2252,6 +2867,29 @@
       17
     ],
     "explain": "选 D，9.97立方米。由理想气体方程 V=nRT/P，P=1kPa=1000Pa，V=4×8.314×300/1000≈9.97m³。"
+  },
+  {
+    "id": "physics-full-129",
+    "chapter": "理想的气体",
+    "type": "single",
+    "stem": "若设R为8.31J/(Mol*K)，则气体压强趋于零时，不同气体的p*V/T都趋于（）。",
+    "options": {
+      "A": "R",
+      "B": "2R",
+      "C": "3R",
+      "D": "(1/2)R"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 606,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=17",
+    "sourceLabel": "Word核对副本第 17 页 · 理想的气体原第 2 题",
+    "sourcePages": [
+      17
+    ],
+    "explain": "选 A，R。1摩尔气体在压强趋于零时趋向理想气体，pV/T→R，R=8.31 J/(mol·K)。"
   },
   {
     "id": "physics-full-130",
@@ -2278,7 +2916,7 @@
     "id": "physics-full-131",
     "chapter": "配容",
     "type": "single",
-    "stem": "假如我们有四个球，编号分别为甲乙丙丁，可以在两个区域内，有两个球在左边区域，两个在右边的配容数为（ ）。",
+    "stem": "假如我们有四个球，编号分别为甲乙丙丁，可以在两个区域内，有两个球在左边区域，两个在右边的配容数为（）。",
     "options": {
       "A": "12",
       "B": "6",
@@ -2298,10 +2936,33 @@
     "explain": "选 B，6。四个可分辨的球左右各放两个，配容数为 C(4,2)=4!/(2!2!)=6。"
   },
   {
+    "id": "physics-full-132",
+    "chapter": "配容",
+    "type": "single",
+    "stem": "假如我们有六个球，编号分别为ABCDEF,可以在两个区域内，有两个球在左边区域，四个在右边的配容数为（）。",
+    "options": {
+      "A": "20",
+      "B": "8",
+      "C": "4",
+      "D": "15"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 621,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=17",
+    "sourceLabel": "Word核对副本第 17 页 · 配容原第 2 题",
+    "sourcePages": [
+      17
+    ],
+    "explain": "选 D，15。六个可分辨的球左边放两个、右边放四个，配容数为 C(6,2)=15。"
+  },
+  {
     "id": "physics-full-133",
     "chapter": "配容",
     "type": "single",
-    "stem": "概率最大的分布是（ ）。",
+    "stem": "概率最大的分布是（）。",
     "options": {
       "A": "最概然分布",
       "B": "二项分布",
@@ -2363,10 +3024,33 @@
     "explain": "正确。我们所观测到的宏观状态，对应的就是微观配容数（热力学概率）最大的那个态。"
   },
   {
+    "id": "physics-full-136",
+    "chapter": "温度与高度",
+    "type": "single",
+    "stem": "如下满足和重力场有关的波尔兹曼分布的是（）。",
+    "options": {
+      "A": "N和(-mgz)的对数成正比",
+      "B": "N与(-mgz/kT)的指数成正比",
+      "C": "N和(-mgz/kT)成正比",
+      "D": "N和(-mgz)成正比"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 638,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=18",
+    "sourceLabel": "Word核对副本第 18 页 · 温度与高度原第 1 题",
+    "sourcePages": [
+      18
+    ],
+    "explain": "选 B，N与(-mgz/kT)的指数成正比。重力场中的玻尔兹曼分布是 N∝exp(-mgz/kT)，不是与 -mgz 或 -mgz/kT 本身成正比。"
+  },
+  {
     "id": "physics-full-137",
     "chapter": "温度与高度",
     "type": "multiple",
-    "stem": "推导重力场中微粒按高度分布的公式时，用到的选项有（ ）。",
+    "stem": "推导重力场中微粒按高度分布的公式时，用到的选项有（）。",
     "options": {
       "A": "波尔兹曼分布率",
       "B": "理想气体状态分布",
@@ -2430,10 +3114,33 @@
     "explain": "正确。在重力场中，粒子数密度随高度大致按指数下降，所以海拔越高，微粒数量越少。"
   },
   {
+    "id": "physics-full-140",
+    "chapter": "气体输运",
+    "type": "single",
+    "stem": "扩散要求两层介质满足条件是（）。",
+    "options": {
+      "A": "质量不同",
+      "B": "密度不同",
+      "C": "粘滞系数不同",
+      "D": "体积不同"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 655,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=18",
+    "sourceLabel": "Word核对副本第 18 页 · 气体输运原第 1 题",
+    "sourcePages": [
+      18
+    ],
+    "explain": "选 B，密度不同。扩散发生的条件是两层介质密度（或浓度）不同；不要记成质量、粘滞系数或体积不同。"
+  },
+  {
     "id": "physics-full-141",
     "chapter": "气体输运",
     "type": "single",
-    "stem": "布朗运动中的气体分子的分布率满足条件（ ）。",
+    "stem": "布朗运动中的气体分子的分布率满足条件（）。",
     "options": {
       "A": "高斯分布率",
       "B": "随机分布",
@@ -2451,6 +3158,31 @@
       18
     ],
     "explain": "选 A，高斯分布率。布朗运动中分子（或微粒）的位移分布满足高斯分布（正态分布）。"
+  },
+  {
+    "id": "physics-full-142",
+    "chapter": "气体输运",
+    "type": "multiple",
+    "stem": "下列哪一种不是热能传递的主要方式？（）",
+    "options": {
+      "A": "热传导",
+      "B": "对流",
+      "C": "辐射",
+      "D": "扩散"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 667,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=18",
+    "sourceLabel": "Word核对副本第 18 页 · 气体输运原第 3 题",
+    "sourcePages": [
+      18
+    ],
+    "explain": "选 A、B、C。按题库，本题记选热传导、对流、辐射，不要选 D 扩散。"
   },
   {
     "id": "physics-full-143",
@@ -2498,7 +3230,7 @@
     "id": "physics-full-145",
     "chapter": "热力学定律",
     "type": "single",
-    "stem": "根据热力学定律，如下说法错误的是（ ）。",
+    "stem": "根据热力学定律，如下说法错误的是（）。",
     "options": {
       "A": "热力学第二定律可以解释热力学过程的方向问题",
       "B": "热力学第一定律可以确定能量转化和守恒的问题",
@@ -2521,7 +3253,7 @@
     "id": "physics-full-146",
     "chapter": "热力学定律",
     "type": "single",
-    "stem": "因为（ ），所以第二类永动机不可行。",
+    "stem": "因为（），所以第二类永动机不可行。",
     "options": {
       "A": "违反热力学第一定律",
       "B": "违反热力学第二定律",
@@ -2565,7 +3297,7 @@
     "id": "physics-full-148",
     "chapter": "熵与天气预报",
     "type": "single",
-    "stem": "设熵为S，热力学概率为v,k为波尔兹曼常数，则热力学概率与熵的关系是（ ）。",
+    "stem": "设熵为S，热力学概率为v,k为波尔兹曼常数，则热力学概率与熵的关系是（）。",
     "options": {
       "A": "熵等于k平方和v的乘积",
       "B": "熵等于k和v的对数平方的乘积",
@@ -2583,6 +3315,52 @@
       19
     ],
     "explain": "选 C，熵等于k和v的对数乘积。玻尔兹曼关系为 S=k ln v（v是热力学概率），即 k 乘以 v 的对数。"
+  },
+  {
+    "id": "physics-full-149",
+    "chapter": "熵与天气预报",
+    "type": "multiple",
+    "stem": "关于熵，如下正确的说法是（）。",
+    "options": {
+      "A": "熵是微观粒子热运动所引起的无序性的定量量度",
+      "B": "绝热系统内部熵永远是增加的",
+      "C": "通过从概率角度给出信息量的定义，从而得到信息熵的概念",
+      "D": "绝热系统的熵是可以减少的"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 699,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=19",
+    "sourceLabel": "Word核对副本第 19 页 · 熵与天气预报原第 2 题",
+    "sourcePages": [
+      19
+    ],
+    "explain": "选 A、B、C。熵是微观热运动无序性的定量量度，绝热系统内部熵永远增加，信息熵由信息量的概率定义得到；按题库不要选 D（绝热系统的熵可以减少）。"
+  },
+  {
+    "id": "physics-full-150",
+    "chapter": "熵与天气预报",
+    "type": "judge",
+    "stem": "因为熵不具有可加性，所以它不是广延量。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 705,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=19",
+    "sourceLabel": "Word核对副本第 19 页 · 熵与天气预报原第 3 题",
+    "sourcePages": [
+      19
+    ],
+    "explain": "正确。按题库记：题干认为熵不具有可加性、因而不是广延量，判断为正确。"
   },
   {
     "id": "physics-full-151",
@@ -2609,7 +3387,7 @@
     "id": "physics-full-152",
     "chapter": "库仑定律",
     "type": "single",
-    "stem": "库仑和引力性质不同的是（ ）。",
+    "stem": "库仑和引力性质不同的是（）。",
     "options": {
       "A": "电荷间作用力可以是引力，也可以是斥力",
       "B": "库仑力是有心力",
@@ -2633,7 +3411,7 @@
     "id": "physics-full-153",
     "chapter": "库仑定律",
     "type": "single",
-    "stem": "在量子场论中，电荷间如何产生相互作用？。",
+    "stem": "在量子场论中，电荷间如何产生相互作用？（）。",
     "options": {
       "A": "通过电场",
       "B": "交换光子",
@@ -2656,7 +3434,7 @@
     "id": "physics-full-154",
     "chapter": "库仑定律",
     "type": "multiple",
-    "stem": "下列哪些项不要求修改简单的距离反比的库仑定律形式？",
+    "stem": "下列哪些项不要求修改简单的距离反比的库仑定律形式？（）",
     "options": {
       "A": "场源电荷运动",
       "B": "场源电荷是静止的",
@@ -2676,6 +3454,27 @@
       20
     ],
     "explain": "选 B、C、D。简单的库仑平方反比形式适用于静止点电荷，或运动速度远小于光速时的近似；场源电荷明显运动时一般需要修改，所以不选A。"
+  },
+  {
+    "id": "physics-full-155",
+    "chapter": "库仑定律",
+    "type": "judge",
+    "stem": "在真空环境中，库仑定律和在介质中的库仑定律是完全一样的。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 728,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=20",
+    "sourceLabel": "Word核对副本第 20 页 · 库仑定律原第 4 题",
+    "sourcePages": [
+      20
+    ],
+    "explain": "错误。介质中的库仑定律要计入介电常数，和真空中并不完全一样。"
   },
   {
     "id": "physics-full-156",
@@ -2702,7 +3501,7 @@
     "id": "physics-full-157",
     "chapter": "电场",
     "type": "single",
-    "stem": "两个电荷电荷量都为q，一个带正电，一个带负电，他们之间的距离为r，他们满足（ ）的关系则可以叫做电偶极子。",
+    "stem": "两个电荷电荷量都为q，一个带正电，一个带负电，他们之间的距离为r，他们满足（）的关系则可以叫做电偶极子。",
     "options": {
       "A": "p=q乘r的平方",
       "B": "p=q平方乘r",
@@ -2722,10 +3521,33 @@
     "explain": "选 D，p=qr。电偶极矩的定义是 p=qd（题中写成 p=qr），不要乘成平方或立方。"
   },
   {
+    "id": "physics-full-158",
+    "chapter": "电场",
+    "type": "single",
+    "stem": "若I是电流强度，r是到电流心的距离,u是磁常数，则无限长导线周围的磁场可以描述为（）。",
+    "options": {
+      "A": "u乘I除以周长",
+      "B": "u乘I",
+      "C": "u乘I再乘周长的一半",
+      "D": "u乘r除以I"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 739,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=20",
+    "sourceLabel": "Word核对副本第 20 页 · 电场原第 2 题",
+    "sourcePages": [
+      20
+    ],
+    "explain": "选 A，u乘I除以周长。无限长直导线的磁场 B=μI/(2πr)，而 2πr 就是以 r 为半径的周长。"
+  },
+  {
     "id": "physics-full-159",
     "chapter": "电场",
     "type": "multiple",
-    "stem": "下列哪些是磁介质中的组成部分？",
+    "stem": "下列哪些是磁介质中的组成部分？（）",
     "options": {
       "A": "顺磁材料",
       "B": "逆磁材料",
@@ -2793,7 +3615,7 @@
     "id": "physics-full-162",
     "chapter": "高斯定理",
     "type": "single",
-    "stem": "Q为带电量，R为球体半径，r为某点到球心距离,则均匀带电球体内部的场强分布为（ ）。",
+    "stem": "Q为带电量，R为球体半径，r为某点到球心距离,则均匀带电球体内部的场强分布为（）。",
     "options": {
       "A": "和Q成正比和R平方乘反比",
       "B": "与Q和r的乘积成正比",
@@ -2816,7 +3638,7 @@
     "id": "physics-full-163",
     "chapter": "高斯定理",
     "type": "multiple",
-    "stem": "下列哪些条件在用高斯定理计算场强时是必须的？",
+    "stem": "下列哪些条件在用高斯定理计算场强时是必须的？（）",
     "options": {
       "A": "带电体的场强分布具有极大的对称性",
       "B": "高斯面上场强处处相等",
@@ -2836,6 +3658,30 @@
       21
     ],
     "explain": "选 A、B、D。用高斯定理方便求场强，要求带电体有对称性、高斯面上场强处处相等，并且面元法向与场强方向一致；按题库不选C（“高斯面必须为曲面”）。"
+  },
+  {
+    "id": "physics-full-164",
+    "chapter": "高斯定理",
+    "type": "multiple",
+    "stem": "高斯定理反映了静电场的特性是（）。",
+    "options": {
+      "A": "无旋场",
+      "B": "有旋场、有源场",
+      "C": "无旋场、无源场",
+      "D": "无源场"
+    },
+    "answer": [
+      "A",
+      "B"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 768,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=21",
+    "sourceLabel": "Word核对副本第 21 页 · 高斯定理原第 3 题",
+    "sourcePages": [
+      21
+    ],
+    "explain": "选 A、B。按题库，高斯定理反映静电场的特性记选 A 无旋场和 B 有旋场、有源场，不要选 C 或 D。"
   },
   {
     "id": "physics-full-165",
@@ -2859,10 +3705,31 @@
     "explain": "错误。高斯定理是与坐标系无关的积分关系，并不依赖于坐标系如何选取。"
   },
   {
+    "id": "physics-full-166",
+    "chapter": "高斯定理",
+    "type": "judge",
+    "stem": "高斯定理可以推导出库仑定律。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 776,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=21",
+    "sourceLabel": "Word核对副本第 21 页 · 高斯定理原第 5 题",
+    "sourcePages": [
+      21
+    ],
+    "explain": "正确。由高斯定理（再加球对称等条件）可以推导出库仑定律。"
+  },
+  {
     "id": "physics-full-167",
     "chapter": "电场的一些性质",
     "type": "single",
-    "stem": "面电荷分布和该点的曲率半径的关系是（ ）。",
+    "stem": "面电荷分布和该点的曲率半径的关系是（）。",
     "options": {
       "A": "成正比",
       "B": "成二次关系",
@@ -2885,7 +3752,7 @@
     "id": "physics-full-168",
     "chapter": "电场的一些性质",
     "type": "single",
-    "stem": "带电金属的电荷分布区域是（ ）。",
+    "stem": "带电金属的电荷分布区域是（）。",
     "options": {
       "A": "表面和内部",
       "B": "表面",
@@ -2908,7 +3775,7 @@
     "id": "physics-full-169",
     "chapter": "电场的一些性质",
     "type": "multiple",
-    "stem": "麦克斯韦方程组包含以下哪些物理规律？",
+    "stem": "麦克斯韦方程组包含以下哪些物理规律？（）",
     "options": {
       "A": "安培定律",
       "B": "法拉第定律",
@@ -2930,10 +3797,54 @@
     "explain": "选 A、B、C。麦克斯韦方程组概括了安培定律（含位移电流）、法拉第定律和库仑定律（高斯定理）；牛顿定律不是电磁方程组的内容，不要选D。"
   },
   {
+    "id": "physics-full-170",
+    "chapter": "电场的一些性质",
+    "type": "judge",
+    "stem": "根据麦克斯韦方程组，可以得出结论：电磁场的传播速度为光速。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 797,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=22",
+    "sourceLabel": "Word核对副本第 22 页 · 电场的一些性质原第 4 题",
+    "sourcePages": [
+      22
+    ],
+    "explain": "正确。由麦克斯韦方程组可以得出，电磁场以光速传播。"
+  },
+  {
+    "id": "physics-full-171",
+    "chapter": "电路",
+    "type": "single",
+    "stem": "微观上，欧姆定律可以表示为（）。",
+    "options": {
+      "A": "电场强度的散度为零",
+      "B": "电流密度等于电导率与电场强度的乘积",
+      "C": "电阻等于电压乘电流",
+      "D": "电流密度的散度为零"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 800,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=22",
+    "sourceLabel": "Word核对副本第 22 页 · 电路原第 1 题",
+    "sourcePages": [
+      22
+    ],
+    "explain": "选 B，电流密度等于电导率与电场强度的乘积。微观欧姆定律就是 j=σE；C把欧姆定律写反了，A、D说的是散度关系，都不要选。"
+  },
+  {
     "id": "physics-full-172",
     "chapter": "电路",
     "type": "multiple",
-    "stem": "对于交流电路，下列说法正确的是（ ）。",
+    "stem": "对于交流电路，下列说法正确的是（）。",
     "options": {
       "A": "电阻两端的电压和流过的电流同相位",
       "B": "电感两端的电压比流过的电流超前pi/2个相位",
@@ -2958,7 +3869,7 @@
     "id": "physics-full-173",
     "chapter": "电路",
     "type": "multiple",
-    "stem": "对基尔霍夫定律的回路定律说法正确的是（ ）。",
+    "stem": "对基尔霍夫定律的回路定律说法正确的是（）。",
     "options": {
       "A": "沿回路一周电势降落的代数和为零",
       "B": "电源的方向从正极到负极为负",
@@ -3022,6 +3933,54 @@
     "explain": "正确。基尔霍夫节点定律就是：汇于同一节点的各支路电流的代数和为零。"
   },
   {
+    "id": "physics-full-176",
+    "chapter": "磁的现象",
+    "type": "single",
+    "stem": "如果一块南北极磁铁摔成了两半，那会发生的情况是（）。",
+    "options": {
+      "A": "变成一块南极磁铁和一块北极磁铁",
+      "B": "不可能再重新吸在一起",
+      "C": "变成两块拥有南北两极的新磁铁",
+      "D": "南北极断开了就会没有了磁性"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 823,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=22",
+    "sourceLabel": "Word核对副本第 22 页 · 磁的现象原第 1 题",
+    "sourcePages": [
+      22
+    ],
+    "explain": "选 C，变成两块拥有南北两极的新磁铁。磁铁摔成两半后每一块仍有南、北极，不会得到单独的磁单极，磁性也不会因此消失。"
+  },
+  {
+    "id": "physics-full-177",
+    "chapter": "磁的现象",
+    "type": "multiple",
+    "stem": "以下说法正确的是（）。",
+    "options": {
+      "A": "没有磁单极存在",
+      "B": "地球本身是一个巨大的磁铁",
+      "C": "磁力线和电力线是完全一样的",
+      "D": "指南针的原理就是磁场中永远是从北极指向南极"
+    },
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 829,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=23",
+    "sourceLabel": "Word核对副本第 23 页 · 磁的现象原第 2 题",
+    "sourcePages": [
+      23
+    ],
+    "explain": "选 A、B、D。没有磁单极存在、地球本身是一个巨大的磁铁、指南针沿磁场由北极指向南极，这三项按题库正确；磁力线和电力线并不完全一样（磁力线闭合、无磁单极），不要选C。"
+  },
+  {
     "id": "physics-full-178",
     "chapter": "磁的现象",
     "type": "judge",
@@ -3067,7 +4026,7 @@
     "id": "physics-full-180",
     "chapter": "洛伦磁力",
     "type": "single",
-    "stem": "在实验室参考系中，两个平行飞行的电子，他们之间既有电作用，又有磁作用，但把参考系选在一个电子上，它们间的相对速度为零，磁场消失，原因是（ ）。",
+    "stem": "在实验室参考系中，两个平行飞行的电子，他们之间既有电作用，又有磁作用，但把参考系选在一个电子上，它们间的相对速度为零，磁场消失，原因是（）。",
     "options": {
       "A": "电荷改变",
       "B": "相对论效应",
@@ -3111,7 +4070,7 @@
     "id": "physics-full-182",
     "chapter": "安培定律",
     "type": "single",
-    "stem": "由安培定律可知，平直通电导线周围的磁场（ ）。",
+    "stem": "由安培定律可知，平直通电导线周围的磁场（）。",
     "options": {
       "A": "随机",
       "B": "垂直于导线",
@@ -3129,6 +4088,31 @@
       23
     ],
     "explain": "选 D，以导线为圆心的同心圆。由安培定律，平直通电导线周围的磁感线是垂直于导线平面内、以导线为圆心的同心圆，方向由右手螺旋定则判定。"
+  },
+  {
+    "id": "physics-full-183",
+    "chapter": "安培定律",
+    "type": "multiple",
+    "stem": "以下说法正确的是（）。",
+    "options": {
+      "A": "一个通有电流线圈在磁场中会受到一个力矩",
+      "B": "电和磁的联系首先由安培定律给出",
+      "C": "运动的电荷产生磁场",
+      "D": "电荷只在电场中受力，在任何情况下在也不会受磁场中的力"
+    },
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 855,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=23",
+    "sourceLabel": "Word核对副本第 23 页 · 安培定律原第 2 题",
+    "sourcePages": [
+      23
+    ],
+    "explain": "选 A、B、C。通电线圈在磁场中会受到力矩，电和磁的联系首先由安培定律给出，运动的电荷产生磁场，这三项正确；运动电荷在磁场中会受洛伦兹力，D说“任何情况下都不受磁场力”是错的，不要选D。"
   },
   {
     "id": "physics-full-184",
@@ -3155,7 +4139,7 @@
     "id": "physics-full-185",
     "chapter": "法拉第的实验",
     "type": "single",
-    "stem": "在法拉第-楞次定律中，感生电动势产生的磁场阻碍了原磁场的变化，在公式中出现一个负号，它决定了（ ）。",
+    "stem": "在法拉第-楞次定律中，感生电动势产生的磁场阻碍了原磁场的变化，在公式中出现一个负号，它决定了（）。",
     "options": {
       "A": "电磁对称，应该是正号",
       "B": "公式好看些",
@@ -3179,7 +4163,7 @@
     "id": "physics-full-186",
     "chapter": "法拉第的实验",
     "type": "single",
-    "stem": "变压器中加铁芯的原因是（ ）。",
+    "stem": "变压器中加铁芯的原因是（）。",
     "options": {
       "A": "价格贵些",
       "B": "铁磁体的磁化率很高",
@@ -3265,7 +4249,7 @@
     "id": "physics-full-190",
     "chapter": "量子论的诞生",
     "type": "single",
-    "stem": "下列关于黑体辐射谱的描述，会在紫外（高频）发散的描述公式是（ ）。",
+    "stem": "下列关于黑体辐射谱的描述，会在紫外（高频）发散的描述公式是（）。",
     "options": {
       "A": "维恩公式",
       "B": "普朗克公式",
@@ -3288,7 +4272,7 @@
     "id": "physics-full-191",
     "chapter": "量子论的诞生",
     "type": "single",
-    "stem": "（）实验的事实直接导致量子论的诞生？",
+    "stem": "（）实验的事实直接导致量子论的诞生？（）",
     "options": {
       "A": "氢原子光谱",
       "B": "伽利略自由落体实验",
@@ -3306,6 +4290,50 @@
       24
     ],
     "explain": "选 C，黑体辐射光谱。普朗克为解释黑体辐射光谱引入能量子，直接导致了量子论的诞生。氢原子光谱对应玻尔模型，自由落体是经典力学，迈克尔逊实验与相对论有关。"
+  },
+  {
+    "id": "physics-full-192",
+    "chapter": "量子论的诞生",
+    "type": "single",
+    "stem": "在（）理论体系中物体在温度趋于绝对零度时物体的比热会趋于0。",
+    "options": {
+      "A": "相对论",
+      "B": "量子",
+      "C": "经典",
+      "D": "非相对论"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 901,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=24",
+    "sourceLabel": "Word核对副本第 24 页 · 量子论的诞生原第 3 题",
+    "sourcePages": [
+      24
+    ],
+    "explain": "选 B，量子。量子理论中，温度趋于绝对零度时物体比热趋于 0；经典理论做不到这一点。"
+  },
+  {
+    "id": "physics-full-193",
+    "chapter": "量子论的诞生",
+    "type": "judge",
+    "stem": "普朗克得到的可以正确描述黑体辐射谱的分布公式和经典的麦克斯韦-玻尔兹曼统计公式的不同之处在于：经典中能量交换是连续的，但量子论中能量交换是不连续的。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 907,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=25",
+    "sourceLabel": "Word核对副本第 25 页 · 量子论的诞生原第 4 题",
+    "sourcePages": [
+      25
+    ],
+    "explain": "错误。按题库，不能把普朗克公式与经典麦克斯韦-玻尔兹曼统计的差别说成“经典中能量交换连续、量子论中不连续”，本题判错。"
   },
   {
     "id": "physics-full-194",
@@ -3332,7 +4360,7 @@
     "id": "physics-full-195",
     "chapter": "波粒二象性",
     "type": "single",
-    "stem": "哥本哈根学派的量子力学统计诠释是由科学家（ ）提出的。",
+    "stem": "哥本哈根学派的量子力学统计诠释是由科学家（）提出的。",
     "options": {
       "A": "波色",
       "B": "玻尔兹曼",
@@ -3355,7 +4383,7 @@
     "id": "physics-full-196",
     "chapter": "波粒二象性",
     "type": "single",
-    "stem": "光量子也同时具有波动性和粒子性，光的波动性的典型表现是（ ）。",
+    "stem": "光量子也同时具有波动性和粒子性，光的波动性的典型表现是（）。",
     "options": {
       "A": "光速不变",
       "B": "光电效应",
@@ -3373,6 +4401,29 @@
       25
     ],
     "explain": "选 D，干涉和衍射现象。这是光波动性的典型表现；光电效应表现的是粒子性，光速不变属于相对论，费马原理属于几何光学。"
+  },
+  {
+    "id": "physics-full-197",
+    "chapter": "波粒二象性",
+    "type": "single",
+    "stem": "在经典物理中（）能分别体现物质的分离性和连续性。",
+    "options": {
+      "A": "因果性和量子性",
+      "B": "粒子性和随机性",
+      "C": "粒子性和波动性",
+      "D": "协变性和随机性"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 924,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=25",
+    "sourceLabel": "Word核对副本第 25 页 · 波粒二象性原第 3 题",
+    "sourcePages": [
+      25
+    ],
+    "explain": "选 C，粒子性和波动性。在经典物理中，粒子性体现物质的分离性，波动性体现连续性；不要选随机性、量子性等说法。"
   },
   {
     "id": "physics-full-198",
@@ -3420,7 +4471,7 @@
     "id": "physics-full-200",
     "chapter": "不确定关系",
     "type": "multiple",
-    "stem": "如果把一个微观探针尖端朝下立在一个势阱里，根据量子力学下列哪些情况不可能发生？",
+    "stem": "如果把一个微观探针尖端朝下立在一个势阱里，根据量子力学下列哪些情况不可能发生？（）",
     "options": {
       "A": "该探针会围绕平衡位置做简谐振动",
       "B": "该探针会稳定在平衡位置",
@@ -3445,7 +4496,7 @@
     "id": "physics-full-201",
     "chapter": "不确定关系",
     "type": "multiple",
-    "stem": "根据量子力学可以推出坐标和以下哪些物理量可以同时精确测量？",
+    "stem": "根据量子力学可以推出坐标和以下哪些物理量可以同时精确测量？（）",
     "options": {
       "A": "其他坐标",
       "B": "对应该测量的时间",
@@ -3488,10 +4539,31 @@
     "explain": "错误。海森堡测不准原理是量子力学的基本限制，并不是探测仪器不够精密，改良精度后也不能突破这个极限。"
   },
   {
+    "id": "physics-full-203",
+    "chapter": "不确定关系",
+    "type": "judge",
+    "stem": "在量子力学中，粒子在自由空间中能够静止于某个确定位置。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 949,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=26",
+    "sourceLabel": "Word核对副本第 26 页 · 不确定关系原第 4 题",
+    "sourcePages": [
+      26
+    ],
+    "explain": "错误。由不确定关系，自由粒子不能既静止又处在某个确定位置。"
+  },
+  {
     "id": "physics-full-204",
     "chapter": "自旋",
     "type": "multiple",
-    "stem": "根据量子力学的自旋理论，下列哪些陈述和事实相符？",
+    "stem": "根据量子力学的自旋理论，下列哪些陈述和事实相符？（）",
     "options": {
       "A": "引力子的自旋为5/3",
       "B": "电子的自旋为1/2",
@@ -3513,10 +4585,35 @@
     "explain": "选 B、C、D。电子和μ子的自旋都是1/2，光子的自旋是1；引力子的自旋应为2，不是5/3，不要选A。"
   },
   {
+    "id": "physics-full-205",
+    "chapter": "自旋",
+    "type": "multiple",
+    "stem": "电子在通过不均匀磁场时，按照量子力学下列哪些种现象不会发生？（）",
+    "options": {
+      "A": "电子束分三个方向劈裂",
+      "B": "电子束会劈裂成两条分立线",
+      "C": "电子不会通过磁场",
+      "D": "电子束不会发生劈裂"
+    },
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 958,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=26",
+    "sourceLabel": "Word核对副本第 26 页 · 自旋原第 2 题",
+    "sourcePages": [
+      26
+    ],
+    "explain": "选 A、C、D。按量子力学，电子通过不均匀磁场（斯特恩–格拉赫）会劈裂成两条分立线（B会发生）；不会分成三个方向、不会“不能通过磁场”，也不会完全不劈裂，故选 A、C、D。"
+  },
+  {
     "id": "physics-full-206",
     "chapter": "自旋",
     "type": "multiple",
-    "stem": "量子力学中引入量子自旋这个概念是为了说明（ ）。",
+    "stem": "量子力学中引入量子自旋这个概念是为了说明（）。",
     "options": {
       "A": "粒子在空间反演操作中的性质",
       "B": "粒子磁矩的分立性",
@@ -3583,7 +4680,7 @@
     "id": "physics-full-209",
     "chapter": "德布罗意常数",
     "type": "single",
-    "stem": "我们通常在量子力学中用下列哪种方式刻画力学量？",
+    "stem": "我们通常在量子力学中用下列哪种方式刻画力学量？（）",
     "options": {
       "A": "复数",
       "B": "算符",
@@ -3649,7 +4746,7 @@
     "id": "physics-full-212",
     "chapter": "隧道效应",
     "type": "single",
-    "stem": "根据量子力学，当自由运动的电子被高过其本身能量的势垒散射时，会发生如下哪种现象？",
+    "stem": "根据量子力学，当自由运动的电子被高过其本身能量的势垒散射时，会发生如下哪种现象？（）",
     "options": {
       "A": "电子一定会被势垒弹回",
       "B": "电子一定会穿过势垒",
@@ -3669,10 +4766,33 @@
     "explain": "选 D，电子有较小的概率穿过该势垒。这就是隧道效应：电子能量低于势垒时仍有一定透射概率，既不是一定被弹回，也不是一定会穿过。"
   },
   {
+    "id": "physics-full-213",
+    "chapter": "隧道效应",
+    "type": "single",
+    "stem": "根据波动理论，如果想要“看清”更小的物体结构，必须（）。",
+    "options": {
+      "A": "减小探测粒子的质量",
+      "B": "提高探测粒子的数量",
+      "C": "将探测粒子聚焦的更准",
+      "D": "提高探测粒子的动量"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 992,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=27",
+    "sourceLabel": "Word核对副本第 27 页 · 隧道效应原第 2 题",
+    "sourcePages": [
+      27
+    ],
+    "explain": "选 D，提高探测粒子的动量。要“看清”更小的结构，需要更短的德布罗意波长，而 λ=h/p，所以要提高探测粒子的动量。"
+  },
+  {
     "id": "physics-full-214",
     "chapter": "隧道效应",
     "type": "single",
-    "stem": "我们在利用STM扫描成像时，主要收集的信号是（ ）。",
+    "stem": "我们在利用STM扫描成像时，主要收集的信号是（）。",
     "options": {
       "A": "样品表面发出的力学信号",
       "B": "样品的精神信号",
@@ -3737,7 +4857,7 @@
     "id": "physics-full-217",
     "chapter": "纠缠态",
     "type": "single",
-    "stem": "根据经典统计理论，概率的出现说明了（ ）。",
+    "stem": "根据经典统计理论，概率的出现说明了（）。",
     "options": {
       "A": "因果律被违背",
       "B": "粒子的波动性",
@@ -3761,7 +4881,7 @@
     "id": "physics-full-218",
     "chapter": "纠缠态",
     "type": "single",
-    "stem": "在一个特定的量子力学表象中，如下哪种性质的态被称为纠缠态？",
+    "stem": "在一个特定的量子力学表象中，如下哪种性质的态被称为纠缠态？（）",
     "options": {
       "A": "书写态的时候比较纠结",
       "B": "子系统是特定力学量算符的独立本征态",
@@ -3779,6 +4899,27 @@
       28
     ],
     "explain": "选 D，波函数不可以分解成两个子系统波函数的直乘积。这就是纠缠态的定义；若两个子系统状态独立、波函数可写成直积，那就不是纠缠态。"
+  },
+  {
+    "id": "physics-full-219",
+    "chapter": "纠缠态",
+    "type": "judge",
+    "stem": "量子纠缠违背了狭义相对论的因果律。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 1021,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=28",
+    "sourceLabel": "Word核对副本第 28 页 · 纠缠态原第 3 题",
+    "sourcePages": [
+      28
+    ],
+    "explain": "错误。量子纠缠不能用来超光速传递信息，并不违背狭义相对论的因果律。"
   },
   {
     "id": "physics-full-220",
@@ -3805,7 +4946,7 @@
     "id": "physics-full-221",
     "chapter": "量子计算机",
     "type": "single",
-    "stem": "纠缠态的什么（ ）质使它可以被用来做量子通信。",
+    "stem": "纠缠态的什么（）质使它可以被用来做量子通信。",
     "options": {
       "A": "纠缠态是不可约表示，在数学上形式更简单",
       "B": "纠缠态比较纠结",
@@ -3828,7 +4969,7 @@
     "id": "physics-full-222",
     "chapter": "量子计算机",
     "type": "single",
-    "stem": "传输量子纠缠态信号，主要是为了保证信号的性质是（ ）。",
+    "stem": "传输量子纠缠态信号，主要是为了保证信号的性质是（）。",
     "options": {
       "A": "保真性",
       "B": "客观性",
@@ -3851,7 +4992,7 @@
     "id": "physics-full-223",
     "chapter": "量子计算机",
     "type": "single",
-    "stem": "量子比特区别于经典比特在于性质（ ）上不一。",
+    "stem": "量子比特区别于经典比特在于性质（）上不一。",
     "options": {
       "A": "量子比特传输的更快",
       "B": "量子比特包含信息更多",
@@ -3892,10 +5033,31 @@
     "explain": "正确。量子隐形传态等过程必须同时用经典信道传送测量结果，所以量子比特传输时必须有经典比特配合。"
   },
   {
+    "id": "physics-full-225",
+    "chapter": "量子计算机",
+    "type": "judge",
+    "stem": "量子比特的传输速度快于经典比特。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1046,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=28",
+    "sourceLabel": "Word核对副本第 28 页 · 量子计算机原第 5 题",
+    "sourcePages": [
+      28
+    ],
+    "explain": "错误。量子比特并不能因此比经典比特传输得更快，不存在超光速传输。"
+  },
+  {
     "id": "physics-full-226",
     "chapter": "卢瑟福的发现",
     "type": "single",
-    "stem": "科学家（ ）最先依靠实验提出了原子的有核模型。",
+    "stem": "科学家（）最先依靠实验提出了原子的有核模型。",
     "options": {
       "A": "查德威克",
       "B": "薛定谔",
@@ -3919,7 +5081,7 @@
     "id": "physics-full-227",
     "chapter": "卢瑟福的发现",
     "type": "single",
-    "stem": "在经典理论（非量子理论）里电子围绕原子核轨道运动的模型会导致的现象出现是（ ）。",
+    "stem": "在经典理论（非量子理论）里电子围绕原子核轨道运动的模型会导致的现象出现是（）。",
     "options": {
       "A": "原子结构不能稳定存在",
       "B": "电子会消失",
@@ -3942,7 +5104,7 @@
     "id": "physics-full-228",
     "chapter": "卢瑟福的发现",
     "type": "single",
-    "stem": "在卢瑟福建立原子有核模型时，他是依靠粒子（ ）轰击了金箔的实验现象。",
+    "stem": "在卢瑟福建立原子有核模型时，他是依靠粒子（）轰击了金箔的实验现象。",
     "options": {
       "A": "β粒子",
       "B": "γ射线",
@@ -3983,10 +5145,31 @@
     "explain": "错误。玻尔提出的电子轨道量子化，正是吸收了普朗克的能量子假设，二者有联系、可以相容；题干说“并无联系、无法相容”是错的。"
   },
   {
+    "id": "physics-full-230",
+    "chapter": "卢瑟福的发现",
+    "type": "judge",
+    "stem": "量子力学观点认为：电子在原子核外没有做经典的周期运动，而是一种具有确定轨道角动量的概率分布的运动。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1069,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=29",
+    "sourceLabel": "Word核对副本第 29 页 · 卢瑟福的发现原第 5 题",
+    "sourcePages": [
+      29
+    ],
+    "explain": "正确。量子力学认为，电子在原子核外不是做经典周期运动，而是具有确定轨道角动量的概率分布。"
+  },
+  {
     "id": "physics-full-231",
     "chapter": "元素周期表的由来",
     "type": "single",
-    "stem": "根据量子力学，在不考虑核与电子的自旋耦合时，一个原子核外电子的状态有由（ ）个自由度（即可由几个独立参数）所决定。",
+    "stem": "根据量子力学，在不考虑核与电子的自旋耦合时，一个原子核外电子的状态有由（）个自由度（即可由几个独立参数）所决定。",
     "options": {
       "A": "4个",
       "B": "5个",
@@ -4009,7 +5192,7 @@
     "id": "physics-full-232",
     "chapter": "元素周期表的由来",
     "type": "single",
-    "stem": "根据量子力学的解释，元素的性质呈现周期性主要由（ ）决定。",
+    "stem": "根据量子力学的解释，元素的性质呈现周期性主要由（）决定。",
     "options": {
       "A": "刘维尔原理",
       "B": "泡利不相容原理",
@@ -4032,7 +5215,7 @@
     "id": "physics-full-233",
     "chapter": "元素周期表的由来",
     "type": "single",
-    "stem": "原子在形成分子时表现出的化学性质主要由（ ）决定。",
+    "stem": "原子在形成分子时表现出的化学性质主要由（）决定。",
     "options": {
       "A": "一种神秘力场",
       "B": "原子核结构",
@@ -4074,10 +5257,31 @@
     "explain": "错误。只有某些壳层（例如第二层）最多容纳8个电子，并不是任何原子的任何能量激发态都只能容纳8个电子。"
   },
   {
+    "id": "physics-full-235",
+    "chapter": "元素周期表的由来",
+    "type": "judge",
+    "stem": "原子的化学性质完全与核外电子结构决定，同位素之间的化学性质（构成分子时的性质）完全相同。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1092,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=30",
+    "sourceLabel": "Word核对副本第 30 页 · 元素周期表的由来原第 5 题",
+    "sourcePages": [
+      30
+    ],
+    "explain": "错误。按题库，不能把“化学性质完全与核外电子结构决定、同位素化学性质完全相同”这句判断为正确。"
+  },
+  {
     "id": "physics-full-236",
     "chapter": "构成万物的分子",
     "type": "multiple",
-    "stem": "对于NaCl与分子，如下说法错误的是（ ）。",
+    "stem": "对于NaCl与分子，如下说法错误的是（）。",
     "options": {
       "A": "他们的成键动力学不可理解",
       "B": "他们的成键机制都可以用量子力学解释",
@@ -4144,7 +5348,7 @@
     "id": "physics-full-239",
     "chapter": "分子间的作用力",
     "type": "single",
-    "stem": "在经典力学中，两个电偶极子之间的相互作用是互相吸引的，那么分子间相互作用中靠近排斥项的来源是如下原则（ ）。",
+    "stem": "在经典力学中，两个电偶极子之间的相互作用是互相吸引的，那么分子间相互作用中靠近排斥项的来源是如下原则（）。",
     "options": {
       "A": "万有斥力~",
       "B": "核子间的相互排斥",
@@ -4167,7 +5371,7 @@
     "id": "physics-full-240",
     "chapter": "分子间的作用力",
     "type": "single",
-    "stem": "摩擦力粘滞阻力等宏观力的本质是（ ）。",
+    "stem": "摩擦力粘滞阻力等宏观力的本质是（）。",
     "options": {
       "A": "引力相互作用",
       "B": "强相互作用",
@@ -4208,10 +5412,31 @@
     "explain": "正确。分子间相互作用势存在极小值点（对应平衡距离），所以分子可以排列起来构成宏观的晶体结构。"
   },
   {
+    "id": "physics-full-242",
+    "chapter": "分子间的作用力",
+    "type": "judge",
+    "stem": "分子间的唯象作用势的应用可以延伸到原子甚至夸克层次。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 1120,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=30",
+    "sourceLabel": "Word核对副本第 30 页 · 分子间的作用力原第 4 题",
+    "sourcePages": [
+      30
+    ],
+    "explain": "错误。分子间的唯象作用势只适用于分子层次，不能简单延伸到原子甚至夸克层次。"
+  },
+  {
     "id": "physics-full-243",
     "chapter": "神秘的原子核",
     "type": "single",
-    "stem": "现代物理认为光速是一个宇宙中通用的常数，它等于（ ）。",
+    "stem": "现代物理认为光速是一个宇宙中通用的常数，它等于（）。",
     "options": {
       "A": "299792457m/s",
       "B": "不知道",
@@ -4234,7 +5459,7 @@
     "id": "physics-full-244",
     "chapter": "神秘的原子核",
     "type": "single",
-    "stem": "现代物理认为，原子核由带正电的质子和电中性的中子组成，那么让同带正电或带中性的核子组合成稳定的核结构的是（ ）。",
+    "stem": "现代物理认为，原子核由带正电的质子和电中性的中子组成，那么让同带正电或带中性的核子组合成稳定的核结构的是（）。",
     "options": {
       "A": "引力相互作用",
       "B": "强相互作用",
@@ -4257,7 +5482,7 @@
     "id": "physics-full-245",
     "chapter": "神秘的原子核",
     "type": "multiple",
-    "stem": "下列哪种过程是典型的原子核衰变过程？",
+    "stem": "下列哪种过程是典型的原子核衰变过程？（）",
     "options": {
       "A": "α衰变",
       "B": "β衰变",
@@ -4300,10 +5525,31 @@
     "explain": "错误。原子核衰变说明的是某些原子核不稳定，并不说明作为核子的质子本身不稳定。"
   },
   {
+    "id": "physics-full-247",
+    "chapter": "神秘的原子核",
+    "type": "judge",
+    "stem": "Yukawa的有效理论说明核子间的强力是短程作用力。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1143,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=31",
+    "sourceLabel": "Word核对副本第 31 页 · 神秘的原子核原第 5 题",
+    "sourcePages": [
+      31
+    ],
+    "explain": "正确。汤川（Yukawa）有效理论表明，核子之间的强作用是短程力。"
+  },
+  {
     "id": "physics-full-248",
     "chapter": "原子能的利用",
     "type": "single",
-    "stem": "若正反物质质量相同，电量相反，在碰撞时会完全湮灭为能量。则电子质量为9E-31kg则正反电子湮灭过程中释放的能量约为（ ）焦耳。（这儿E-31表示e的-31次方）",
+    "stem": "若正反物质质量相同，电量相反，在碰撞时会完全湮灭为能量。则电子质量为9E-31kg则正反电子湮灭过程中释放的能量约为（）焦耳。（这儿E-31表示e的-31次方）",
     "options": {
       "A": "8.00E-12",
       "B": "8.00E-11",
@@ -4326,7 +5572,7 @@
     "id": "physics-full-249",
     "chapter": "原子能的利用",
     "type": "single",
-    "stem": "恒星中的核反应燃烧到元素（ ）就不能再继续了。",
+    "stem": "恒星中的核反应燃烧到元素（）就不能再继续了。",
     "options": {
       "A": "铁",
       "B": "硅",
@@ -4349,7 +5595,7 @@
     "id": "physics-full-250",
     "chapter": "原子能的利用",
     "type": "single",
-    "stem": "爱因斯坦提出的质能关系可以推断出结论（ ）。",
+    "stem": "爱因斯坦提出的质能关系可以推断出结论（）。",
     "options": {
       "A": "质量可以转化为能量",
       "B": "能量可以转化为质量",
@@ -4415,7 +5661,7 @@
     "id": "physics-full-253",
     "chapter": "物质的基本构成",
     "type": "single",
-    "stem": "在自然界一定守恒的量是（ ）。",
+    "stem": "在自然界一定守恒的量是（）。",
     "options": {
       "A": "动量",
       "B": "能量",
@@ -4438,7 +5684,7 @@
     "id": "physics-full-254",
     "chapter": "物质的基本构成",
     "type": "multiple",
-    "stem": "以下关于分子、原子说法正确的是（ ）。",
+    "stem": "以下关于分子、原子说法正确的是（）。",
     "options": {
       "A": "质子带正电",
       "B": "中子不带电",
@@ -4505,7 +5751,7 @@
     "id": "physics-full-257",
     "chapter": "更多更小的粒子",
     "type": "single",
-    "stem": "（ ）实验曾被认为违反了能量守恒。",
+    "stem": "（）实验曾被认为违反了能量守恒。",
     "options": {
       "A": "宇宙的加速膨胀",
       "B": "Casmir效应",
@@ -4525,10 +5771,33 @@
     "explain": "选 C，中子β衰变。β衰变电子能谱连续，一度被认为违反了能量守恒，泡利因此预言了中微子；其他选项不是这一历史问题。"
   },
   {
+    "id": "physics-full-258",
+    "chapter": "更多更小的粒子",
+    "type": "single",
+    "stem": "（）目前认为不是基本粒子。",
+    "options": {
+      "A": "电子",
+      "B": "正电子",
+      "C": "反中子",
+      "D": "Higgs玻色子"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 1192,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=32",
+    "sourceLabel": "Word核对副本第 32 页 · 更多更小的粒子原第 2 题",
+    "sourcePages": [
+      32
+    ],
+    "explain": "选 C，反中子。电子、正电子和希格斯玻色子在标准模型中是基本粒子；中子、反中子由夸克组成，目前不看作基本粒子。"
+  },
+  {
     "id": "physics-full-259",
     "chapter": "更多更小的粒子",
     "type": "single",
-    "stem": "发现中子的科学家是（ ）。",
+    "stem": "发现中子的科学家是（）。",
     "options": {
       "A": "泡利",
       "B": "杨振宁",
@@ -4594,7 +5863,7 @@
     "id": "physics-full-262",
     "chapter": "夸克",
     "type": "single",
-    "stem": "夸克模型的构成是（ ）。",
+    "stem": "夸克模型的构成是（）。",
     "options": {
       "A": "d、k、s",
       "B": "k、s、u",
@@ -4617,7 +5886,7 @@
     "id": "physics-full-263",
     "chapter": "夸克",
     "type": "single",
-    "stem": "夸克模型是由科学家（ ）提出的。",
+    "stem": "夸克模型是由科学家（）提出的。",
     "options": {
       "A": "盖茨比",
       "B": "盖乌斯茱莉亚丝凯撒",
@@ -4658,10 +5927,31 @@
     "explain": "正确。夸克和反夸克构成介子，自旋为0、1、2等整数，所以介子是玻色子。"
   },
   {
+    "id": "physics-full-265",
+    "chapter": "夸克",
+    "type": "judge",
+    "stem": "π+、π0和π-都是π介子，所以它们都具有相同的性质。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 1223,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=33",
+    "sourceLabel": "Word核对副本第 33 页 · 夸克原第 4 题",
+    "sourcePages": [
+      33
+    ],
+    "explain": "正确。按题库，π+、π0和π-都是π介子，记为具有相同的性质。"
+  },
+  {
     "id": "physics-full-266",
     "chapter": "超弦理论",
     "type": "multiple",
-    "stem": "下列物理基本假设属于超弦的理论体系的是（ ）。",
+    "stem": "下列物理基本假设属于超弦的理论体系的是（）。",
     "options": {
       "A": "时间和空间的洛伦兹结构",
       "B": "点粒子相互作用",
@@ -4686,7 +5976,7 @@
     "id": "physics-full-267",
     "chapter": "超弦理论",
     "type": "multiple",
-    "stem": "超弦理论的提出是为了解决下列哪些基本物理问题？",
+    "stem": "超弦理论的提出是为了解决下列哪些基本物理问题？（）",
     "options": {
       "A": "引力场量子化中的不可重整化",
       "B": "“基本”粒子的多代对称性",
@@ -4711,7 +6001,7 @@
     "id": "physics-full-268",
     "chapter": "超高能量",
     "type": "multiple",
-    "stem": "守恒定律在标准模型中成立的是（ ）",
+    "stem": "守恒定律在标准模型中成立的是（）",
     "options": {
       "A": "能量守恒",
       "B": "动量守恒",
@@ -4736,7 +6026,7 @@
     "id": "physics-full-269",
     "chapter": "超高能量",
     "type": "multiple",
-    "stem": "在不是很高能量的情况下，（ ）可以用微扰展开计算。",
+    "stem": "在不是很高能量的情况下，（）可以用微扰展开计算。",
     "options": {
       "A": "弱相互作用",
       "B": "电磁相互作用",
@@ -4761,7 +6051,7 @@
     "id": "physics-full-270",
     "chapter": "超高能量",
     "type": "multiple",
-    "stem": "下列哪些项是人类不断提高加速器能标的目的？",
+    "stem": "下列哪些项是人类不断提高加速器能标的目的？（）",
     "options": {
       "A": "探索宏观时间箭头的起源",
       "B": "探索暗物质是什么",
@@ -4804,10 +6094,31 @@
     "explain": "错误。一个超高能光子并不能在真空中单独转换成正负电子对，还要满足动量守恒（通常需要原子核等参与），不是“一定可以转换”。"
   },
   {
+    "id": "physics-full-272",
+    "chapter": "超高能量",
+    "type": "judge",
+    "stem": "β衰变的发生证明了中子是由质子，电子和电子型中微子组成。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1259,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=34",
+    "sourceLabel": "Word核对副本第 34 页 · 超高能量原第 5 题",
+    "sourcePages": [
+      34
+    ],
+    "explain": "错误。β衰变不能证明中子是由质子、电子和电子型中微子组成的；中子是由夸克组成的。"
+  },
+  {
     "id": "physics-full-273",
     "chapter": "希格斯粒子",
     "type": "single",
-    "stem": "2013年，在LHC的两个实验组分别宣布发现了一种重要的粒子，这也是被标准模型预言的最后一种粒子，它就是（ ）。",
+    "stem": "2013年，在LHC的两个实验组分别宣布发现了一种重要的粒子，这也是被标准模型预言的最后一种粒子，它就是（）。",
     "options": {
       "A": "Kion粒子",
       "B": "Piggs粒子",
@@ -4827,10 +6138,33 @@
     "explain": "选 C，Higgs粒子。2013年LHC的两个实验组宣布发现的，就是标准模型预言的最后一种粒子——希格斯粒子；不要被Piggs、Kion、Pion等相近写法迷惑。"
   },
   {
+    "id": "physics-full-274",
+    "chapter": "希格斯粒子",
+    "type": "single",
+    "stem": "在标准模型的框架下，Higgs机制的作用是（）。",
+    "options": {
+      "A": "传递弱相互作用",
+      "B": "传递核子间相互作用",
+      "C": "赋予“基本粒子”质量",
+      "D": "传递强相互作用"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 1268,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=34",
+    "sourceLabel": "Word核对副本第 34 页 · 希格斯粒子原第 2 题",
+    "sourcePages": [
+      34
+    ],
+    "explain": "选 C，赋予“基本粒子”质量。标准模型中 Higgs 机制的作用是赋予基本粒子质量；传递弱、强或核子间相互作用的不是希格斯机制。"
+  },
+  {
     "id": "physics-full-275",
     "chapter": "希格斯粒子",
     "type": "single",
-    "stem": "在标准模型下，（ ）的（静）质量可以用Higgs机制解释。",
+    "stem": "在标准模型下，（）的（静）质量可以用Higgs机制解释。",
     "options": {
       "A": "介子",
       "B": "中子",
@@ -4896,7 +6230,7 @@
     "id": "physics-full-278",
     "chapter": "丁肇中的故事",
     "type": "single",
-    "stem": "丁肇中首先发现的粒子是（ ）。",
+    "stem": "丁肇中首先发现的粒子是（）。",
     "options": {
       "A": "e+",
       "B": "J/ψ粒子",
@@ -4919,7 +6253,7 @@
     "id": "physics-full-279",
     "chapter": "丁肇中的故事",
     "type": "single",
-    "stem": "从丁肇中现今主要贡献中可以看出，丁肇中先生是科学家中的（ ）。",
+    "stem": "从丁肇中现今主要贡献中可以看出，丁肇中先生是科学家中的（）。",
     "options": {
       "A": "计算物理学家",
       "B": "理论物理学家",
@@ -4963,7 +6297,7 @@
     "id": "physics-full-281",
     "chapter": "中微子的发现",
     "type": "single",
-    "stem": "几十年前，有一次银河系内超新星爆发，使我们能收到中微子。因此这颗超新星被命名为（ ）。",
+    "stem": "几十年前，有一次银河系内超新星爆发，使我们能收到中微子。因此这颗超新星被命名为（）。",
     "options": {
       "A": "2009dc",
       "B": "2007gz",
@@ -4983,10 +6317,33 @@
     "explain": "选 D，1987A。几十年前那次使我们接收到中微子的超新星爆发，被命名为SN 1987A。"
   },
   {
+    "id": "physics-full-282",
+    "chapter": "中微子的发现",
+    "type": "single",
+    "stem": "中微子振荡实验证明了（）。",
+    "options": {
+      "A": "中微子存在质量",
+      "B": "中微子可以超光速",
+      "C": "标准模型的完美",
+      "D": "希格斯机制"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 1306,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=35",
+    "sourceLabel": "Word核对副本第 35 页 · 中微子的发现原第 2 题",
+    "sourcePages": [
+      35
+    ],
+    "explain": "选 A，中微子存在质量。中微子振荡实验证明中微子具有质量；并不能证明超光速，也不等于证明标准模型完美或希格斯机制。"
+  },
+  {
     "id": "physics-full-283",
     "chapter": "中微子的发现",
     "type": "single",
-    "stem": "中微子会参与的相互作用过程是（ ）。",
+    "stem": "中微子会参与的相互作用过程是（）。",
     "options": {
       "A": "外有斥力相互作用",
       "B": "弱相互作用",
@@ -5052,7 +6409,7 @@
     "id": "physics-full-286",
     "chapter": "人类的脚步",
     "type": "single",
-    "stem": "锦屏山地下实验是为了寻找（ ）。",
+    "stem": "锦屏山地下实验是为了寻找（）。",
     "options": {
       "A": "Higgs粒子",
       "B": "暗物质流",
@@ -5075,7 +6432,7 @@
     "id": "physics-full-287",
     "chapter": "人类的脚步",
     "type": "single",
-    "stem": "锦屏山地下实验位于中国（ ）省内。",
+    "stem": "锦屏山地下实验位于中国（）省内。",
     "options": {
       "A": "天津",
       "B": "海南",
@@ -5095,10 +6452,33 @@
     "explain": "选 D，四川。中国锦屏地下实验室位于四川省（凉山彝族自治州的锦屏山）。"
   },
   {
+    "id": "physics-full-288",
+    "chapter": "人类的脚步",
+    "type": "single",
+    "stem": "大型强子对撞机LHC位于国家（）。",
+    "options": {
+      "A": "美国",
+      "B": "日本",
+      "C": "中国四川",
+      "D": "瑞士和法国的交界"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 1335,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=36",
+    "sourceLabel": "Word核对副本第 36 页 · 人类的脚步原第 3 题",
+    "sourcePages": [
+      36
+    ],
+    "explain": "选 D，瑞士和法国的交界。大型强子对撞机 LHC 位于瑞士和法国交界处的欧洲核子中心（CERN），不在美国、日本或中国四川。"
+  },
+  {
     "id": "physics-full-289",
     "chapter": "人类的脚步",
     "type": "multiple",
-    "stem": "以下哪些是人类现在主要研究高能物理的实验？",
+    "stem": "以下哪些是人类现在主要研究高能物理的实验？（）",
     "options": {
       "A": "中国江门中微子实验",
       "B": "LHC实验",
@@ -5144,7 +6524,7 @@
     "id": "physics-full-291",
     "chapter": "爱因斯坦火车",
     "type": "single",
-    "stem": "真空中，光的速度为（ ）m/s。",
+    "stem": "真空中，光的速度为（）m/s。",
     "options": {
       "A": "3.0x10^7",
       "B": "5.0x10^7",
@@ -5167,7 +6547,7 @@
     "id": "physics-full-292",
     "chapter": "爱因斯坦火车",
     "type": "single",
-    "stem": "在（ ）变换中，等式t=t'成立。",
+    "stem": "在（）变换中，等式t=t'成立。",
     "options": {
       "A": "麦克斯韦",
       "B": "爱因斯坦",
@@ -5190,7 +6570,7 @@
     "id": "physics-full-293",
     "chapter": "爱因斯坦火车",
     "type": "single",
-    "stem": "爱因斯坦火车说明了（ ）。",
+    "stem": "爱因斯坦火车说明了（）。",
     "options": {
       "A": "引力是一种几何效应",
       "B": "光沿直线传播",
@@ -5231,10 +6611,31 @@
     "explain": "错误。真空中的光速与光源的运动速度无关，这是狭义相对论的基本假定，也是实验事实。"
   },
   {
+    "id": "physics-full-295",
+    "chapter": "爱因斯坦火车",
+    "type": "judge",
+    "stem": "同时的概念和当时的参考系有关",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1370,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=37",
+    "sourceLabel": "Word核对副本第 37 页 · 爱因斯坦火车原第 5 题",
+    "sourcePages": [
+      37
+    ],
+    "explain": "正确。同时性与所在参考系有关，这是狭义相对论的基本结论。"
+  },
+  {
     "id": "physics-full-296",
     "chapter": "相对论变换",
     "type": "single",
-    "stem": "假定一个参考系R'以速度v沿x方向相对于参考系R运动，下列等式（ ）符合伽利略变换。",
+    "stem": "假定一个参考系R'以速度v沿x方向相对于参考系R运动，下列等式（）符合伽利略变换。",
     "options": {
       "A": "x'=x",
       "B": "x'=x+vt",
@@ -5257,7 +6658,7 @@
     "id": "physics-full-297",
     "chapter": "相对论变换",
     "type": "single",
-    "stem": "根据量纲分析，相对论变换中的因子γ在粒子运动速度接近真空中光速时，会变得（ ）。",
+    "stem": "根据量纲分析，相对论变换中的因子γ在粒子运动速度接近真空中光速时，会变得（）。",
     "options": {
       "A": "不变",
       "B": "不确定",
@@ -5280,7 +6681,7 @@
     "id": "physics-full-298",
     "chapter": "相对论变换",
     "type": "single",
-    "stem": "上世纪初的时候，人们普遍认为：光在（ ）中传播。",
+    "stem": "上世纪初的时候，人们普遍认为：光在（）中传播。",
     "options": {
       "A": "大气",
       "B": "真空",
@@ -5321,10 +6722,31 @@
     "explain": "正确。麦克斯韦电磁理论给出的光速是一个常数，与伽利略速度叠加法则相矛盾，这一矛盾促成了狭义相对论。"
   },
   {
+    "id": "physics-full-300",
+    "chapter": "相对论变换",
+    "type": "judge",
+    "stem": "若两个参考系沿x方向有相对运动，则一个运动质点在两参考系中的y方向动量相同。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1393,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=37",
+    "sourceLabel": "Word核对副本第 37 页 · 相对论变换原第 5 题",
+    "sourcePages": [
+      37
+    ],
+    "explain": "正确。两参考系沿 x 方向相对运动时，运动质点的 y 方向动量在两个参考系中相同。"
+  },
+  {
     "id": "physics-full-301",
     "chapter": "尺度变短时钟变慢",
     "type": "single",
-    "stem": "运动的直尺长度相对静止的直尺会（ ）。",
+    "stem": "运动的直尺长度相对静止的直尺会（）。",
     "options": {
       "A": "变短",
       "B": "不变",
@@ -5347,7 +6769,7 @@
     "id": "physics-full-302",
     "chapter": "尺度变短时钟变慢",
     "type": "single",
-    "stem": "在垂直于运动方向测量直尺，线度会（ ）。",
+    "stem": "在垂直于运动方向测量直尺，线度会（）。",
     "options": {
       "A": "变短",
       "B": "不变",
@@ -5365,6 +6787,29 @@
       38
     ],
     "explain": "选 B，不变。长度收缩只发生在运动方向上，在垂直于运动方向测量直尺，线度不变。"
+  },
+  {
+    "id": "physics-full-303",
+    "chapter": "尺度变短时钟变慢",
+    "type": "single",
+    "stem": "运动的时钟相对静止的时钟会（）。",
+    "options": {
+      "A": "变慢",
+      "B": "不变",
+      "C": "都有可能",
+      "D": "变快"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 1408,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=38",
+    "sourceLabel": "Word核对副本第 38 页 · 尺度变短时钟变慢原第 3 题",
+    "sourcePages": [
+      38
+    ],
+    "explain": "选 A，变慢。这就是钟慢效应：运动的时钟相对静止的时钟会变慢，不会变快或不变。"
   },
   {
     "id": "physics-full-304",
@@ -5412,7 +6857,7 @@
     "id": "physics-full-306",
     "chapter": "能量的来源",
     "type": "single",
-    "stem": "质能公式是如下（ ）。",
+    "stem": "质能公式是如下（）。",
     "options": {
       "A": "等于前者的3倍",
       "B": "能量等于质量乘真空光速的平方",
@@ -5435,7 +6880,7 @@
     "id": "physics-full-307",
     "chapter": "能量的来源",
     "type": "single",
-    "stem": "原子弹和氢弹运用了（ ）原理。",
+    "stem": "原子弹和氢弹运用了（）原理。",
     "options": {
       "A": "能均分定理",
       "B": "质能关系",
@@ -5453,6 +6898,29 @@
       38
     ],
     "explain": "选 B，质能关系。原子弹（裂变）和氢弹（聚变）释放的是质量亏损所对应的能量，依据的就是质能关系。"
+  },
+  {
+    "id": "physics-full-308",
+    "chapter": "能量的来源",
+    "type": "single",
+    "stem": "狭义相对论是由（）提出来的。",
+    "options": {
+      "A": "麦克斯韦",
+      "B": "玻尔兹曼",
+      "C": "基尔霍夫",
+      "D": "爱因斯坦"
+    },
+    "answer": [
+      "D"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 1431,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=38",
+    "sourceLabel": "Word核对副本第 38 页 · 能量的来源原第 3 题",
+    "sourcePages": [
+      38
+    ],
+    "explain": "选 D，爱因斯坦。狭义相对论是爱因斯坦提出的；麦克斯韦、玻尔兹曼、基尔霍夫都不是提出者。"
   },
   {
     "id": "physics-full-309",
@@ -5500,7 +6968,7 @@
     "id": "physics-full-311",
     "chapter": "广义相对论",
     "type": "single",
-    "stem": "在牛顿第二定律中，F=ma中m是（ ）。",
+    "stem": "在牛顿第二定律中，F=ma中m是（）。",
     "options": {
       "A": "惯性质量",
       "B": "AB一样",
@@ -5523,7 +6991,7 @@
     "id": "physics-full-312",
     "chapter": "广义相对论",
     "type": "single",
-    "stem": "在牛顿万有引力定律中，m是代表（ ）。",
+    "stem": "在牛顿万有引力定律中，m是代表（）。",
     "options": {
       "A": "惯性质量",
       "B": "AB一样",
@@ -5546,7 +7014,7 @@
     "id": "physics-full-313",
     "chapter": "广义相对论",
     "type": "single",
-    "stem": "广义相对论是由（ ）提出的。",
+    "stem": "广义相对论是由（）提出的。",
     "options": {
       "A": "麦克斯韦",
       "B": "玻尔兹曼",
@@ -5564,6 +7032,27 @@
       39
     ],
     "explain": "选 D，爱因斯坦。广义相对论是由爱因斯坦提出的，不是麦克斯韦、玻尔兹曼或基尔霍夫。"
+  },
+  {
+    "id": "physics-full-314",
+    "chapter": "广义相对论",
+    "type": "judge",
+    "stem": "时空决定了所有物质的分布和运动，物质决定了时空的性质。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 1460,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=39",
+    "sourceLabel": "Word核对副本第 39 页 · 广义相对论原第 4 题",
+    "sourcePages": [
+      39
+    ],
+    "explain": "正确。广义相对论的图景是：时空决定物质的分布和运动，物质也决定时空的性质。"
   },
   {
     "id": "physics-full-315",
@@ -5590,7 +7079,7 @@
     "id": "physics-full-316",
     "chapter": "我们的宇宙",
     "type": "single",
-    "stem": "（ ）发现了宇宙在膨胀。",
+    "stem": "（）发现了宇宙在膨胀。",
     "options": {
       "A": "第谷",
       "B": "牛顿",
@@ -5613,7 +7102,7 @@
     "id": "physics-full-317",
     "chapter": "我们的宇宙",
     "type": "single",
-    "stem": "（ ）是恒星的能量辐射来源。",
+    "stem": "（）是恒星的能量辐射来源。",
     "options": {
       "A": "核裂变",
       "B": "核聚变",
@@ -5636,7 +7125,7 @@
     "id": "physics-full-318",
     "chapter": "我们的宇宙",
     "type": "multiple",
-    "stem": "上世纪天文学四大发现包括（ ）。",
+    "stem": "上世纪天文学四大发现包括（）。",
     "options": {
       "A": "脉冲星",
       "B": "类星体",
@@ -5679,10 +7168,31 @@
     "explain": "正确。测定很远恒星的距离，需要把它们的光度与标准烛光相比较，再由视亮度推算距离。"
   },
   {
+    "id": "physics-full-320",
+    "chapter": "我们的宇宙",
+    "type": "judge",
+    "stem": "核反应产生光子，是辐射出来的能量，同时产生对抗引力,使恒星塌缩的压强。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1485,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=40",
+    "sourceLabel": "Word核对副本第 40 页 · 我们的宇宙原第 5 题",
+    "sourcePages": [
+      40
+    ],
+    "explain": "正确。恒星中的核反应辐射出光子，同时产生对抗引力、阻止恒星塌缩的压强。"
+  },
+  {
     "id": "physics-full-321",
     "chapter": "恒星的死亡",
     "type": "single",
-    "stem": "大质量恒星是指的质量大于太阳质量（ ）倍的恒星。",
+    "stem": "大质量恒星是指的质量大于太阳质量（）倍的恒星。",
     "options": {
       "A": "3.7",
       "B": "9.3",
@@ -5705,7 +7215,7 @@
     "id": "physics-full-322",
     "chapter": "恒星的死亡",
     "type": "single",
-    "stem": "在中子星内部有着大量（ ）聚集。",
+    "stem": "在中子星内部有着大量（）聚集。",
     "options": {
       "A": "中微子",
       "B": "光子",
@@ -5728,7 +7238,7 @@
     "id": "physics-full-323",
     "chapter": "恒星的死亡",
     "type": "single",
-    "stem": "太阳的氢完全烧完后变成了（ ）。",
+    "stem": "太阳的氢完全烧完后变成了（）。",
     "options": {
       "A": "黑洞",
       "B": "白矮星",
@@ -5769,10 +7279,31 @@
     "explain": "正确。恒星演化的最终结果（红巨星、白矮星、中子星或黑洞等）取决于恒星的初始质量。"
   },
   {
+    "id": "physics-full-325",
+    "chapter": "恒星的死亡",
+    "type": "judge",
+    "stem": "硅和镁是恒星最后的残渣，标志着恒星的死亡。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1508,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=40",
+    "sourceLabel": "Word核对副本第 40 页 · 恒星的死亡原第 5 题",
+    "sourcePages": [
+      40
+    ],
+    "explain": "错误。标志大质量恒星死亡的“最后残渣”是铁，不是硅和镁。"
+  },
+  {
     "id": "physics-full-326",
     "chapter": "黑洞",
     "type": "single",
-    "stem": "爱因斯坦场方程给出了时空几何和（ ）的关系。",
+    "stem": "爱因斯坦场方程给出了时空几何和（）的关系。",
     "options": {
       "A": "光速",
       "B": "空间",
@@ -5796,7 +7327,7 @@
     "id": "physics-full-327",
     "chapter": "黑洞",
     "type": "single",
-    "stem": "爱因斯坦冠以相对论场方程是哪一年写的？",
+    "stem": "爱因斯坦冠以相对论场方程是哪一年写的？（）",
     "options": {
       "A": "1914年",
       "B": "1915年",
@@ -5819,7 +7350,7 @@
     "id": "physics-full-328",
     "chapter": "黑洞",
     "type": "single",
-    "stem": "黑洞是哪个理论预言的？",
+    "stem": "黑洞是哪个理论预言的？（）",
     "options": {
       "A": "马赫原理",
       "B": "大爆炸理论",
@@ -5837,6 +7368,27 @@
       41
     ],
     "explain": "选 C，广义相对论。黑洞是广义相对论场方程的预言（如史瓦西解），不是狭义相对论、大爆炸理论或马赫原理本身预言的。"
+  },
+  {
+    "id": "physics-full-329",
+    "chapter": "黑洞",
+    "type": "judge",
+    "stem": "黑洞的无毛定理指的是在塌陷成黑洞后只有三个特性保持：总质量，总角动量和总电荷。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 1529,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=41",
+    "sourceLabel": "Word核对副本第 41 页 · 黑洞原第 4 题",
+    "sourcePages": [
+      41
+    ],
+    "explain": "正确。黑洞无毛定理指的是：塌缩成黑洞后只剩下总质量、总角动量和总电荷这三个特性。"
   },
   {
     "id": "physics-full-330",
@@ -5863,7 +7415,7 @@
     "id": "physics-full-331",
     "chapter": "引力波的存在",
     "type": "single",
-    "stem": "引力与距离的（ ）次方成反比。",
+    "stem": "引力与距离的（）次方成反比。",
     "options": {
       "A": "3次方",
       "B": "1次方",
@@ -5886,7 +7438,7 @@
     "id": "physics-full-332",
     "chapter": "引力波的存在",
     "type": "single",
-    "stem": "原初引力波是在（ ）时期产生的。",
+    "stem": "原初引力波是在（）时期产生的。",
     "options": {
       "A": "超新星爆炸时",
       "B": "产生黑洞时",
@@ -5909,7 +7461,7 @@
     "id": "physics-full-333",
     "chapter": "引力波的存在",
     "type": "single",
-    "stem": "引力波是根据（ ）理论给出的预言。",
+    "stem": "引力波是根据（）理论给出的预言。",
     "options": {
       "A": "大爆炸理论",
       "B": "广义相对论",
@@ -5927,6 +7479,27 @@
       41
     ],
     "explain": "选 B，广义相对论。引力波是根据广义相对论给出的预言；狭义相对论没有这项内容。"
+  },
+  {
+    "id": "physics-full-334",
+    "chapter": "引力波的存在",
+    "type": "judge",
+    "stem": "引力波是需要宇宙中一个质量-能量的大变动作为源才能产生。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 1552,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=41",
+    "sourceLabel": "Word核对副本第 41 页 · 引力波的存在原第 4 题",
+    "sourcePages": [
+      41
+    ],
+    "explain": "正确。引力波需要宇宙中质量–能量的大变动作为源才能产生。"
   },
   {
     "id": "physics-full-335",
@@ -5951,10 +7524,33 @@
     "explain": "错误。按题库：美国使用真空管和激光证明引力波的实验，并不被记为已经确认了引力波的存在，本题判错。"
   },
   {
+    "id": "physics-full-336",
+    "chapter": "多普勒效应",
+    "type": "single",
+    "stem": "宇宙学的最基本的理论依据是（）。",
+    "options": {
+      "A": "量子力学",
+      "B": "广义相对论",
+      "C": "电动力学",
+      "D": "狭义相对论"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 1557,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=42",
+    "sourceLabel": "Word核对副本第 42 页 · 多普勒效应原第 1 题",
+    "sourcePages": [
+      42
+    ],
+    "explain": "选 B，广义相对论。宇宙学最基本的理论依据是广义相对论；狭义相对论、量子力学、电动力学都不是这一“最基本依据”的选项。"
+  },
+  {
     "id": "physics-full-337",
     "chapter": "多普勒效应",
     "type": "single",
-    "stem": "宇宙学原理认为:宇宙介质在大尺度下分布是（ ）。",
+    "stem": "宇宙学原理认为:宇宙介质在大尺度下分布是（）。",
     "options": {
       "A": "随机的",
       "B": "仅局部均匀",
@@ -5977,7 +7573,7 @@
     "id": "physics-full-338",
     "chapter": "多普勒效应",
     "type": "single",
-    "stem": "哈勃发现星系对银河中心的退行速度与距离的比例关系是（ ）。",
+    "stem": "哈勃发现星系对银河中心的退行速度与距离的比例关系是（）。",
     "options": {
       "A": "平方反比",
       "B": "立方反比",
@@ -6042,7 +7638,7 @@
     "id": "physics-full-341",
     "chapter": "宇宙微波背景辐射",
     "type": "single",
-    "stem": "微波背景的辐射量大约为（ ）K。",
+    "stem": "微波背景的辐射量大约为（）K。",
     "options": {
       "A": "K",
       "B": "30K",
@@ -6066,7 +7662,7 @@
     "id": "physics-full-342",
     "chapter": "宇宙微波背景辐射",
     "type": "single",
-    "stem": "（ ）才是微波背景的辐射来源。",
+    "stem": "（）才是微波背景的辐射来源。",
     "options": {
       "A": "恒星发光时",
       "B": "星云聚集成星体时",
@@ -6089,7 +7685,7 @@
     "id": "physics-full-343",
     "chapter": "宇宙微波背景辐射",
     "type": "single",
-    "stem": "宇宙膨胀时温度的变化会（ ）。",
+    "stem": "宇宙膨胀时温度的变化会（）。",
     "options": {
       "A": "不变",
       "B": "降低",
@@ -6108,6 +7704,27 @@
       43
     ],
     "explain": "选 B，降低。宇宙膨胀时，光子的波长被拉长，对应的温度会降低。"
+  },
+  {
+    "id": "physics-full-344",
+    "chapter": "宇宙微波背景辐射",
+    "type": "judge",
+    "stem": "宇宙微波背景辐射是一种遍布宇宙的电磁辐射",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 4,
+    "sourceLine": 1598,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=43",
+    "sourceLabel": "Word核对副本第 43 页 · 宇宙微波背景辐射原第 4 题",
+    "sourcePages": [
+      43
+    ],
+    "explain": "正确。宇宙微波背景辐射是一种遍布全宇宙的电磁辐射。"
   },
   {
     "id": "physics-full-345",
@@ -6134,7 +7751,7 @@
     "id": "physics-full-346",
     "chapter": "宇宙的起源",
     "type": "single",
-    "stem": "化学反应的能量量级是（ ）。",
+    "stem": "化学反应的能量量级是（）。",
     "options": {
       "A": "MeV",
       "B": "GeV",
@@ -6154,10 +7771,33 @@
     "explain": "选 D，eV。化学反应的能量量级是电子伏特（eV）；核反应才是MeV，高能物理常用GeV、TeV，不要记混。"
   },
   {
+    "id": "physics-full-347",
+    "chapter": "宇宙的起源",
+    "type": "single",
+    "stem": "当温度下降后，高能光子都处在（）分布的高频尾巴。",
+    "options": {
+      "A": "麦克斯韦",
+      "B": "玻色",
+      "C": "普朗克",
+      "D": "玻尔兹曼"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 1609,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=43",
+    "sourceLabel": "Word核对副本第 43 页 · 宇宙的起源原第 2 题",
+    "sourcePages": [
+      43
+    ],
+    "explain": "选 C，普朗克。温度下降后，高能光子处在普朗克分布的高频尾巴；不要记成麦克斯韦、玻色或玻尔兹曼分布。"
+  },
+  {
     "id": "physics-full-348",
     "chapter": "宇宙的起源",
     "type": "single",
-    "stem": "在气体中，电子与质子通过热碰撞后结合成氢原子，再释放出了（ ）。",
+    "stem": "在气体中，电子与质子通过热碰撞后结合成氢原子，再释放出了（）。",
     "options": {
       "A": "夸克",
       "B": "光子",
@@ -6219,10 +7859,33 @@
     "explain": "错误。爱因斯坦最初引入宇宙学常数，是为了得到一个静态宇宙，并不是一开始就认为宇宙在加速膨胀。"
   },
   {
+    "id": "physics-full-351",
+    "chapter": "星体的起源",
+    "type": "single",
+    "stem": "（）是可以发光的星体。",
+    "options": {
+      "A": "彗星",
+      "B": "恒星",
+      "C": "卫星",
+      "D": "行星"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 1626,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=43",
+    "sourceLabel": "Word核对副本第 43 页 · 星体的起源原第 1 题",
+    "sourcePages": [
+      43
+    ],
+    "explain": "选 B，恒星。能够自己发光的星体是恒星；行星、卫星、彗星都只是反射或散射光，本身不靠核反应发光。"
+  },
+  {
     "id": "physics-full-352",
     "chapter": "星体的起源",
     "type": "single",
-    "stem": "星际尘埃依靠（ ）相互作用聚集。",
+    "stem": "星际尘埃依靠（）相互作用聚集。",
     "options": {
       "A": "引力相互作用",
       "B": "电磁相互作用",
@@ -6245,7 +7908,7 @@
     "id": "physics-full-353",
     "chapter": "星体的起源",
     "type": "single",
-    "stem": "微波背景辐射的四极各向异性支持的理论是（ ）。",
+    "stem": "微波背景辐射的四极各向异性支持的理论是（）。",
     "options": {
       "A": "宇宙加速膨胀",
       "B": "稳恒宇宙",
@@ -6307,10 +7970,33 @@
     "explain": "正确。多极各向异性预示着宇宙介质不会是完全均匀的，而是存在起伏。"
   },
   {
+    "id": "physics-full-356",
+    "chapter": "正反物质不对称性",
+    "type": "single",
+    "stem": "反粒子是（）预言的。",
+    "options": {
+      "A": "爱因斯坦",
+      "B": "薛定谔",
+      "C": "狄拉克",
+      "D": "费米"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 1,
+    "sourceLine": 1649,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=44",
+    "sourceLabel": "Word核对副本第 44 页 · 正反物质不对称性原第 1 题",
+    "sourcePages": [
+      44
+    ],
+    "explain": "选 C，狄拉克。反粒子是狄拉克预言的；不是爱因斯坦、薛定谔或费米。"
+  },
+  {
     "id": "physics-full-357",
     "chapter": "正反物质不对称性",
     "type": "single",
-    "stem": "CPT不包括（ ）。",
+    "stem": "CPT不包括（）。",
     "options": {
       "A": "电荷",
       "B": "宇称",
@@ -6333,7 +8019,7 @@
     "id": "physics-full-358",
     "chapter": "正反物质不对称性",
     "type": "single",
-    "stem": "大爆炸理论预言中子数与（ ）数之比为1:7。",
+    "stem": "大爆炸理论预言中子数与（）数之比为1:7。",
     "options": {
       "A": "质子",
       "B": "电子",
@@ -6398,7 +8084,7 @@
     "id": "physics-full-361",
     "chapter": "暗物质与暗能量",
     "type": "single",
-    "stem": "暗物质一定参与（ ）。",
+    "stem": "暗物质一定参与（）。",
     "options": {
       "A": "电磁相互作用",
       "B": "强相互作用",
@@ -6418,10 +8104,33 @@
     "explain": "选 D，引力相互作用。暗物质几乎不参与电磁相互作用和强相互作用，但它一定参与引力相互作用，否则无法解释星系旋转曲线等引力效应。"
   },
   {
+    "id": "physics-full-362",
+    "chapter": "暗物质与暗能量",
+    "type": "single",
+    "stem": "以下哪个实验室目标之一是探测暗物质？（）",
+    "options": {
+      "A": "大亚湾实验室",
+      "B": "锦屏山地下实验室",
+      "C": "北京正负电子对撞实验",
+      "D": "美国费米实验室"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 1678,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=45",
+    "sourceLabel": "Word核对副本第 45 页 · 暗物质与暗能量原第 2 题",
+    "sourcePages": [
+      45
+    ],
+    "explain": "选 B，锦屏山地下实验室。中国锦屏地下实验室的目标之一就是探测暗物质；大亚湾做的是中微子，北京正负电子对撞是对撞机实验，都不要选。"
+  },
+  {
     "id": "physics-full-363",
     "chapter": "暗物质与暗能量",
     "type": "single",
-    "stem": "根据目前理论，（）使得宇宙加速膨胀。",
+    "stem": "根据目前理论，（）使得宇宙加速膨胀。（）",
     "options": {
       "A": "暗能量",
       "B": "暗物质",
@@ -6486,7 +8195,7 @@
     "id": "physics-full-366",
     "chapter": "什么是物理学",
     "type": "single",
-    "stem": "热力学第一定律的别称是（ ）。",
+    "stem": "热力学第一定律的别称是（）。",
     "options": {
       "A": "能量守恒定律",
       "B": "熵增定律",
@@ -6509,7 +8218,7 @@
     "id": "physics-full-367",
     "chapter": "什么是物理学",
     "type": "single",
-    "stem": "2005年被定为世界物理年是为了纪念科学家（ ）。",
+    "stem": "2005年被定为世界物理年是为了纪念科学家（）。",
     "options": {
       "A": "麦克斯韦",
       "B": "爱因斯坦",
@@ -6532,7 +8241,7 @@
     "id": "physics-full-368",
     "chapter": "什么是物理学",
     "type": "single",
-    "stem": "相对论的提出者是（ ）。",
+    "stem": "相对论的提出者是（）。",
     "options": {
       "A": "艾萨克牛顿",
       "B": "玻尔兹曼",
@@ -6573,10 +8282,31 @@
     "explain": "正确。这是常用的表述：科学没有国界，但科学家有自己的祖国。"
   },
   {
+    "id": "physics-full-370",
+    "chapter": "什么是物理学",
+    "type": "judge",
+    "stem": "如果中子和质子一样重，或电子再重上5倍，那宇宙现状不会发生变化。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1715,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=46",
+    "sourceLabel": "Word核对副本第 46 页 · 什么是物理学原第 5 题",
+    "sourcePages": [
+      46
+    ],
+    "explain": "错误。如果中子和质子一样重，或电子再重上5倍，宇宙的核合成和原子结构都会改变，现状不会照旧。"
+  },
+  {
     "id": "physics-full-371",
     "chapter": "物理从实验中来",
     "type": "single",
-    "stem": "F=ma是牛顿第（ ）定律公式。",
+    "stem": "F=ma是牛顿第（）定律公式。",
     "options": {
       "A": "1",
       "B": "2",
@@ -6599,7 +8329,7 @@
     "id": "physics-full-372",
     "chapter": "物理从实验中来",
     "type": "single",
-    "stem": "（ ）第一次提出了能量是量子化。",
+    "stem": "（）第一次提出了能量是量子化。",
     "options": {
       "A": "玻尔兹曼",
       "B": "玻恩",
@@ -6622,7 +8352,7 @@
     "id": "physics-full-373",
     "chapter": "物理从实验中来",
     "type": "single",
-    "stem": "第谷和开普勒的关系是（ ）。",
+    "stem": "第谷和开普勒的关系是（）。",
     "options": {
       "A": "师徒",
       "B": "兄弟",
@@ -6663,10 +8393,31 @@
     "explain": "正确。广义相对论得到了光在太阳附近弯曲、引力透镜、水星近日点进动等实验和观测的支持。"
   },
   {
+    "id": "physics-full-375",
+    "chapter": "物理从实验中来",
+    "type": "judge",
+    "stem": "麦克斯韦方程组的解确认了光就是电磁波的一种。",
+    "options": {
+      "A": "正确",
+      "B": "错误"
+    },
+    "answer": [
+      "A"
+    ],
+    "sourceNumber": 5,
+    "sourceLine": 1738,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=46",
+    "sourceLabel": "Word核对副本第 46 页 · 物理从实验中来原第 5 题",
+    "sourcePages": [
+      46
+    ],
+    "explain": "正确。麦克斯韦方程组的波动解表明，光就是电磁波的一种。"
+  },
+  {
     "id": "physics-full-376",
     "chapter": "物理与数学",
     "type": "single",
-    "stem": "科学家（ ）著有《论动体的电动力学》一文。",
+    "stem": "科学家（）著有《论动体的电动力学》一文。",
     "options": {
       "A": "爱因斯坦",
       "B": "康普顿",
@@ -6689,7 +8440,7 @@
     "id": "physics-full-377",
     "chapter": "物理与数学",
     "type": "single",
-    "stem": "《自然哲学的数学原理》是（ ）的著作。",
+    "stem": "《自然哲学的数学原理》是（）的著作。",
     "options": {
       "A": "惠更斯",
       "B": "老子",
@@ -6709,10 +8460,33 @@
     "explain": "选 C，牛顿。《自然哲学的数学原理》是牛顿的著作，不是惠更斯、老子或德布罗意的。"
   },
   {
+    "id": "physics-full-378",
+    "chapter": "物理与数学",
+    "type": "single",
+    "stem": "矩阵力学的奠基人是（）。",
+    "options": {
+      "A": "南部荣一郎",
+      "B": "薛定谔",
+      "C": "海森堡",
+      "D": "汤川秀树"
+    },
+    "answer": [
+      "C"
+    ],
+    "sourceNumber": 3,
+    "sourceLine": 1753,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=47",
+    "sourceLabel": "Word核对副本第 47 页 · 物理与数学原第 3 题",
+    "sourcePages": [
+      47
+    ],
+    "explain": "选 C，海森堡。矩阵力学的奠基人是海森堡；薛定谔对应的是波动力学，南部荣一郎、汤川秀树都不是。"
+  },
+  {
     "id": "physics-full-379",
     "chapter": "物理与数学",
     "type": "single",
-    "stem": "杨-米尔斯理论中的杨指的是科学家（ ）。",
+    "stem": "杨-米尔斯理论中的杨指的是科学家（）。",
     "options": {
       "A": "杨万里",
       "B": "杨玉环",
@@ -6756,7 +8530,7 @@
     "id": "physics-full-381",
     "chapter": "模型的应用",
     "type": "single",
-    "stem": "“好”的模型是指（ ）。",
+    "stem": "“好”的模型是指（）。",
     "options": {
       "A": "大人物做出的",
       "B": "符合实验观测结果",
@@ -6776,10 +8550,34 @@
     "explain": "选 B，符合实验观测结果。“好”的模型指的是能够符合实验观测结果的模型，不是看是不是大人物做出的，也不是只看漂亮或逻辑清楚。"
   },
   {
+    "id": "physics-full-382",
+    "chapter": "模型的应用",
+    "type": "single",
+    "stem": "模型中存在若干参数是需要用实验来确定的，这是否降低模型的使用意义？（）",
+    "options": {
+      "A": "和问题无关",
+      "B": "是",
+      "C": "不是",
+      "D": "说不清"
+    },
+    "answer": [
+      "B"
+    ],
+    "sourceNumber": 2,
+    "sourceLine": 1774,
+    "sourceDocument": "sources/physics/full-20261024.pdf#page=47",
+    "sourceLabel": "Word核对副本第 47 页 · 模型的应用原第 2 题",
+    "sourcePages": [
+      47
+    ],
+    "note": "原文将B“是”标作参考答案；此处按原标记收录，请结合原题语境核对。",
+    "explain": "选 B，是。按题库，模型中有些参数需要由实验确定，这一点被记作会降低模型的使用意义；不要改选 C「不是」。"
+  },
+  {
     "id": "physics-full-383",
     "chapter": "模型的应用",
     "type": "single",
-    "stem": "原子核的衰变是时间的指数函数，一个水柱底下开孔放水，水柱下降的规律也满足时间的指数函数关系。这两个完全不同的物理现象是否可以用同一个模型来描述？",
+    "stem": "原子核的衰变是时间的指数函数，一个水柱底下开孔放水，水柱下降的规律也满足时间的指数函数关系。这两个完全不同的物理现象是否可以用同一个模型来描述？（）",
     "options": {
       "A": "说不清",
       "B": "需要讨论",
@@ -6844,7 +8642,7 @@
     "id": "physics-full-386",
     "chapter": "物理中国梦",
     "type": "single",
-    "stem": "“钱学森之问”的根本原因是因为（ ）。",
+    "stem": "“钱学森之问”的根本原因是因为（）。",
     "options": {
       "A": "说不清",
       "B": "各种复杂的社会原因",
@@ -6904,55 +8702,5 @@
       48
     ],
     "explain": "正确。按课程的观点：有希望我们在21世纪实现物理的中国梦。"
-  },
-  {
-    "id": "physics-full-177",
-    "chapter": "磁的现象",
-    "type": "multiple",
-    "stem": "以下说法正确的是（ ）。",
-    "options": {
-      "A": "没有磁单极存在",
-      "B": "地球本身是一个巨大的磁铁",
-      "C": "磁力线和电力线是完全一样的",
-      "D": "指南针的原理就是磁场中永远是从北极指向南极"
-    },
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "sourceNumber": 2,
-    "sourceLine": 829,
-    "sourceDocument": "sources/physics/full-20261024.pdf#page=23",
-    "sourceLabel": "Word核对副本第 23 页 · 磁的现象原第 2 题",
-    "sourcePages": [
-      23
-    ],
-    "explain": "选 A、B、D。没有磁单极存在、地球本身是一个巨大的磁铁、指南针沿磁场由北极指向南极，这三项按题库正确；磁力线和电力线并不完全一样（磁力线闭合、无磁单极），不要选C。"
-  },
-  {
-    "id": "physics-full-183",
-    "chapter": "安培定律",
-    "type": "multiple",
-    "stem": "以下说法正确的是（ ）。",
-    "options": {
-      "A": "一个通有电流线圈在磁场中会受到一个力矩",
-      "B": "电和磁的联系首先由安培定律给出",
-      "C": "运动的电荷产生磁场",
-      "D": "电荷只在电场中受力，在任何情况下在也不会受磁场中的力"
-    },
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "sourceNumber": 2,
-    "sourceLine": 855,
-    "sourceDocument": "sources/physics/full-20261024.pdf#page=23",
-    "sourceLabel": "Word核对副本第 23 页 · 安培定律原第 2 题",
-    "sourcePages": [
-      23
-    ],
-    "explain": "选 A、B、C。通电线圈在磁场中会受到力矩，电和磁的联系首先由安培定律给出，运动的电荷产生磁场，这三项正确；运动电荷在磁场中会受洛伦兹力，D说“任何情况下都不受磁场力”是错的，不要选D。"
   }
 ]
